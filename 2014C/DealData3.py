@@ -1,3 +1,8 @@
+import math
+import numpy as np
+import Queue
+import re
+
 import numpy as np 
 import re
 import math
@@ -37,7 +42,7 @@ class Node():
 		self.D = D
 		self.C = C
 		self.L = L
-		self._L = 511.0/L
+		self._L = 70.0/L
 
 	def set_num_of_coop(self,num_of_coop):
 		self.num_of_coop = num_of_coop
@@ -75,24 +80,20 @@ class DealData():
 		self.maxD = 0
 
 	def is_match(self,name):
-		if self.pattern.search(name):
+		if name[0] == '-':
 			return True
 		return False
 
 	def deal_name(self,name):
-		ret = name
-		match = self.pattern.search(name)
-		if match:
-			ret = ret[0:match.start()]
-		ret = ret.strip()
+		str = name.split(':')
+		ret = str[0][1:]		
 		ret = ret.upper()
 		if (ret == ''):
 			print "wrong", name
 		return ret
 
 	def get_time(self,name):
-		match = self.pattern.search(name)
-		return int(name[match.start():match.end()])
+		return self.num_of_point
 
 	def add_id(self,name):
 		self.ID[name] = self.num_of_point
@@ -104,13 +105,6 @@ class DealData():
 		if self.ID.get(name) == None:
 			return -1
 		return self.ID[name]
-
-	def get_name_num(self,name):
-		tmp = name.split(':')
-		ret = 1
-		if len(tmp) == 2:
-			ret = int(tmp[1])
-		return ret
 
 	def get_num_of_point(self):
 		f = open(self.filename)
@@ -124,21 +118,24 @@ class DealData():
 				if line.strip() == '':
 					continue
 				name = self.deal_name(line)
-				u = self.add_id(name)
-				self.node.append(Node(name,u,self.get_name_num(line),self.get_time(line)))
+				u = self.get_id(name)
+				if u == -1:
+					u = self.add_id(name)
+					self.node.append(Node(name,u,1,self.get_time(line)))
+				self.node[u].num += 1
+
 		num_of_coop = [0 for i in range(self.num_of_point)]
+		u = -1
 		for line in lines:
 			if line == '':
 				continue
 			#print line
 			if self.is_match(line):
 				name = self.deal_name(line)
-				u = self.get_id(name)
-			else:
-				name = self.deal_name(line)
 				v = self.get_id(name)
-				if v != -1:
+				if u != -1:
 					self.edge.append([u,v])
+				u = v
 				num_of_coop[u] += 1
 		for i in range(self.num_of_point):
 			self.node[i].set_num_of_coop(num_of_coop[i])
@@ -203,7 +200,7 @@ class DealData():
 			self.maxD = max(vis)
 		for i in range(self.num_of_point):
 			if vis[i] == 0 and i != p:
-				vis[i] = 11
+				vis[i] = 6
 		return sum(vis)
 
 	def get_L(self):
@@ -289,8 +286,8 @@ class DealData():
 		for i in range(self.num_of_point):
 			topmat[i][0] = self.node[i].D
 			topmat[i][1] = self.node[i].C
-			topmat[i][2] = math.log(self.node[i]._L)
-			#topmat[i][3] = math.log(self.node[i].num+1000000000)
+			topmat[i][2] = self.node[i]._L
+			#topmat[i][3] = self.node[i].num
 		s = sum(topmat)
 		print s
 		for i in range(self.num_of_point):
@@ -333,22 +330,21 @@ class DealData():
 
 
 	def cal_topsis2(self):
-		topmat = np.array([[0 for i in range(4)] for j in range(self.num_of_point)], dtype = np.float)
+		topmat = np.array([[0 for i in range(3)] for j in range(self.num_of_point)], dtype = np.float)
 		for i in range(self.num_of_point):
-			topmat[i][0] = 2000/self.node[i].time
+			topmat[i][0] = 100/self.node[i].time
 			topmat[i][1] = self.node[i].num_of_coop
 			topmat[i][2] = self.node[i].infl
-			topmat[i][3] = self.node[i].D
 		s = sum(topmat)
 		print s
 		for i in range(self.num_of_point):
-			for j in range(4):
+			for j in range(3):
 				topmat[i][j] = topmat[i][j] / s[j];
 
-		good = np.array([0,0,0,0], dtype = np.float)
-		bad = np.array([1,1,1,1], dtype = np.float)
+		good = np.array([0,0,0], dtype = np.float)
+		bad = np.array([1,1,1], dtype = np.float)
 		for i in range(self.num_of_point):
-			for j in range(4):
+			for j in range(3):
 				if topmat[i][j] > good[j]:
 					good[j] = topmat[i][j]
 				if topmat[i][j] < bad[j]:
@@ -360,8 +356,8 @@ class DealData():
 		Lgood = [0 for i in range(self.num_of_point)]
 		Lbad = [0 for i in range(self.num_of_point)]
 		for i in range(self.num_of_point):
-			Lgood[i] = self.cal_dis4(good,topmat[i])
-			Lbad[i] = self.cal_dis4(bad,topmat[i])
+			Lgood[i] = self.cal_dis(good,topmat[i])
+			Lbad[i] = self.cal_dis(bad,topmat[i])
 		for i in range(self.num_of_point):
 			self.node[i].T2 = Lbad[i] / (Lbad[i] + Lgood[i])
 
@@ -369,7 +365,7 @@ class DealData():
 
 
 
-A = DealData('Data.in')
+A = DealData('bh.utf8')
 A.get_num_of_point()
 A.get_matrix()
 #print A.mat
@@ -381,6 +377,6 @@ A.update_node_list()
 A.cal_topsis()
 A.cal_infl()
 A.cal_topsis2()
-A.output_node_list('Data.out')
+A.output_node_list('_bh_Data3.out')
 
 
