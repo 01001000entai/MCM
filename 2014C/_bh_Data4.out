@@ -1,0 +1,165 @@
+num_of_point: 82 D:8
+name: ROBERT
+id: 0	num: 9	D: 12	C: 0.227273	L: 281.000000	coop:  22	years: 1	infl: 0.624842	Topsis: 0.476433 Topsis2: 0.788353
+name: MALCOLM
+id: 1	num: 8	D: 6	C: 0.400000	L: 276.000000	coop:  5	years: 2	infl: 0.460825	Topsis: 0.496894 Topsis2: 0.290707
+name: JOHN
+id: 2	num: 0	D: 2	C: 0.000000	L: 261.000000	coop:  2	years: 3	infl: 0.583141	Topsis: 0.562984 Topsis2: 0.122623
+name: DEAD PAGE BOY
+id: 3	num: 0	D: 1	C: 0.000000	L: 341.000000	coop:  1	years: 4	infl: 0.496894	Topsis: 0.277695 Topsis2: 0.052244
+name: MACCLANNOUGH
+id: 4	num: 6	D: 4	C: 0.333333	L: 256.000000	coop:  5	years: 5	infl: 0.609556	Topsis: 0.586735 Topsis2: 0.256356
+name: CAMPBELL
+id: 5	num: 5	D: 15	C: 0.057143	L: 192.000000	coop:  16	years: 6	infl: 0.634074	Topsis: 1.000000 Topsis2: 1.000000
+name: CAMPBELL (AND OTHERS)
+id: 6	num: 0	D: 2	C: 1.000000	L: 312.000000	coop:  1	years: 7	infl: 0.541815	Topsis: 0.364207 Topsis2: 0.113933
+name: HAMISH
+id: 7	num: 26	D: 13	C: 0.256410	L: 240.000000	coop:  20	years: 8	infl: 0.693140	Topsis: 0.669388 Topsis2: 0.947400
+name: BOYS
+id: 8	num: 1	D: 0	C: 0.000000	L: 486.000000	coop:  0	years: 9	infl: 0.000000	Topsis: 0.000000 Topsis2: 0.000000
+name: PRIEST
+id: 9	num: 0	D: 2	C: 0.000000	L: 254.000000	coop:  1	years: 10	infl: 0.772314	Topsis: 0.596497 Topsis2: 0.162403
+name: EVERYONE
+id: 10	num: 1	D: 3	C: 0.000000	L: 265.000000	coop:  1	years: 11	infl: 0.564739	Topsis: 0.544628 Topsis2: 0.178130
+name: ARGYLE
+id: 11	num: 3	D: 3	C: 0.000000	L: 303.000000	coop:  1	years: 12	infl: 0.417150	Topsis: 0.394423 Topsis2: 0.131578
+name: ARGYLE&WILLIAM
+id: 12	num: 0	D: 2	C: 0.000000	L: 379.000000	coop:  1	years: 13	infl: 0.217932	Topsis: 0.184373 Topsis2: 0.045827
+name: DEAD MALCOLM
+id: 13	num: 0	D: 1	C: 0.000000	L: 457.000000	coop:  1	years: 14	infl: 0.184373	Topsis: 0.041442 Topsis2: 0.019385
+name: NARRATOR
+id: 14	num: 0	D: 4	C: 0.166667	L: 270.000000	coop:  3	years: 15	infl: 0.536606	Topsis: 0.522449 Topsis2: 0.225676
+name: PRINCE
+id: 15	num: 0	D: 8	C: 0.464286	L: 312.000000	coop:  15	years: 16	infl: 0.577345	Topsis: 0.364207 Topsis2: 0.485617
+name: LONGSHANKS
+id: 16	num: 3	D: 14	C: 0.109890	L: 219.000000	coop:  31	years: 17	infl: 0.539958	Topsis: 0.796198 Topsis2: 0.794799
+name: ISABELLA
+id: 17	num: 15	D: 9	C: 0.138889	L: 215.000000	coop:  19	years: 18	infl: 0.612398	Topsis: 0.823161 Topsis2: 0.579489
+name: ADVISOR
+id: 18	num: 0	D: 1	C: 0.000000	L: 297.000000	coop:  1	years: 19	infl: 0.796198	Topsis: 0.415584 Topsis2: 0.083712
+name: ADVISER
+id: 19	num: 0	D: 1	C: 0.000000	L: 297.000000	coop:  1	years: 20	infl: 0.796198	Topsis: 0.415584 Topsis2: 0.083712
+name: ROBERT THE BRUCE
+id: 20	num: 0	D: 3	C: 0.000000	L: 255.000000	coop:  3	years: 21	infl: 0.637291	Topsis: 0.591597 Topsis2: 0.201015
+name: CRAIG
+id: 21	num: 6	D: 15	C: 0.228571	L: 234.000000	coop:  18	years: 22	infl: 0.574550	Topsis: 0.703297 Topsis2: 0.906125
+name: MAN
+id: 22	num: 0	D: 3	C: 0.333333	L: 237.000000	coop:  2	years: 23	infl: 0.753661	Topsis: 0.686128 Topsis2: 0.237720
+name: GIRL
+id: 23	num: 1	D: 0	C: 0.000000	L: 486.000000	coop:  0	years: 24	infl: 0.000000	Topsis: 0.000000 Topsis2: 0.000000
+name: LORD BOTTOMS
+id: 24	num: 1	D: 3	C: 0.000000	L: 308.000000	coop:  3	years: 25	infl: 0.468818	Topsis: 0.377418 Topsis2: 0.147875
+name: SCOTTISH MAN
+id: 25	num: 0	D: 3	C: 0.333333	L: 239.000000	coop:  2	years: 26	infl: 0.682269	Topsis: 0.674921 Topsis2: 0.215202
+name: MRS. MACCLANNOUGH
+id: 26	num: 3	D: 1	C: 0.000000	L: 331.000000	coop:  1	years: 27	infl: 0.577124	Topsis: 0.305814 Topsis2: 0.060679
+name: MURRON
+id: 27	num: 24	D: 7	C: 0.380952	L: 258.000000	coop:  6	years: 28	infl: 0.490184	Topsis: 0.577124 Topsis2: 0.360767
+name: SMYTHE
+id: 28	num: 2	D: 3	C: 0.333333	L: 325.000000	coop:  3	years: 29	infl: 0.347016	Topsis: 0.323516 Topsis2: 0.109456
+name: SOLDIER
+id: 29	num: 0	D: 4	C: 0.333333	L: 325.000000	coop:  2	years: 30	infl: 0.436043	Topsis: 0.323516 Topsis2: 0.183382
+name: SOLDIER A
+id: 30	num: 0	D: 2	C: 0.000000	L: 400.000000	coop:  1	years: 31	infl: 0.229009	Topsis: 0.140408 Topsis2: 0.048156
+name: -SOLDIER B
+id: 31	num: 0	D: 2	C: 0.000000	L: 403.000000	coop:  1	years: 32	infl: 0.227496	Topsis: 0.134501 Topsis2: 0.047838
+name: SOLDIER C
+id: 32	num: 0	D: 2	C: 0.000000	L: 328.000000	coop:  1	years: 33	infl: 0.355813	Topsis: 0.314584 Topsis2: 0.074820
+name: MAGISTRATE
+id: 33	num: 1	D: 3	C: 0.333333	L: 264.000000	coop:  1	years: 34	infl: 0.539294	Topsis: 0.549165 Topsis2: 0.170104
+name: WATCHMAN
+id: 34	num: 0	D: 2	C: 1.000000	L: 335.000000	coop:  1	years: 35	infl: 0.436341	Topsis: 0.294365 Topsis2: 0.091754
+name: CROWD OF SOCTSMAN
+id: 35	num: 0	D: 1	C: 0.000000	L: 270.000000	coop:  1	years: 36	infl: 1.000000	Topsis: 0.522449 Topsis2: 0.105140
+name: WATCH GUARD
+id: 36	num: 0	D: 2	C: 0.000000	L: 264.000000	coop:  1	years: 37	infl: 0.776868	Topsis: 0.549165 Topsis2: 0.163360
+name: MORRISON
+id: 37	num: 1	D: 4	C: 0.000000	L: 263.000000	coop:  4	years: 38	infl: 0.468417	Topsis: 0.553736 Topsis2: 0.196998
+name: MACGREGORS
+id: 38	num: 1	D: 2	C: 0.000000	L: 266.000000	coop:  1	years: 39	infl: 0.642978	Topsis: 0.540126 Topsis2: 0.135206
+name: WILLIAM&COMPELL
+id: 39	num: 0	D: 2	C: 0.000000	L: 338.000000	coop:  1	years: 40	infl: 0.358961	Topsis: 0.285956 Topsis2: 0.075483
+name:  ENGLISH SOLIDER
+id: 40	num: 0	D: 2	C: 0.000000	L: 382.000000	coop:  1	years: 41	infl: 0.331687	Topsis: 0.177797 Topsis2: 0.069747
+name: NICOLETTE
+id: 41	num: 1	D: 3	C: 0.333333	L: 278.000000	coop:  5	years: 42	infl: 0.504633	Topsis: 0.488621 Topsis2: 0.159172
+name: ENGLISH SOLIDER
+id: 42	num: 0	D: 2	C: 0.000000	L: 324.000000	coop:  1	years: 43	infl: 0.490682	Topsis: 0.326531 Topsis2: 0.103181
+name: ENGLISH LEADER
+id: 43	num: 0	D: 2	C: 0.000000	L: 277.000000	coop:  1	years: 44	infl: 0.401482	Topsis: 0.492743 Topsis2: 0.084424
+name: LEPER
+id: 44	num: 0	D: 4	C: 0.166667	L: 227.000000	coop:  13	years: 45	infl: 0.597451	Topsis: 0.745123 Topsis2: 0.251265
+name: GUARD5
+id: 45	num: 0	D: 2	C: 0.000000	L: 266.000000	coop:  1	years: 46	infl: 0.637487	Topsis: 0.540126 Topsis2: 0.134051
+name: FAUDRON
+id: 46	num: 1	D: 2	C: 0.000000	L: 342.000000	coop:  2	years: 47	infl: 0.321375	Topsis: 0.274973 Topsis2: 0.067579
+name: GUARD
+id: 47	num: 0	D: 1	C: 0.000000	L: 420.000000	coop:  1	years: 48	infl: 0.274973	Topsis: 0.102624 Topsis2: 0.028911
+name: STEPHEN
+id: 48	num: 8	D: 11	C: 0.181818	L: 195.000000	coop:  12	years: 49	infl: 0.705793	Topsis: 0.974568 Topsis2: 0.816280
+name: RUNNER
+id: 49	num: 1	D: 1	C: 0.000000	L: 341.000000	coop:  0	years: 50	infl: 0.553736	Topsis: 0.277695 Topsis2: 0.058220
+name: MORNAY
+id: 50	num: 5	D: 11	C: 0.181818	L: 245.000000	coop:  11	years: 51	infl: 0.523955	Topsis: 0.642399 Topsis2: 0.605976
+name: HORSEMAN
+id: 51	num: 0	D: 2	C: 1.000000	L: 288.000000	coop:  3	years: 52	infl: 0.672848	Topsis: 0.448980 Topsis2: 0.141487
+name: LOCHLAN
+id: 52	num: 2	D: 4	C: 0.666667	L: 257.000000	coop:  4	years: 53	infl: 0.663891	Topsis: 0.581911 Topsis2: 0.279207
+name: YOUNG SOLIDER
+id: 53	num: 1	D: 4	C: 0.666667	L: 286.000000	coop:  4	years: 54	infl: 0.627379	Topsis: 0.456686 Topsis2: 0.263851
+name: VETERAN SOLIDER
+id: 54	num: 2	D: 4	C: 0.666667	L: 257.000000	coop:  3	years: 55	infl: 0.663891	Topsis: 0.581911 Topsis2: 0.279207
+name: SCOTS
+id: 55	num: 1	D: 1	C: 0.000000	L: 363.000000	coop:  0	years: 56	infl: 0.460580	Topsis: 0.221285 Topsis2: 0.048425
+name: ENGLISH GENERAL
+id: 56	num: 3	D: 4	C: 0.333333	L: 285.000000	coop:  5	years: 57	infl: 0.549723	Topsis: 0.460580 Topsis2: 0.231192
+name: CHELTHAM
+id: 57	num: 1	D: 4	C: 0.333333	L: 247.000000	coop:  7	years: 58	infl: 0.686734	Topsis: 0.631909 Topsis2: 0.288813
+name: BALLIOLS SUPPORTER
+id: 58	num: 1	D: 2	C: 1.000000	L: 288.000000	coop:  3	years: 59	infl: 0.672848	Topsis: 0.448980 Topsis2: 0.141487
+name: ROYAL GOVERNOR OF YORK
+id: 59	num: 1	D: 1	C: 0.000000	L: 368.000000	coop:  3	years: 60	infl: 0.441379	Topsis: 0.209406 Topsis2: 0.046407
+name: SOLIDER
+id: 60	num: 1	D: 4	C: 0.500000	L: 290.000000	coop:  5	years: 61	infl: 0.451857	Topsis: 0.441379 Topsis2: 0.190034
+name: PHILIP
+id: 61	num: 0	D: 3	C: 1.000000	L: 291.000000	coop:  5	years: 62	infl: 0.533928	Topsis: 0.437618 Topsis2: 0.168412
+name: HAMILTON
+id: 62	num: 1	D: 2	C: 1.000000	L: 271.000000	coop:  4	years: 63	infl: 0.809679	Topsis: 0.518111 Topsis2: 0.170260
+name: NOBLE
+id: 63	num: 0	D: 4	C: 0.333333	L: 246.000000	coop:  2	years: 64	infl: 0.664760	Topsis: 0.637133 Topsis2: 0.279572
+name: LEPEL
+id: 64	num: 0	D: 1	C: 0.000000	L: 281.000000	coop:  1	years: 65	infl: 0.476433	Topsis: 0.476433 Topsis2: 0.050092
+name: MACGREGOR
+id: 65	num: 0	D: 2	C: 0.000000	L: 264.000000	coop:  1	years: 66	infl: 0.707255	Topsis: 0.549165 Topsis2: 0.148722
+name: GENERAL
+id: 66	num: 1	D: 4	C: 0.333333	L: 239.000000	coop:  6	years: 67	infl: 0.675971	Topsis: 0.674921 Topsis2: 0.284287
+name: ENGLISH COMMANDER
+id: 67	num: 0	D: 2	C: 1.000000	L: 286.000000	coop:  1	years: 68	infl: 0.735559	Topsis: 0.456686 Topsis2: 0.154674
+name: MORNAY'S MEN
+id: 68	num: 0	D: 2	C: 0.000000	L: 321.000000	coop:  1	years: 69	infl: 0.540009	Topsis: 0.335686 Topsis2: 0.113553
+name: SCOTISH NOBLE
+id: 69	num: 0	D: 2	C: 0.000000	L: 291.000000	coop:  1	years: 70	infl: 0.519491	Topsis: 0.437618 Topsis2: 0.109239
+name: COMMON SCOT A
+id: 70	num: 0	D: 2	C: 0.000000	L: 320.000000	coop:  1	years: 71	infl: 0.441594	Topsis: 0.338776 Topsis2: 0.092858
+name: COMMON SCOT B
+id: 71	num: 0	D: 2	C: 0.000000	L: 353.000000	coop:  1	years: 72	infl: 0.384474	Topsis: 0.246054 Topsis2: 0.080847
+name: COMMON SCOT C
+id: 72	num: 0	D: 2	C: 0.000000	L: 293.000000	coop:  1	years: 73	infl: 0.521126	Topsis: 0.430173 Topsis2: 0.109583
+name: ASSASSIN
+id: 73	num: 0	D: 1	C: 0.000000	L: 297.000000	coop:  1	years: 74	infl: 0.796198	Topsis: 0.415584 Topsis2: 0.083712
+name: GUARD4
+id: 74	num: 0	D: 2	C: 1.000000	L: 261.000000	coop:  1	years: 75	infl: 0.589865	Topsis: 0.562984 Topsis2: 0.124037
+name: EXECUTIONER
+id: 75	num: 2	D: 6	C: 0.133333	L: 241.000000	coop:  4	years: 76	infl: 0.586072	Topsis: 0.663900 Topsis2: 0.369719
+name: GUARD1
+id: 76	num: 0	D: 2	C: 0.000000	L: 273.000000	coop:  1	years: 77	infl: 0.743531	Topsis: 0.509531 Topsis2: 0.156350
+name: GUARD2
+id: 77	num: 0	D: 1	C: 0.000000	L: 293.000000	coop:  1	years: 78	infl: 0.823161	Topsis: 0.430173 Topsis2: 0.086547
+name: GUARD3
+id: 78	num: 0	D: 1	C: 0.000000	L: 293.000000	coop:  1	years: 79	infl: 0.823161	Topsis: 0.430173 Topsis2: 0.086547
+name: COMMON MAN
+id: 79	num: 1	D: 1	C: 0.000000	L: 319.000000	coop:  0	years: 80	infl: 0.663900	Topsis: 0.341885 Topsis2: 0.069803
+name: CROWD
+id: 80	num: 0	D: 2	C: 1.000000	L: 265.000000	coop:  2	years: 81	infl: 0.666644	Topsis: 0.544628 Topsis2: 0.140182
+name: ENGLISH NOBLE
+id: 81	num: 0	D: 2	C: 1.000000	L: 261.000000	coop:  1	years: 82	infl: 0.589865	Topsis: 0.562984 Topsis2: 0.124037

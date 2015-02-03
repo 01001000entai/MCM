@@ -2,6 +2,8 @@ import numpy as np
 import re
 import math
 import Queue
+import matplotlib.pyplot as plt
+import networkx as nx
 
 def cmpd(a,b):
 	return cmp(b.D,a.D)
@@ -73,6 +75,8 @@ class DealData():
 		self.L = list()
 		self.C = list()
 		self.maxD = 0
+		self.LL = 0
+		self.CC = 0
 
 	def is_match(self,name):
 		if self.pattern.search(name):
@@ -163,6 +167,15 @@ class DealData():
 		self.degree_dsitributed = [0 for i in range(self.num_of_point)]
 		for i in self.degree:
 			self.degree_dsitributed[i] += 1
+	
+	def draw_degree(self):
+		plt.figure(figsize=(8,4))
+		plt.plot(range(70),self.degree_dsitributed[0:70])
+
+		plt.xlabel('Degree')
+		plt.ylabel('Number')
+
+		plt.show()
 
 	def get_a_point_Ci(self,p):
 		tmp = list()
@@ -185,7 +198,8 @@ class DealData():
 		self.C = [0 for i in range(self.num_of_point)]
 		for i in range(self.num_of_point):
 			self.C[i] = self.get_a_point_Ci(i)
-		return sum(self.C) / self.num_of_point
+		self.CC = sum(self.C) / self.num_of_point
+		return self.CC
 
 	def get_a_point_Li(self,p):
 		vis = [0 for i in range(self.num_of_point)]
@@ -210,7 +224,8 @@ class DealData():
 		self.L = [0 for i in range(self.num_of_point)]
 		for i in range(self.num_of_point):
 			self.L[i] = self.get_a_point_Li(i)
-		return sum(self.L) / (2.0 * self.num_of_point * (self.num_of_point-1))
+		self.LL = sum(self.L) / self.num_of_point / (self.num_of_point-1)
+		return self.LL
 
 	def update_node_list(self):
 		for i in range(self.num_of_point):
@@ -265,7 +280,8 @@ class DealData():
 		#sort by t2
 		self.node.sort(cmpt2)
 		f = open('t2'+filename,'w')
-		f.write('num_of_point: %d D:%d\n' % (self.num_of_point,self.maxD))
+		f.write('num_of_point: %d D:%d CC: %f LL: %f\n' % (self.num_of_point,self.maxD,self.CC,self.LL))
+		
 		for i in self.node:
 		#	print i.name,' ',i.id,' ',i.num,' ',i.D,' ',i.C,' ',i.L
 			f.write(i.pri())
@@ -288,8 +304,8 @@ class DealData():
 		topmat = np.array([[0 for i in range(3)] for j in range(self.num_of_point)], dtype = np.float)
 		for i in range(self.num_of_point):
 			topmat[i][0] = self.node[i].D
-			topmat[i][1] = self.node[i].C
-			topmat[i][2] = math.log(self.node[i]._L)
+			topmat[i][1] = self.node[i].num
+			topmat[i][2] = self.node[i]._L
 			#topmat[i][3] = math.log(self.node[i].num+1000000000)
 		s = sum(topmat)
 		print s
@@ -333,22 +349,21 @@ class DealData():
 
 
 	def cal_topsis2(self):
-		topmat = np.array([[0 for i in range(4)] for j in range(self.num_of_point)], dtype = np.float)
+		topmat = np.array([[0 for i in range(3)] for j in range(self.num_of_point)], dtype = np.float)
 		for i in range(self.num_of_point):
 			topmat[i][0] = 2000/self.node[i].time
-			topmat[i][1] = self.node[i].num_of_coop
-			topmat[i][2] = self.node[i].infl
-			topmat[i][3] = self.node[i].D
+			topmat[i][1] = self.node[i].C
+			topmat[i][2] = self.node[i].infl*self.node[i].D
 		s = sum(topmat)
 		print s
 		for i in range(self.num_of_point):
-			for j in range(4):
+			for j in range(3):
 				topmat[i][j] = topmat[i][j] / s[j];
 
-		good = np.array([0,0,0,0], dtype = np.float)
-		bad = np.array([1,1,1,1], dtype = np.float)
+		good = np.array([0,0,0], dtype = np.float)
+		bad = np.array([1,1,1], dtype = np.float)
 		for i in range(self.num_of_point):
-			for j in range(4):
+			for j in range(3):
 				if topmat[i][j] > good[j]:
 					good[j] = topmat[i][j]
 				if topmat[i][j] < bad[j]:
@@ -360,12 +375,15 @@ class DealData():
 		Lgood = [0 for i in range(self.num_of_point)]
 		Lbad = [0 for i in range(self.num_of_point)]
 		for i in range(self.num_of_point):
-			Lgood[i] = self.cal_dis4(good,topmat[i])
-			Lbad[i] = self.cal_dis4(bad,topmat[i])
+			Lgood[i] = self.cal_dis(good,topmat[i])
+			Lbad[i] = self.cal_dis(bad,topmat[i])
 		for i in range(self.num_of_point):
 			self.node[i].T2 = Lbad[i] / (Lbad[i] + Lgood[i])
-
-
+	def out_pajek(self):
+		g = nx.Graph()
+		g.add_nodes_from(range(self.num_of_point))
+		g.add_edges_from(self.edge)
+		nx.write_pajek(g,'g1.net')
 
 
 
@@ -382,5 +400,8 @@ A.cal_topsis()
 A.cal_infl()
 A.cal_topsis2()
 A.output_node_list('Data.out')
+A.out_pajek()
+A.draw_degree()
+
 
 

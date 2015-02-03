@@ -1028,7 +1028,7 @@ spear: 长矛
 有些人的特别长。
 -Campbell: Your mother been telling you stories about me again.
 你妈妈是在说我呢。
--Guard: Volunteers coming in!
+-Guard5: Volunteers coming in!
 volunteer: 志愿者
 志愿者们来了！
 -Faudron: William Wallace, we've come to fight and to die for you.
@@ -2300,7 +2300,7 @@ rather than: 而不是，宁愿
 他不会来了。
 -Robert: He will. I know he will.
 他会来的。我知道他会的。
--Guard: My lord, he approaches!
+-Guard4: My lord, he approaches!
 approach: 接近，靠近，途经
 大人，Wallace来了！
 -Craig: No!
@@ -2366,12 +2366,12 @@ Do you confess? Do you confess?
 Then on the morrow, you shall receive your purification.
 morrow: 翌日
 那么你就等着，明天受酷刑吧。
--Guard: Your Highness.
+-Guard1: Your Highness.
 殿下。
 -Isabella: I will see the prisoner.
 prisoner: 犯人，囚犯
 我要见犯人。
--Guard: We've got orders from the king...
+-Guard2: We've got orders from the king...
 order: 命令
 国王有令，不准……
 -Isabella: The king will be dead in a month. His son is a weakling.
@@ -2380,7 +2380,7 @@ weakling: 虚弱的，懦弱的
 Who do you think will rule this kingdom? Now open this door.
 rule: 统治，控制 kingdom: 王国
 你想谁会掌权？把门打开。
--Guard: Majesty. Come on, filth. Up on your feet.
+-Guard3: Majesty. Come on, filth. Up on your feet.
 filth: 污物
 是，殿下。肮脏的东西！站起来！
 -Isabella: Stop it! Leave me. I said, leave me!

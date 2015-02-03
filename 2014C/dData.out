@@ -2,951 +2,951 @@ num_of_point: 511 D:10
 name: ALON, NOGA M.
 id: 9	num: 5	D: 52	C: 0.178733	L: 1696.000000	coop:  361	years: 1985	infl: 0.855915	Topsis: 0.998311 Topsis2: 1.000000
 name: GRAHAM, RONALD LEWIS
-id: 164	num: 28	D: 44	C: 0.173362	L: 1699.000000	coop:  177	years: 1972	infl: 0.851025	Topsis: 0.995784 Topsis2: 0.846154
+id: 164	num: 28	D: 44	C: 0.173362	L: 1699.000000	coop:  177	years: 1972	infl: 0.851025	Topsis: 0.995784 Topsis2: 0.841320
 name: HARARY, FRANK*
-id: 186	num: 2	D: 44	C: 0.090909	L: 1779.000000	coop:  316	years: 1965	infl: 0.779680	Topsis: 0.931552 Topsis2: 0.846154
+id: 186	num: 2	D: 44	C: 0.090909	L: 1779.000000	coop:  316	years: 1965	infl: 0.779680	Topsis: 0.931552 Topsis2: 0.770788
 name: BOLLOBAS, BELA
-id: 43	num: 18	D: 43	C: 0.168328	L: 1703.000000	coop:  142	years: 1962	infl: 0.850167	Topsis: 0.992429 Topsis2: 0.826923
+id: 43	num: 18	D: 43	C: 0.168328	L: 1703.000000	coop:  142	years: 1962	infl: 0.850167	Topsis: 0.992429 Topsis2: 0.821369
 name: RODL, VOJTECH
-id: 377	num: 11	D: 43	C: 0.218162	L: 1752.000000	coop:  130	years: 1983	infl: 0.852519	Topsis: 0.952574 Topsis2: 0.826923
+id: 377	num: 11	D: 43	C: 0.218162	L: 1752.000000	coop:  130	years: 1983	infl: 0.852519	Topsis: 0.952574 Topsis2: 0.823642
 name: FUREDI, ZOLTAN
-id: 147	num: 10	D: 40	C: 0.187179	L: 1694.000000	coop:  106	years: 1982	infl: 0.860367	Topsis: 1.000000 Topsis2: 0.769231
+id: 147	num: 10	D: 40	C: 0.187179	L: 1694.000000	coop:  106	years: 1982	infl: 0.860367	Topsis: 1.000000 Topsis2: 0.773231
 name: TUZA, ZSOLT
-id: 478	num: 11	D: 40	C: 0.170513	L: 1744.000000	coop:  177	years: 1989	infl: 0.829474	Topsis: 0.958928 Topsis2: 0.769231
+id: 478	num: 11	D: 40	C: 0.170513	L: 1744.000000	coop:  177	years: 1989	infl: 0.829474	Topsis: 0.958928 Topsis2: 0.745467
 name: SOS, VERA TURAN
-id: 437	num: 35	D: 38	C: 0.113798	L: 1718.000000	coop:  55	years: 1966	infl: 0.829038	Topsis: 0.979987 Topsis2: 0.730769
+id: 437	num: 35	D: 38	C: 0.113798	L: 1718.000000	coop:  55	years: 1966	infl: 0.829038	Topsis: 0.979987 Topsis2: 0.707822
 name: SPENCER, JOEL HAROLD
-id: 439	num: 23	D: 35	C: 0.198319	L: 1756.000000	coop:  108	years: 1971	infl: 0.855385	Topsis: 0.949419 Topsis2: 0.673077
+id: 439	num: 23	D: 35	C: 0.198319	L: 1756.000000	coop:  108	years: 1971	infl: 0.855385	Topsis: 0.949419 Topsis2: 0.672660
 name: GYARFAS, ANDRAS
-id: 176	num: 15	D: 32	C: 0.266129	L: 1841.000000	coop:  65	years: 1988	infl: 0.833010	Topsis: 0.885611 Topsis2: 0.615385
+id: 176	num: 15	D: 32	C: 0.266129	L: 1841.000000	coop:  65	years: 1988	infl: 0.833010	Topsis: 0.885611 Topsis2: 0.598916
 name: PACH, JANOS
-id: 340	num: 21	D: 32	C: 0.187500	L: 1784.000000	coop:  119	years: 1980	infl: 0.833966	Topsis: 0.927728 Topsis2: 0.615385
+id: 340	num: 21	D: 32	C: 0.187500	L: 1784.000000	coop:  119	years: 1980	infl: 0.833966	Topsis: 0.927728 Topsis2: 0.599604
 name: CHUNG, FAN RONG KING (GRAHAM)
-id: 77	num: 14	D: 31	C: 0.189247	L: 1803.000000	coop:  127	years: 1979	infl: 0.842846	Topsis: 0.913393 Topsis2: 0.596154
+id: 77	num: 14	D: 31	C: 0.189247	L: 1803.000000	coop:  127	years: 1979	infl: 0.842846	Topsis: 0.913393 Topsis2: 0.587051
 name: FAUDREE, RALPH JASPER, JR.
-id: 127	num: 50	D: 30	C: 0.262069	L: 1780.000000	coop:  71	years: 1976	infl: 0.839226	Topsis: 0.930785 Topsis2: 0.576923
+id: 127	num: 50	D: 30	C: 0.262069	L: 1780.000000	coop:  71	years: 1976	infl: 0.839226	Topsis: 0.930785 Topsis2: 0.565674
 name: HAJNAL, ANDRAS
-id: 179	num: 56	D: 30	C: 0.156322	L: 1800.000000	coop:  52	years: 1958	infl: 0.806919	Topsis: 0.915637 Topsis2: 0.576923
+id: 179	num: 56	D: 30	C: 0.156322	L: 1800.000000	coop:  52	years: 1958	infl: 0.806919	Topsis: 0.915637 Topsis2: 0.543898
 name: LOVASZ, LASZLO
-id: 286	num: 7	D: 30	C: 0.220690	L: 1752.000000	coop:  132	years: 1973	infl: 0.869722	Topsis: 0.952574 Topsis2: 0.576923
+id: 286	num: 7	D: 30	C: 0.220690	L: 1752.000000	coop:  132	years: 1973	infl: 0.869722	Topsis: 0.952574 Topsis2: 0.586230
 name: KLEITMAN, DANIEL J.
-id: 248	num: 7	D: 29	C: 0.155172	L: 1787.000000	coop:  136	years: 1968	infl: 0.827859	Topsis: 0.925445 Topsis2: 0.557692
+id: 248	num: 7	D: 29	C: 0.155172	L: 1787.000000	coop:  136	years: 1968	infl: 0.827859	Topsis: 0.925445 Topsis2: 0.539412
 name: NESETRIL, JAROSLAV
-id: 325	num: 4	D: 29	C: 0.197044	L: 1811.000000	coop:  115	years: 1983	infl: 0.839235	Topsis: 0.907448 Topsis2: 0.557692
+id: 325	num: 4	D: 29	C: 0.197044	L: 1811.000000	coop:  115	years: 1983	infl: 0.839235	Topsis: 0.907448 Topsis2: 0.546824
 name: POMERANCE, CARL BERNARD
-id: 354	num: 23	D: 29	C: 0.091133	L: 1836.000000	coop:  92	years: 1978	infl: 0.745748	Topsis: 0.889201 Topsis2: 0.557692
+id: 354	num: 23	D: 29	C: 0.091133	L: 1836.000000	coop:  92	years: 1978	infl: 0.745748	Topsis: 0.889201 Topsis2: 0.485910
 name: SZEMEREDI, ENDRE
-id: 461	num: 29	D: 29	C: 0.290640	L: 1785.000000	coop:  85	years: 1966	infl: 0.870479	Topsis: 0.926966 Topsis2: 0.557692
+id: 461	num: 29	D: 29	C: 0.290640	L: 1785.000000	coop:  85	years: 1966	infl: 0.870479	Topsis: 0.926966 Topsis2: 0.567182
 name: CHARTRAND, GARY THEODORE
-id: 68	num: 5	D: 27	C: 0.213675	L: 1909.000000	coop:  107	years: 1987	infl: 0.768128	Topsis: 0.838656 Topsis2: 0.519231
+id: 68	num: 5	D: 27	C: 0.213675	L: 1909.000000	coop:  107	years: 1987	infl: 0.768128	Topsis: 0.838656 Topsis2: 0.465976
 name: BABAI, LASZLO
-id: 20	num: 3	D: 26	C: 0.224615	L: 1852.000000	coop:  96	years: 1980	infl: 0.836484	Topsis: 0.877782 Topsis2: 0.500000
+id: 20	num: 3	D: 26	C: 0.224615	L: 1852.000000	coop:  96	years: 1980	infl: 0.836484	Topsis: 0.877782 Topsis2: 0.488649
 name: SARKOZY, ANDRAS
-id: 398	num: 62	D: 26	C: 0.132308	L: 1870.000000	coop:  53	years: 1966	infl: 0.795847	Topsis: 0.865169 Topsis2: 0.500000
+id: 398	num: 62	D: 26	C: 0.132308	L: 1870.000000	coop:  53	years: 1966	infl: 0.795847	Topsis: 0.865169 Topsis2: 0.464910
 name: SCHELP, RICHARD H.
-id: 402	num: 42	D: 26	C: 0.301538	L: 1882.000000	coop:  59	years: 1976	infl: 0.825269	Topsis: 0.856894 Topsis2: 0.500000
+id: 402	num: 42	D: 26	C: 0.301538	L: 1882.000000	coop:  59	years: 1976	infl: 0.825269	Topsis: 0.856894 Topsis2: 0.482098
 name: STRAUS, ERNST GABOR*
-id: 448	num: 20	D: 26	C: 0.098462	L: 1754.000000	coop:  71	years: 1953	infl: 0.812131	Topsis: 0.950995 Topsis2: 0.500000
+id: 448	num: 20	D: 26	C: 0.098462	L: 1754.000000	coop:  71	years: 1953	infl: 0.812131	Topsis: 0.950995 Topsis2: 0.474422
 name: KOSTOCHKA, ALEXANDR V.
-id: 260	num: 2	D: 25	C: 0.290000	L: 1865.000000	coop:  102	years: 1992	infl: 0.850228	Topsis: 0.868648 Topsis2: 0.480769
+id: 260	num: 2	D: 25	C: 0.290000	L: 1865.000000	coop:  102	years: 1992	infl: 0.850228	Topsis: 0.868648 Topsis2: 0.477575
 name: LUCZAK, TOMASZ
-id: 289	num: 7	D: 25	C: 0.246667	L: 1876.000000	coop:  81	years: 1992	infl: 0.840477	Topsis: 0.861018 Topsis2: 0.480769
+id: 289	num: 7	D: 25	C: 0.246667	L: 1876.000000	coop:  81	years: 1992	infl: 0.840477	Topsis: 0.861018 Topsis2: 0.472098
 name: WEST, DOUGLAS BRENT
-id: 497	num: 2	D: 24	C: 0.231884	L: 1874.000000	coop:  155	years: 1985	infl: 0.820654	Topsis: 0.862399 Topsis2: 0.461538
+id: 497	num: 2	D: 24	C: 0.231884	L: 1874.000000	coop:  155	years: 1985	infl: 0.820654	Topsis: 0.862399 Topsis2: 0.442524
 name: SIMONOVITS, MIKLOS
-id: 429	num: 21	D: 23	C: 0.320158	L: 1796.000000	coop:  49	years: 1966	infl: 0.881438	Topsis: 0.918639 Topsis2: 0.442308
+id: 429	num: 21	D: 23	C: 0.320158	L: 1796.000000	coop:  49	years: 1966	infl: 0.881438	Topsis: 0.918639 Topsis2: 0.455497
 name: FRANKL, PETER
-id: 139	num: 6	D: 22	C: 0.311688	L: 1806.000000	coop:  70	years: 1978	infl: 0.874748	Topsis: 0.911158 Topsis2: 0.423077
+id: 139	num: 6	D: 22	C: 0.311688	L: 1806.000000	coop:  70	years: 1978	infl: 0.874748	Topsis: 0.911158 Topsis2: 0.432386
 name: RUZSA, IMRE Z.
-id: 388	num: 5	D: 22	C: 0.151515	L: 1807.000000	coop:  78	years: 1973	infl: 0.821588	Topsis: 0.910414 Topsis2: 0.423077
+id: 388	num: 5	D: 22	C: 0.151515	L: 1807.000000	coop:  78	years: 1973	infl: 0.821588	Topsis: 0.910414 Topsis2: 0.406109
 name: WORMALD, NICHOLAS CHARLES
-id: 503	num: 1	D: 22	C: 0.177489	L: 1807.000000	coop:  109	years: 1986	infl: 0.826504	Topsis: 0.910414 Topsis2: 0.423077
+id: 503	num: 1	D: 22	C: 0.177489	L: 1807.000000	coop:  109	years: 1986	infl: 0.826504	Topsis: 0.910414 Topsis2: 0.408539
 name: GODDARD, WAYNE DEAN
-id: 157	num: 1	D: 21	C: 0.219048	L: 1949.000000	coop:  92	years: 1994	infl: 0.757631	Topsis: 0.812566 Topsis2: 0.403846
+id: 157	num: 1	D: 21	C: 0.219048	L: 1949.000000	coop:  92	years: 1994	infl: 0.757631	Topsis: 0.812566 Topsis2: 0.357473
 name: LEHEL, JENO
-id: 274	num: 2	D: 21	C: 0.395238	L: 1896.000000	coop:  49	years: 1991	infl: 0.843019	Topsis: 0.847372 Topsis2: 0.403846
+id: 274	num: 2	D: 21	C: 0.395238	L: 1896.000000	coop:  49	years: 1991	infl: 0.843019	Topsis: 0.847372 Topsis2: 0.397761
 name: ODLYZKO, ANDREW MICHAEL
-id: 335	num: 3	D: 21	C: 0.147619	L: 1822.000000	coop:  134	years: 1979	infl: 0.805661	Topsis: 0.899357 Topsis2: 0.403846
+id: 335	num: 3	D: 21	C: 0.147619	L: 1822.000000	coop:  134	years: 1979	infl: 0.805661	Topsis: 0.899357 Topsis2: 0.380135
 name: JACOBSON, MICHAEL SCOTT
-id: 226	num: 3	D: 20	C: 0.394737	L: 1974.000000	coop:  79	years: 1987	infl: 0.796608	Topsis: 0.796797 Topsis2: 0.384615
+id: 226	num: 3	D: 20	C: 0.394737	L: 1974.000000	coop:  79	years: 1987	infl: 0.796608	Topsis: 0.796797 Topsis2: 0.357965
 name: BURR, STEFAN ANDRUS
-id: 57	num: 27	D: 19	C: 0.280702	L: 1861.000000	coop:  31	years: 1975	infl: 0.853616	Topsis: 0.871445 Topsis2: 0.365385
+id: 57	num: 27	D: 19	C: 0.280702	L: 1861.000000	coop:  31	years: 1975	infl: 0.853616	Topsis: 0.871445 Topsis2: 0.364403
 name: CHVATAL, VACLAV (VASEK)
-id: 79	num: 3	D: 19	C: 0.181287	L: 1906.000000	coop:  59	years: 1972	infl: 0.813516	Topsis: 0.840657 Topsis2: 0.365385
+id: 79	num: 3	D: 19	C: 0.181287	L: 1906.000000	coop:  59	years: 1972	infl: 0.813516	Topsis: 0.840657 Topsis2: 0.347285
 name: GOULD, RONALD J.
-id: 163	num: 4	D: 18	C: 0.418301	L: 1954.000000	coop:  67	years: 1987	infl: 0.834351	Topsis: 0.809380 Topsis2: 0.346154
+id: 163	num: 4	D: 18	C: 0.418301	L: 1954.000000	coop:  67	years: 1987	infl: 0.834351	Topsis: 0.809380 Topsis2: 0.337433
 name: SAUER, NORBERT W.
-id: 400	num: 1	D: 18	C: 0.130719	L: 1944.000000	coop:  52	years: 1975	infl: 0.780268	Topsis: 0.815768 Topsis2: 0.346154
+id: 400	num: 1	D: 18	C: 0.130719	L: 1944.000000	coop:  52	years: 1975	infl: 0.780268	Topsis: 0.815768 Topsis2: 0.315560
 name: TROTTER, WILLIAM THOMAS, JR.
-id: 474	num: 2	D: 18	C: 0.411765	L: 1857.000000	coop:  69	years: 1978	infl: 0.896551	Topsis: 0.874254 Topsis2: 0.346154
+id: 474	num: 2	D: 18	C: 0.411765	L: 1857.000000	coop:  69	years: 1978	infl: 0.896551	Topsis: 0.874254 Topsis2: 0.362588
 name: KOMLOS, JANOS
-id: 257	num: 3	D: 17	C: 0.279412	L: 1868.000000	coop:  52	years: 1970	infl: 0.838639	Topsis: 0.866558 Topsis2: 0.326923
+id: 257	num: 3	D: 17	C: 0.279412	L: 1868.000000	coop:  52	years: 1970	infl: 0.838639	Topsis: 0.866558 Topsis2: 0.320324
 name: WINKLER, PETER MANN
-id: 501	num: 2	D: 17	C: 0.382353	L: 1932.000000	coop:  98	years: 1989	infl: 0.860335	Topsis: 0.823522 Topsis2: 0.326923
+id: 501	num: 2	D: 17	C: 0.382353	L: 1932.000000	coop:  98	years: 1989	infl: 0.860335	Topsis: 0.823522 Topsis2: 0.328611
 name: ENTRINGER, ROGER CHARLES
-id: 122	num: 3	D: 16	C: 0.191667	L: 1928.000000	coop:  48	years: 1972	infl: 0.786174	Topsis: 0.826128 Topsis2: 0.307692
+id: 122	num: 3	D: 16	C: 0.191667	L: 1928.000000	coop:  48	years: 1972	infl: 0.786174	Topsis: 0.826128 Topsis2: 0.282621
 name: MCKAY, BRENDAN DAMIEN
-id: 306	num: 1	D: 16	C: 0.166667	L: 1924.000000	coop:  96	years: 1984	infl: 0.780441	Topsis: 0.828745 Topsis2: 0.307692
+id: 306	num: 1	D: 16	C: 0.166667	L: 1924.000000	coop:  96	years: 1984	infl: 0.780441	Topsis: 0.828745 Topsis2: 0.280560
 name: OELLERMANN, ORTRUD R.
-id: 336	num: 4	D: 16	C: 0.375000	L: 2010.000000	coop:  60	years: 1987	infl: 0.773760	Topsis: 0.774778 Topsis2: 0.307692
+id: 336	num: 4	D: 16	C: 0.375000	L: 2010.000000	coop:  60	years: 1987	infl: 0.773760	Topsis: 0.774778 Topsis2: 0.278158
 name: SHELAH, SAHARON
-id: 420	num: 3	D: 16	C: 0.150000	L: 2016.000000	coop:  209	years: 1972	infl: 0.721614	Topsis: 0.771184 Topsis2: 0.307692
+id: 420	num: 3	D: 16	C: 0.150000	L: 2016.000000	coop:  209	years: 1972	infl: 0.721614	Topsis: 0.771184 Topsis2: 0.259412
 name: SZEKELY, LASZLO A.
-id: 458	num: 2	D: 16	C: 0.200000	L: 1913.000000	coop:  62	years: 1987	infl: 0.820728	Topsis: 0.835998 Topsis2: 0.307692
+id: 458	num: 2	D: 16	C: 0.200000	L: 1913.000000	coop:  62	years: 1987	infl: 0.820728	Topsis: 0.835998 Topsis2: 0.295043
 name: ALAVI, YOUSEF
-id: 7	num: 8	D: 15	C: 0.304762	L: 2055.000000	coop:  34	years: 1987	infl: 0.719909	Topsis: 0.748339 Topsis2: 0.288462
+id: 7	num: 8	D: 15	C: 0.304762	L: 2055.000000	coop:  34	years: 1987	infl: 0.719909	Topsis: 0.748339 Topsis2: 0.242625
 name: MILNER, ERIC CHARLES*
-id: 311	num: 15	D: 15	C: 0.200000	L: 1945.000000	coop:  26	years: 1966	infl: 0.806337	Topsis: 0.815127 Topsis2: 0.288462
+id: 311	num: 15	D: 15	C: 0.200000	L: 1945.000000	coop:  26	years: 1966	infl: 0.806337	Topsis: 0.815127 Topsis2: 0.271753
 name: ROTHSCHILD, BRUCE LEE
-id: 382	num: 9	D: 15	C: 0.209524	L: 1849.000000	coop:  41	years: 1973	infl: 0.849997	Topsis: 0.879908 Topsis2: 0.288462
+id: 382	num: 9	D: 15	C: 0.209524	L: 1849.000000	coop:  41	years: 1973	infl: 0.849997	Topsis: 0.879908 Topsis2: 0.286467
 name: SCHWENK, ALLEN JOHN CARL
-id: 410	num: 4	D: 15	C: 0.257143	L: 2103.000000	coop:  44	years: 1987	infl: 0.732395	Topsis: 0.721385 Topsis2: 0.288462
+id: 410	num: 4	D: 15	C: 0.257143	L: 2103.000000	coop:  44	years: 1987	infl: 0.732395	Topsis: 0.721385 Topsis2: 0.246833
 name: THOMASSEN, CARSTEN
-id: 469	num: 1	D: 15	C: 0.142857	L: 1907.000000	coop:  66	years: 1989	infl: 0.802406	Topsis: 0.839989 Topsis2: 0.288462
+id: 469	num: 1	D: 15	C: 0.142857	L: 1907.000000	coop:  66	years: 1989	infl: 0.802406	Topsis: 0.839989 Topsis2: 0.270428
 name: CAMERON, PETER J.
-id: 61	num: 2	D: 14	C: 0.164835	L: 1983.000000	coop:  130	years: 1990	infl: 0.791401	Topsis: 0.791217 Topsis2: 0.269231
+id: 61	num: 2	D: 14	C: 0.164835	L: 1983.000000	coop:  130	years: 1990	infl: 0.791401	Topsis: 0.791217 Topsis2: 0.248937
 name: GRANVILLE, ANDREW JAMES
-id: 166	num: 2	D: 14	C: 0.098901	L: 2044.000000	coop:  77	years: 1990	infl: 0.722887	Topsis: 0.754694 Topsis2: 0.269231
+id: 166	num: 2	D: 14	C: 0.098901	L: 2044.000000	coop:  77	years: 1990	infl: 0.722887	Topsis: 0.754694 Topsis2: 0.227386
 name: HELL, PAVOL
-id: 200	num: 1	D: 14	C: 0.263736	L: 1927.000000	coop:  113	years: 1989	infl: 0.827920	Topsis: 0.826781 Topsis2: 0.269231
+id: 200	num: 1	D: 14	C: 0.263736	L: 1927.000000	coop:  113	years: 1989	infl: 0.827920	Topsis: 0.826781 Topsis2: 0.260425
 name: ROUSSEAU, CECIL CLYDE
-id: 383	num: 35	D: 14	C: 0.439560	L: 1962.000000	coop:  50	years: 1976	infl: 0.821553	Topsis: 0.804316 Topsis2: 0.269231
+id: 383	num: 35	D: 14	C: 0.439560	L: 1962.000000	coop:  50	years: 1976	infl: 0.821553	Topsis: 0.804316 Topsis2: 0.258422
 name: SAKS, MICHAEL EZRA
-id: 393	num: 1	D: 14	C: 0.406593	L: 1834.000000	coop:  130	years: 1986	infl: 0.909070	Topsis: 0.890642 Topsis2: 0.269231
+id: 393	num: 1	D: 14	C: 0.406593	L: 1834.000000	coop:  130	years: 1986	infl: 0.909070	Topsis: 0.890642 Topsis2: 0.285951
 name: SCHINZEL, ANDRZEJ BOBOLA MARIA
-id: 404	num: 2	D: 14	C: 0.087912	L: 1997.000000	coop:  78	years: 1960	infl: 0.718793	Topsis: 0.782637 Topsis2: 0.269231
+id: 404	num: 2	D: 14	C: 0.087912	L: 1997.000000	coop:  78	years: 1960	infl: 0.718793	Topsis: 0.782637 Topsis2: 0.226099
 name: CHEN, GUANTAO
-id: 70	num: 5	D: 13	C: 0.487179	L: 2109.000000	coop:  73	years: 1993	infl: 0.785212	Topsis: 0.718102 Topsis2: 0.250000
+id: 70	num: 5	D: 13	C: 0.487179	L: 2109.000000	coop:  73	years: 1993	infl: 0.785212	Topsis: 0.718102 Topsis2: 0.229349
 name: COLBOURN, CHARLES JOSEPH
-id: 85	num: 1	D: 13	C: 0.192308	L: 1993.000000	coop:  213	years: 1985	infl: 0.781522	Topsis: 0.785076 Topsis2: 0.250000
+id: 85	num: 1	D: 13	C: 0.192308	L: 1993.000000	coop:  213	years: 1985	infl: 0.781522	Topsis: 0.785076 Topsis2: 0.228271
 name: GUY, RICHARD KENNETH
-id: 175	num: 4	D: 13	C: 0.166667	L: 1951.000000	coop:  51	years: 1970	infl: 0.755601	Topsis: 0.811290 Topsis2: 0.250000
+id: 175	num: 4	D: 13	C: 0.166667	L: 1951.000000	coop:  51	years: 1970	infl: 0.755601	Topsis: 0.811290 Topsis2: 0.220700
 name: GYORI, ERVIN
-id: 177	num: 2	D: 13	C: 0.423077	L: 1899.000000	coop:  35	years: 1992	infl: 0.901612	Topsis: 0.845350 Topsis2: 0.250000
+id: 177	num: 2	D: 13	C: 0.423077	L: 1899.000000	coop:  35	years: 1992	infl: 0.901612	Topsis: 0.845350 Topsis2: 0.263347
 name: HEDETNIEMI, STEPHEN TRAVIS
-id: 196	num: 2	D: 13	C: 0.282051	L: 2104.000000	coop:  113	years: 1987	infl: 0.725794	Topsis: 0.720837 Topsis2: 0.250000
+id: 196	num: 2	D: 13	C: 0.282051	L: 2104.000000	coop:  113	years: 1987	infl: 0.725794	Topsis: 0.720837 Topsis2: 0.211994
 name: KOMJATH, PETER
-id: 256	num: 2	D: 13	C: 0.307692	L: 1935.000000	coop:  29	years: 1986	infl: 0.811904	Topsis: 0.821575 Topsis2: 0.250000
+id: 256	num: 2	D: 13	C: 0.307692	L: 1935.000000	coop:  29	years: 1986	infl: 0.811904	Topsis: 0.821575 Topsis2: 0.237145
 name: MEIR, AMRAM
-id: 307	num: 5	D: 13	C: 0.153846	L: 1926.000000	coop:  27	years: 1971	infl: 0.793084	Topsis: 0.827435 Topsis2: 0.250000
+id: 307	num: 5	D: 13	C: 0.153846	L: 1926.000000	coop:  27	years: 1971	infl: 0.793084	Topsis: 0.827435 Topsis2: 0.231648
 name: SELFRIDGE, JOHN L.
-id: 413	num: 14	D: 13	C: 0.179487	L: 2034.000000	coop:  35	years: 1967	infl: 0.702603	Topsis: 0.760532 Topsis2: 0.250000
+id: 413	num: 14	D: 13	C: 0.179487	L: 2034.000000	coop:  35	years: 1967	infl: 0.702603	Topsis: 0.760532 Topsis2: 0.205220
 name: FRAENKEL, AVIEZRI SIEGMUND
-id: 138	num: 1	D: 12	C: 0.121212	L: 1901.000000	coop:  85	years: 1988	infl: 0.778385	Topsis: 0.844006 Topsis2: 0.230769
+id: 138	num: 1	D: 12	C: 0.121212	L: 1901.000000	coop:  85	years: 1988	infl: 0.778385	Topsis: 0.844006 Topsis2: 0.209866
 name: KIERSTEAD, HENRY A.
-id: 244	num: 1	D: 12	C: 0.333333	L: 1986.000000	coop:  53	years: 1991	infl: 0.832601	Topsis: 0.789368 Topsis2: 0.230769
+id: 244	num: 1	D: 12	C: 0.333333	L: 1986.000000	coop:  53	years: 1991	infl: 0.832601	Topsis: 0.789368 Topsis2: 0.224483
 name: LINIAL, NATHAN
-id: 282	num: 2	D: 12	C: 0.227273	L: 1932.000000	coop:  108	years: 1987	infl: 0.835631	Topsis: 0.823522 Topsis2: 0.230769
+id: 282	num: 2	D: 12	C: 0.227273	L: 1932.000000	coop:  108	years: 1987	infl: 0.835631	Topsis: 0.823522 Topsis2: 0.225300
 name: MOON, JOHN W.
-id: 317	num: 4	D: 12	C: 0.196970	L: 1968.000000	coop:  28	years: 1964	infl: 0.795847	Topsis: 0.800545 Topsis2: 0.230769
+id: 317	num: 4	D: 12	C: 0.196970	L: 1968.000000	coop:  28	years: 1964	infl: 0.795847	Topsis: 0.800545 Topsis2: 0.214574
 name: PYBER, LASZLO
-id: 362	num: 3	D: 12	C: 0.393939	L: 1952.000000	coop:  31	years: 1988	infl: 0.875586	Topsis: 0.810652 Topsis2: 0.230769
+id: 362	num: 3	D: 12	C: 0.393939	L: 1952.000000	coop:  31	years: 1988	infl: 0.875586	Topsis: 0.810652 Topsis2: 0.236073
 name: RENYI, ALFRED A.*
-id: 369	num: 32	D: 12	C: 0.106061	L: 2061.000000	coop:  38	years: 1950	infl: 0.682433	Topsis: 0.744901 Topsis2: 0.230769
+id: 369	num: 32	D: 12	C: 0.106061	L: 2061.000000	coop:  38	years: 1950	infl: 0.682433	Topsis: 0.744901 Topsis2: 0.183995
 name: RUBEL, LEE ALBERT*
-id: 384	num: 2	D: 12	C: 0.106061	L: 1890.000000	coop:  84	years: 1964	infl: 0.740693	Topsis: 0.851436 Topsis2: 0.230769
+id: 384	num: 2	D: 12	C: 0.106061	L: 1890.000000	coop:  84	years: 1964	infl: 0.740693	Topsis: 0.851436 Topsis2: 0.199703
 name: TETALI, PRASAD VENKATA SITARAMA VARA
-id: 468	num: 2	D: 12	C: 0.348485	L: 1937.000000	coop:  72	years: 1990	infl: 0.865926	Topsis: 0.820280 Topsis2: 0.230769
+id: 468	num: 2	D: 12	C: 0.348485	L: 1937.000000	coop:  72	years: 1990	infl: 0.865926	Topsis: 0.820280 Topsis2: 0.233468
 name: TURAN, PAL*
-id: 475	num: 30	D: 12	C: 0.121212	L: 1998.000000	coop:  23	years: 1934	infl: 0.711122	Topsis: 0.782029 Topsis2: 0.230769
+id: 475	num: 30	D: 12	C: 0.121212	L: 1998.000000	coop:  23	years: 1934	infl: 0.711122	Topsis: 0.782029 Topsis2: 0.191730
 name: AHARONI, RON
-id: 3	num: 1	D: 11	C: 0.163636	L: 2066.000000	coop:  45	years: 1988	infl: 0.791208	Topsis: 0.742052 Topsis2: 0.211538
+id: 3	num: 1	D: 11	C: 0.163636	L: 2066.000000	coop:  45	years: 1988	infl: 0.791208	Topsis: 0.742052 Topsis2: 0.195546
 name: DEUBER, WALTER A.*
-id: 105	num: 1	D: 11	C: 0.254545	L: 2003.000000	coop:  23	years: 1997	infl: 0.812646	Topsis: 0.778997 Topsis2: 0.211538
+id: 105	num: 1	D: 11	C: 0.254545	L: 2003.000000	coop:  23	years: 1997	infl: 0.812646	Topsis: 0.778997 Topsis2: 0.200845
 name: FISHBURN, PETER C.
-id: 133	num: 9	D: 11	C: 0.418182	L: 1950.000000	coop:  89	years: 1991	infl: 0.848494	Topsis: 0.811927 Topsis2: 0.211538
+id: 133	num: 9	D: 11	C: 0.418182	L: 1950.000000	coop:  89	years: 1991	infl: 0.848494	Topsis: 0.811927 Topsis2: 0.209704
 name: HENNING, MICHAEL ANTHONY
-id: 202	num: 1	D: 11	C: 0.418182	L: 2107.000000	coop:  88	years: 1993	infl: 0.759799	Topsis: 0.719194 Topsis2: 0.211538
+id: 202	num: 1	D: 11	C: 0.418182	L: 2107.000000	coop:  88	years: 1993	infl: 0.759799	Topsis: 0.719194 Topsis2: 0.187784
 name: KOHAYAKAWA, YOSHIHARU
-id: 253	num: 1	D: 11	C: 0.545455	L: 1965.000000	coop:  58	years: 1997	infl: 0.888102	Topsis: 0.802427 Topsis2: 0.211538
+id: 253	num: 1	D: 11	C: 0.545455	L: 1965.000000	coop:  58	years: 1997	infl: 0.888102	Topsis: 0.802427 Topsis2: 0.219493
 name: KUBICKI, GRZEGORZ
-id: 267	num: 1	D: 11	C: 0.600000	L: 2106.000000	coop:  31	years: 1991	infl: 0.802876	Topsis: 0.719741 Topsis2: 0.211538
+id: 267	num: 1	D: 11	C: 0.600000	L: 2106.000000	coop:  31	years: 1991	infl: 0.802876	Topsis: 0.719741 Topsis2: 0.198430
 name: SWART, HENDRIKA CORNELIA SCOTT (HENDA)
-id: 453	num: 1	D: 11	C: 0.436364	L: 2142.000000	coop:  44	years: 1993	infl: 0.757616	Topsis: 0.700375 Topsis2: 0.211538
+id: 453	num: 1	D: 11	C: 0.436364	L: 2142.000000	coop:  44	years: 1993	infl: 0.757616	Topsis: 0.700375 Topsis2: 0.187244
 name: SZEKERES, GEORGE*
-id: 460	num: 5	D: 11	C: 0.127273	L: 1907.000000	coop:  34	years: 1934	infl: 0.789620	Topsis: 0.839989 Topsis2: 0.211538
+id: 460	num: 5	D: 11	C: 0.127273	L: 1907.000000	coop:  34	years: 1934	infl: 0.789620	Topsis: 0.839989 Topsis2: 0.195154
 name: TENENBAUM, GERALD
-id: 467	num: 7	D: 11	C: 0.200000	L: 2081.000000	coop:  42	years: 1981	infl: 0.731602	Topsis: 0.733585 Topsis2: 0.211538
+id: 467	num: 7	D: 11	C: 0.200000	L: 2081.000000	coop:  42	years: 1981	infl: 0.731602	Topsis: 0.733585 Topsis2: 0.180815
 name: BONDY, JOHN ADRIAN
-id: 45	num: 2	D: 10	C: 0.155556	L: 2011.000000	coop:  36	years: 1973	infl: 0.815527	Topsis: 0.774177 Topsis2: 0.192308
+id: 45	num: 2	D: 10	C: 0.155556	L: 2011.000000	coop:  36	years: 1973	infl: 0.815527	Topsis: 0.774177 Topsis2: 0.183233
 name: DESHOUILLERS, JEAN-MARC
-id: 104	num: 2	D: 10	C: 0.222222	L: 2007.000000	coop:  44	years: 1976	infl: 0.771952	Topsis: 0.776583 Topsis2: 0.192308
+id: 104	num: 2	D: 10	C: 0.222222	L: 2007.000000	coop:  44	years: 1976	infl: 0.771952	Topsis: 0.776583 Topsis2: 0.173443
 name: GUNDERSON, DAVID SHANE
-id: 172	num: 3	D: 10	C: 0.333333	L: 1972.000000	coop:  26	years: 1995	infl: 0.831074	Topsis: 0.798043 Topsis2: 0.192308
+id: 172	num: 3	D: 10	C: 0.333333	L: 1972.000000	coop:  26	years: 1995	infl: 0.831074	Topsis: 0.798043 Topsis2: 0.186726
 name: HOLZMAN, RON
-id: 214	num: 2	D: 10	C: 0.266667	L: 1983.000000	coop:  40	years: 1994	infl: 0.819079	Topsis: 0.791217 Topsis2: 0.192308
+id: 214	num: 2	D: 10	C: 0.266667	L: 1983.000000	coop:  40	years: 1994	infl: 0.819079	Topsis: 0.791217 Topsis2: 0.184031
 name: KUBICKA, EWA MARIE
-id: 266	num: 1	D: 10	C: 0.622222	L: 2109.000000	coop:  21	years: 1990	infl: 0.811463	Topsis: 0.718102 Topsis2: 0.192308
+id: 266	num: 1	D: 10	C: 0.622222	L: 2109.000000	coop:  21	years: 1990	infl: 0.811463	Topsis: 0.718102 Topsis2: 0.182320
 name: LEFMANN, HANNO
-id: 273	num: 1	D: 10	C: 0.333333	L: 2042.000000	coop:  31	years: 1995	infl: 0.799138	Topsis: 0.755857 Topsis2: 0.192308
+id: 273	num: 1	D: 10	C: 0.333333	L: 2042.000000	coop:  31	years: 1995	infl: 0.799138	Topsis: 0.755857 Topsis2: 0.179551
 name: LICK, DON RAYMOND
-id: 281	num: 2	D: 10	C: 0.400000	L: 2166.000000	coop:  22	years: 1991	infl: 0.719723	Topsis: 0.687821 Topsis2: 0.192308
+id: 281	num: 2	D: 10	C: 0.400000	L: 2166.000000	coop:  22	years: 1991	infl: 0.719723	Topsis: 0.687821 Topsis2: 0.161708
 name: NEWMAN, DONALD JOSEPH*
-id: 328	num: 5	D: 10	C: 0.111111	L: 2201.000000	coop:  50	years: 1974	infl: 0.601801	Topsis: 0.670004 Topsis2: 0.192308
+id: 328	num: 5	D: 10	C: 0.111111	L: 2201.000000	coop:  50	years: 1974	infl: 0.601801	Topsis: 0.670004 Topsis2: 0.135213
 name: ORDMAN, EDWARD THORNE
-id: 338	num: 7	D: 10	C: 0.488889	L: 2071.000000	coop:  22	years: 1985	infl: 0.782698	Topsis: 0.739216 Topsis2: 0.192308
+id: 338	num: 7	D: 10	C: 0.488889	L: 2071.000000	coop:  22	years: 1985	infl: 0.782698	Topsis: 0.739216 Topsis2: 0.175857
 name: PHELPS, KEVIN THOMAS
-id: 348	num: 1	D: 10	C: 0.311111	L: 2096.000000	coop:  40	years: 1985	infl: 0.798468	Topsis: 0.725239 Topsis2: 0.192308
+id: 348	num: 1	D: 10	C: 0.311111	L: 2096.000000	coop:  40	years: 1985	infl: 0.798468	Topsis: 0.725239 Topsis2: 0.179400
 name: RICHMOND, LAWRENCE BRUCE
-id: 373	num: 5	D: 10	C: 0.266667	L: 2006.000000	coop:  49	years: 1976	infl: 0.796369	Topsis: 0.777185 Topsis2: 0.192308
+id: 373	num: 5	D: 10	C: 0.266667	L: 2006.000000	coop:  49	years: 1976	infl: 0.796369	Topsis: 0.777185 Topsis2: 0.178929
 name: ROBINSON, ROBERT WILLIAM
-id: 376	num: 1	D: 10	C: 0.311111	L: 2041.000000	coop:  44	years: 1983	infl: 0.771857	Topsis: 0.756440 Topsis2: 0.192308
+id: 376	num: 1	D: 10	C: 0.311111	L: 2041.000000	coop:  44	years: 1983	infl: 0.771857	Topsis: 0.756440 Topsis2: 0.173421
 name: SARKOZY, GABOR N.
-id: 399	num: 1	D: 10	C: 0.444444	L: 2001.000000	coop:  15	years: 1997	infl: 0.856483	Topsis: 0.780208 Topsis2: 0.192308
+id: 399	num: 1	D: 10	C: 0.444444	L: 2001.000000	coop:  15	years: 1997	infl: 0.856483	Topsis: 0.780208 Topsis2: 0.192435
 name: SERESS, AKOS
-id: 415	num: 1	D: 10	C: 0.355556	L: 1945.000000	coop:  58	years: 1986	infl: 0.874403	Topsis: 0.815127 Topsis2: 0.192308
+id: 415	num: 1	D: 10	C: 0.355556	L: 1945.000000	coop:  58	years: 1986	infl: 0.874403	Topsis: 0.815127 Topsis2: 0.196462
 name: WILSON, RICHARD MICHAEL
-id: 499	num: 1	D: 10	C: 0.377778	L: 1945.000000	coop:  37	years: 1985	infl: 0.859818	Topsis: 0.815127 Topsis2: 0.192308
+id: 499	num: 1	D: 10	C: 0.377778	L: 1945.000000	coop:  37	years: 1985	infl: 0.859818	Topsis: 0.815127 Topsis2: 0.193185
 name: AJTAI, MIKLOS
-id: 5	num: 1	D: 9	C: 0.500000	L: 1989.000000	coop:  46	years: 1981	infl: 0.883403	Topsis: 0.787525 Topsis2: 0.173077
+id: 5	num: 1	D: 9	C: 0.500000	L: 1989.000000	coop:  46	years: 1981	infl: 0.883403	Topsis: 0.787525 Topsis2: 0.178635
 name: BATEMAN, PAUL TREVIER
-id: 26	num: 5	D: 9	C: 0.305556	L: 2071.000000	coop:  24	years: 1950	infl: 0.754039	Topsis: 0.739216 Topsis2: 0.173077
+id: 26	num: 5	D: 9	C: 0.305556	L: 2071.000000	coop:  24	years: 1950	infl: 0.754039	Topsis: 0.739216 Topsis2: 0.152476
 name: CLARK, LANE HENRY
-id: 81	num: 1	D: 9	C: 0.416667	L: 1972.000000	coop:  34	years: 1993	infl: 0.826692	Topsis: 0.798043 Topsis2: 0.173077
+id: 81	num: 1	D: 9	C: 0.416667	L: 1972.000000	coop:  34	years: 1993	infl: 0.826692	Topsis: 0.798043 Topsis2: 0.167168
 name: GALVIN, FREDERICK WILLIAM
-id: 151	num: 6	D: 9	C: 0.388889	L: 2186.000000	coop:  34	years: 1975	infl: 0.714445	Topsis: 0.677570 Topsis2: 0.173077
+id: 151	num: 6	D: 9	C: 0.388889	L: 2186.000000	coop:  34	years: 1975	infl: 0.714445	Topsis: 0.677570 Topsis2: 0.144470
 name: GYORY, KALMAN
-id: 178	num: 1	D: 9	C: 0.277778	L: 2054.000000	coop:  39	years: 1980	infl: 0.719320	Topsis: 0.748914 Topsis2: 0.173077
+id: 178	num: 1	D: 9	C: 0.277778	L: 2054.000000	coop:  39	years: 1980	infl: 0.719320	Topsis: 0.748914 Topsis2: 0.145456
 name: MULLIN, RONALD C.
-id: 321	num: 1	D: 9	C: 0.166667	L: 2054.000000	coop:  70	years: 1983	infl: 0.766108	Topsis: 0.748914 Topsis2: 0.173077
+id: 321	num: 1	D: 9	C: 0.166667	L: 2054.000000	coop:  70	years: 1983	infl: 0.766108	Topsis: 0.748914 Topsis2: 0.154917
 name: NATHANSON, MELVYN BERNARD
-id: 324	num: 19	D: 9	C: 0.138889	L: 2015.000000	coop:  27	years: 1975	infl: 0.778468	Topsis: 0.771782 Topsis2: 0.173077
+id: 324	num: 19	D: 9	C: 0.138889	L: 2015.000000	coop:  27	years: 1975	infl: 0.778468	Topsis: 0.771782 Topsis2: 0.157416
 name: PALMER, EDGAR MILAN
-id: 343	num: 1	D: 9	C: 0.277778	L: 2023.000000	coop:  24	years: 1983	infl: 0.784315	Topsis: 0.767019 Topsis2: 0.173077
+id: 343	num: 1	D: 9	C: 0.277778	L: 2023.000000	coop:  24	years: 1983	infl: 0.784315	Topsis: 0.767019 Topsis2: 0.158598
 name: POLLARD, HARRY STRANGE*
-id: 353	num: 1	D: 9	C: 0.138889	L: 2521.000000	coop:  19	years: 1949	infl: 0.493391	Topsis: 0.530049 Topsis2: 0.173077
+id: 353	num: 1	D: 9	C: 0.138889	L: 2521.000000	coop:  19	years: 1949	infl: 0.493391	Topsis: 0.530049 Topsis2: 0.099770
 name: ROGERS, CLAUDE AMBROSE*
-id: 378	num: 7	D: 9	C: 0.055556	L: 2152.000000	coop:  36	years: 1953	infl: 0.607245	Topsis: 0.695110 Topsis2: 0.173077
+id: 378	num: 7	D: 9	C: 0.055556	L: 2152.000000	coop:  36	years: 1953	infl: 0.607245	Topsis: 0.695110 Topsis2: 0.122793
 name: SZEGEDY, MARIO
-id: 456	num: 1	D: 9	C: 0.333333	L: 1977.000000	coop:  71	years: 1987	infl: 0.864071	Topsis: 0.794931 Topsis2: 0.173077
+id: 456	num: 1	D: 9	C: 0.333333	L: 1977.000000	coop:  71	years: 1987	infl: 0.864071	Topsis: 0.794931 Topsis2: 0.174726
 name: ANDERSON, JAMES MILNE
-id: 10	num: 1	D: 8	C: 0.285714	L: 2268.000000	coop:  46	years: 1985	infl: 0.623159	Topsis: 0.637432 Topsis2: 0.153846
+id: 10	num: 1	D: 8	C: 0.285714	L: 2268.000000	coop:  46	years: 1985	infl: 0.623159	Topsis: 0.637432 Topsis2: 0.112009
 name: BAUMGARTNER, JAMES EARL
-id: 27	num: 2	D: 8	C: 0.321429	L: 2214.000000	coop:  30	years: 1979	infl: 0.702027	Topsis: 0.663530 Topsis2: 0.153846
+id: 27	num: 2	D: 8	C: 0.321429	L: 2214.000000	coop:  30	years: 1979	infl: 0.702027	Topsis: 0.663530 Topsis2: 0.126186
 name: CHOWLA, SARVADAMAN D. S.*
-id: 75	num: 3	D: 8	C: 0.071429	L: 2101.000000	coop:  68	years: 1950	infl: 0.693921	Topsis: 0.722484 Topsis2: 0.153846
+id: 75	num: 3	D: 8	C: 0.071429	L: 2101.000000	coop:  68	years: 1950	infl: 0.693921	Topsis: 0.722484 Topsis2: 0.124728
 name: DAYKIN, DAVID E.
-id: 96	num: 2	D: 8	C: 0.214286	L: 1995.000000	coop:  33	years: 1976	infl: 0.829262	Topsis: 0.783856 Topsis2: 0.153846
+id: 96	num: 2	D: 8	C: 0.214286	L: 1995.000000	coop:  33	years: 1976	infl: 0.829262	Topsis: 0.783856 Topsis2: 0.149055
 name: DUKE, RICHARD ALTER
-id: 114	num: 8	D: 8	C: 0.428571	L: 1986.000000	coop:  14	years: 1977	infl: 0.845791	Topsis: 0.789368 Topsis2: 0.153846
+id: 114	num: 8	D: 8	C: 0.428571	L: 1986.000000	coop:  14	years: 1977	infl: 0.845791	Topsis: 0.789368 Topsis2: 0.152026
 name: HILDEBRAND, ADOLF J.
-id: 208	num: 1	D: 8	C: 0.214286	L: 2155.000000	coop:  14	years: 1987	infl: 0.747142	Topsis: 0.693540 Topsis2: 0.153846
+id: 208	num: 1	D: 8	C: 0.214286	L: 2155.000000	coop:  14	years: 1987	infl: 0.747142	Topsis: 0.693540 Topsis2: 0.134295
 name: HINDMAN, NEIL B.
-id: 209	num: 3	D: 8	C: 0.321429	L: 2146.000000	coop:  43	years: 1976	infl: 0.763783	Topsis: 0.698263 Topsis2: 0.153846
+id: 209	num: 3	D: 8	C: 0.321429	L: 2146.000000	coop:  43	years: 1976	infl: 0.763783	Topsis: 0.698263 Topsis2: 0.137286
 name: HORAK, PETER
-id: 215	num: 1	D: 8	C: 0.285714	L: 1999.000000	coop:  52	years: 1994	infl: 0.815031	Topsis: 0.781422 Topsis2: 0.153846
+id: 215	num: 1	D: 8	C: 0.285714	L: 1999.000000	coop:  52	years: 1994	infl: 0.815031	Topsis: 0.781422 Topsis2: 0.146497
 name: KLAMKIN, MURRAY SEYMOUR*
-id: 246	num: 2	D: 8	C: 0.000000	L: 2097.000000	coop:  37	years: 1973	infl: 0.693083	Topsis: 0.724687 Topsis2: 0.153846
+id: 246	num: 2	D: 8	C: 0.000000	L: 2097.000000	coop:  37	years: 1973	infl: 0.693083	Topsis: 0.724687 Topsis2: 0.124578
 name: KRIVELEVICH, MICHAEL
-id: 264	num: 1	D: 8	C: 0.392857	L: 1982.000000	coop:  68	years: 1996	infl: 0.874882	Topsis: 0.791834 Topsis2: 0.153846
+id: 264	num: 1	D: 8	C: 0.392857	L: 1982.000000	coop:  68	years: 1996	infl: 0.874882	Topsis: 0.791834 Topsis2: 0.157255
 name: MCCANNA, JOSEPH E.
-id: 304	num: 1	D: 8	C: 0.285714	L: 2203.000000	coop:  16	years: 1992	infl: 0.755622	Topsis: 0.669003 Topsis2: 0.153846
+id: 304	num: 1	D: 8	C: 0.285714	L: 2203.000000	coop:  16	years: 1992	infl: 0.755622	Topsis: 0.669003 Topsis2: 0.135819
 name: MONTGOMERY, HUGH LOWELL
-id: 315	num: 1	D: 8	C: 0.035714	L: 2143.000000	coop:  32	years: 1999	infl: 0.668372	Topsis: 0.699846 Topsis2: 0.153846
+id: 315	num: 1	D: 8	C: 0.035714	L: 2143.000000	coop:  32	years: 1999	infl: 0.668372	Topsis: 0.699846 Topsis2: 0.120136
 name: NICOLAS, JEAN-LOUIS
-id: 330	num: 19	D: 8	C: 0.214286	L: 2051.000000	coop:  32	years: 1975	infl: 0.742601	Topsis: 0.750642 Topsis2: 0.153846
+id: 330	num: 19	D: 8	C: 0.214286	L: 2051.000000	coop:  32	years: 1975	infl: 0.742601	Topsis: 0.750642 Topsis2: 0.133479
 name: PALFY, PETER PAL
-id: 341	num: 3	D: 8	C: 0.178571	L: 2115.000000	coop:  38	years: 1987	infl: 0.760450	Topsis: 0.714838 Topsis2: 0.153846
+id: 341	num: 3	D: 8	C: 0.178571	L: 2115.000000	coop:  38	years: 1987	infl: 0.760450	Topsis: 0.714838 Topsis2: 0.136687
 name: ROSA, ALEXANDER
-id: 379	num: 1	D: 8	C: 0.250000	L: 2197.000000	coop:  68	years: 1971	infl: 0.744827	Topsis: 0.672012 Topsis2: 0.153846
+id: 379	num: 1	D: 8	C: 0.250000	L: 2197.000000	coop:  68	years: 1971	infl: 0.744827	Topsis: 0.672012 Topsis2: 0.133879
 name: SHOREY, TARLOK N.
-id: 424	num: 1	D: 8	C: 0.250000	L: 2328.000000	coop:  29	years: 1976	infl: 0.630583	Topsis: 0.609855 Topsis2: 0.153846
+id: 424	num: 1	D: 8	C: 0.250000	L: 2328.000000	coop:  29	years: 1976	infl: 0.630583	Topsis: 0.609855 Topsis2: 0.113344
 name: SUBBARAO, MATUKUMALLI VENKATA*
-id: 449	num: 2	D: 8	C: 0.035714	L: 2079.000000	coop:  41	years: 1972	infl: 0.678847	Topsis: 0.734707 Topsis2: 0.153846
+id: 449	num: 2	D: 8	C: 0.035714	L: 2079.000000	coop:  41	years: 1972	infl: 0.678847	Topsis: 0.734707 Topsis2: 0.122019
 name: SZALAY, MIHALY
-id: 455	num: 6	D: 8	C: 0.178571	L: 2152.000000	coop:  10	years: 1977	infl: 0.693797	Topsis: 0.695110 Topsis2: 0.153846
+id: 455	num: 6	D: 8	C: 0.178571	L: 2152.000000	coop:  10	years: 1977	infl: 0.693797	Topsis: 0.695110 Topsis2: 0.124706
 name: TIJDEMAN, ROBERT
-id: 470	num: 1	D: 8	C: 0.357143	L: 2139.000000	coop:  48	years: 1988	infl: 0.694044	Topsis: 0.701964 Topsis2: 0.153846
+id: 470	num: 1	D: 8	C: 0.357143	L: 2139.000000	coop:  48	years: 1988	infl: 0.694044	Topsis: 0.701964 Topsis2: 0.124751
 name: ABBOTT, HARVEY LESLIE
-id: 0	num: 1	D: 7	C: 0.238095	L: 2117.000000	coop:  24	years: 1974	infl: 0.768477	Topsis: 0.713754 Topsis2: 0.134615
+id: 0	num: 1	D: 7	C: 0.238095	L: 2117.000000	coop:  24	years: 1974	infl: 0.768477	Topsis: 0.713754 Topsis2: 0.120863
 name: ARONOV, BORIS
-id: 16	num: 1	D: 7	C: 0.619048	L: 2057.000000	coop:  98	years: 1994	infl: 0.833630	Topsis: 0.747191 Topsis2: 0.134615
+id: 16	num: 1	D: 7	C: 0.619048	L: 2057.000000	coop:  98	years: 1994	infl: 0.833630	Topsis: 0.747191 Topsis2: 0.131111
 name: BALOG, ANTAL
-id: 23	num: 1	D: 7	C: 0.476190	L: 2026.000000	coop:  22	years: 1990	infl: 0.844653	Topsis: 0.765243 Topsis2: 0.134615
+id: 23	num: 1	D: 7	C: 0.476190	L: 2026.000000	coop:  22	years: 1990	infl: 0.844653	Topsis: 0.765243 Topsis2: 0.132844
 name: CANFIELD, EARL RODNEY
-id: 62	num: 1	D: 7	C: 0.428571	L: 2058.000000	coop:  30	years: 1983	infl: 0.798672	Topsis: 0.746618 Topsis2: 0.134615
+id: 62	num: 1	D: 7	C: 0.428571	L: 2058.000000	coop:  30	years: 1983	infl: 0.798672	Topsis: 0.746618 Topsis2: 0.125612
 name: DE CAEN, DOMINIQUE*
-id: 98	num: 1	D: 7	C: 0.142857	L: 2017.000000	coop:  28	years: 1986	infl: 0.814804	Topsis: 0.770588 Topsis2: 0.134615
+id: 98	num: 1	D: 7	C: 0.142857	L: 2017.000000	coop:  28	years: 1986	infl: 0.814804	Topsis: 0.770588 Topsis2: 0.128150
 name: EGGLETON, ROGER BENJAMIN
-id: 118	num: 7	D: 7	C: 0.190476	L: 2197.000000	coop:  23	years: 1972	infl: 0.690864	Topsis: 0.672012 Topsis2: 0.134615
+id: 118	num: 7	D: 7	C: 0.190476	L: 2197.000000	coop:  23	years: 1972	infl: 0.690864	Topsis: 0.672012 Topsis2: 0.108657
 name: FABER, VANCE
-id: 125	num: 3	D: 7	C: 0.000000	L: 2148.000000	coop:  64	years: 1981	infl: 0.726058	Topsis: 0.697210 Topsis2: 0.134615
+id: 125	num: 3	D: 7	C: 0.000000	L: 2148.000000	coop:  64	years: 1981	infl: 0.726058	Topsis: 0.697210 Topsis2: 0.114192
 name: GIMBEL, JOHN GORDON
-id: 155	num: 4	D: 7	C: 0.142857	L: 2104.000000	coop:  34	years: 1990	infl: 0.770700	Topsis: 0.720837 Topsis2: 0.134615
+id: 155	num: 4	D: 7	C: 0.142857	L: 2104.000000	coop:  34	years: 1990	infl: 0.770700	Topsis: 0.720837 Topsis2: 0.121213
 name: GODSIL, CHRISTOPHER DAVID
-id: 158	num: 1	D: 7	C: 0.142857	L: 2076.000000	coop:  45	years: 1988	infl: 0.763266	Topsis: 0.736393 Topsis2: 0.134615
+id: 158	num: 1	D: 7	C: 0.142857	L: 2076.000000	coop:  45	years: 1988	infl: 0.763266	Topsis: 0.736393 Topsis2: 0.120044
 name: HAMBURGER, PETER
-id: 182	num: 1	D: 7	C: 0.333333	L: 2031.000000	coop:  29	years: 1996	infl: 0.834202	Topsis: 0.762294 Topsis2: 0.134615
+id: 182	num: 1	D: 7	C: 0.333333	L: 2031.000000	coop:  29	years: 1996	infl: 0.834202	Topsis: 0.762294 Topsis2: 0.131200
 name: HANANI, HAIM*
-id: 184	num: 2	D: 7	C: 0.142857	L: 2062.000000	coop:  16	years: 1962	infl: 0.738954	Topsis: 0.744330 Topsis2: 0.134615
+id: 184	num: 2	D: 7	C: 0.142857	L: 2062.000000	coop:  16	years: 1962	infl: 0.738954	Topsis: 0.744330 Topsis2: 0.116220
 name: HATTINGH, JOHANNES HENDRIK
-id: 194	num: 1	D: 7	C: 0.476190	L: 2240.000000	coop:  40	years: 1993	infl: 0.729933	Topsis: 0.650808 Topsis2: 0.134615
+id: 194	num: 1	D: 7	C: 0.476190	L: 2240.000000	coop:  40	years: 1993	infl: 0.729933	Topsis: 0.650808 Topsis2: 0.114801
 name: HOLTON, DEREK ALLAN
-id: 213	num: 1	D: 7	C: 0.190476	L: 2149.000000	coop:  68	years: 1984	infl: 0.750665	Topsis: 0.696684 Topsis2: 0.134615
+id: 213	num: 1	D: 7	C: 0.190476	L: 2149.000000	coop:  68	years: 1984	infl: 0.750665	Topsis: 0.696684 Topsis2: 0.118062
 name: JANSON, SVANTE
-id: 228	num: 1	D: 7	C: 0.428571	L: 1961.000000	coop:  102	years: 1996	infl: 0.869094	Topsis: 0.804946 Topsis2: 0.134615
+id: 228	num: 1	D: 7	C: 0.428571	L: 1961.000000	coop:  102	years: 1996	infl: 0.869094	Topsis: 0.804946 Topsis2: 0.136688
 name: JOO, ISTVAN*
-id: 232	num: 12	D: 7	C: 0.047619	L: 2303.000000	coop:  52	years: 1987	infl: 0.534913	Topsis: 0.621171 Topsis2: 0.134615
+id: 232	num: 12	D: 7	C: 0.047619	L: 2303.000000	coop:  52	years: 1987	infl: 0.534913	Topsis: 0.621171 Topsis2: 0.084129
 name: KAC, MARK*
-id: 234	num: 5	D: 7	C: 0.142857	L: 2706.000000	coop:  47	years: 1939	infl: 0.447449	Topsis: 0.464237 Topsis2: 0.134615
+id: 234	num: 5	D: 7	C: 0.142857	L: 2706.000000	coop:  47	years: 1939	infl: 0.447449	Topsis: 0.464237 Topsis2: 0.070373
 name: LASKAR, RENU CHAKRAVARTI
-id: 272	num: 4	D: 7	C: 0.428571	L: 2275.000000	coop:  85	years: 1983	infl: 0.690269	Topsis: 0.634140 Topsis2: 0.134615
+id: 272	num: 4	D: 7	C: 0.428571	L: 2275.000000	coop:  85	years: 1983	infl: 0.690269	Topsis: 0.634140 Topsis2: 0.108563
 name: LEV, VSEVOLOD F.
-id: 277	num: 1	D: 7	C: 0.238095	L: 2075.000000	coop:  18	years: 1999	infl: 0.779373	Topsis: 0.736957 Topsis2: 0.134615
+id: 277	num: 1	D: 7	C: 0.238095	L: 2075.000000	coop:  18	years: 1999	infl: 0.779373	Topsis: 0.736957 Topsis2: 0.122577
 name: LIU, JIUQIANG
-id: 283	num: 2	D: 7	C: 0.476190	L: 2397.000000	coop:  23	years: 1992	infl: 0.669660	Topsis: 0.579847 Topsis2: 0.134615
+id: 283	num: 2	D: 7	C: 0.476190	L: 2397.000000	coop:  23	years: 1992	infl: 0.669660	Topsis: 0.579847 Topsis2: 0.105322
 name: MAIER, HELMUT
-id: 293	num: 1	D: 7	C: 0.333333	L: 2153.000000	coop:  14	years: 1987	infl: 0.760699	Topsis: 0.694586 Topsis2: 0.134615
+id: 293	num: 1	D: 7	C: 0.333333	L: 2153.000000	coop:  14	years: 1987	infl: 0.760699	Topsis: 0.694586 Topsis2: 0.119640
 name: MATE, ATTILA
-id: 299	num: 3	D: 7	C: 0.142857	L: 2160.000000	coop:  16	years: 1970	infl: 0.728133	Topsis: 0.690933 Topsis2: 0.134615
+id: 299	num: 3	D: 7	C: 0.142857	L: 2160.000000	coop:  16	years: 1970	infl: 0.728133	Topsis: 0.690933 Topsis2: 0.114518
 name: PURDY, GEORGE BARRY
-id: 361	num: 8	D: 7	C: 0.238095	L: 2038.000000	coop:  22	years: 1971	infl: 0.801106	Topsis: 0.758190 Topsis2: 0.134615
+id: 361	num: 8	D: 7	C: 0.238095	L: 2038.000000	coop:  22	years: 1971	infl: 0.801106	Topsis: 0.758190 Topsis2: 0.125995
 name: REZNICK, BRUCE ARIE
-id: 371	num: 1	D: 7	C: 0.285714	L: 2047.000000	coop:  26	years: 1987	infl: 0.766773	Topsis: 0.752954 Topsis2: 0.134615
+id: 371	num: 1	D: 7	C: 0.285714	L: 2047.000000	coop:  26	years: 1987	infl: 0.766773	Topsis: 0.752954 Topsis2: 0.120595
 name: RUSZINKO, MIKLOS
-id: 387	num: 1	D: 7	C: 0.571429	L: 1986.000000	coop:  20	years: 1998	infl: 0.908268	Topsis: 0.789368 Topsis2: 0.134615
+id: 387	num: 1	D: 7	C: 0.571429	L: 1986.000000	coop:  20	years: 1998	infl: 0.908268	Topsis: 0.789368 Topsis2: 0.142849
 name: SCHUSTER, SEYMOUR
-id: 409	num: 2	D: 7	C: 0.380952	L: 2091.000000	coop:  16	years: 1981	infl: 0.807474	Topsis: 0.728008 Topsis2: 0.134615
+id: 409	num: 2	D: 7	C: 0.380952	L: 2091.000000	coop:  16	years: 1981	infl: 0.807474	Topsis: 0.728008 Topsis2: 0.126997
 name: SIMMONS, GUSTAVUS J.
-id: 428	num: 1	D: 7	C: 0.285714	L: 1966.000000	coop:  26	years: 1973	infl: 0.842091	Topsis: 0.801799 Topsis2: 0.134615
+id: 428	num: 1	D: 7	C: 0.285714	L: 1966.000000	coop:  26	years: 1973	infl: 0.842091	Topsis: 0.801799 Topsis2: 0.132441
 name: SINGHI, NAVIN MADHAVPRASAD
-id: 430	num: 2	D: 7	C: 0.333333	L: 2131.000000	coop:  35	years: 1977	infl: 0.800191	Topsis: 0.706223 Topsis2: 0.134615
+id: 430	num: 2	D: 7	C: 0.333333	L: 2131.000000	coop:  35	years: 1977	infl: 0.800191	Topsis: 0.706223 Topsis2: 0.125851
 name: SIRAN, JOZEF
-id: 431	num: 1	D: 7	C: 0.333333	L: 2072.000000	coop:  69	years: 1994	infl: 0.794606	Topsis: 0.738650 Topsis2: 0.134615
+id: 431	num: 1	D: 7	C: 0.333333	L: 2072.000000	coop:  69	years: 1994	infl: 0.794606	Topsis: 0.738650 Topsis2: 0.124973
 name: STATON, WILLIAM A., III
-id: 441	num: 4	D: 7	C: 0.380952	L: 2100.000000	coop:  20	years: 1991	infl: 0.788931	Topsis: 0.723034 Topsis2: 0.134615
+id: 441	num: 4	D: 7	C: 0.380952	L: 2100.000000	coop:  20	years: 1991	infl: 0.788931	Topsis: 0.723034 Topsis2: 0.124080
 name: VAN LINT, JACOBUS HENDRICUS*
-id: 484	num: 2	D: 7	C: 0.190476	L: 2024.000000	coop:  63	years: 1966	infl: 0.821769	Topsis: 0.766426 Topsis2: 0.134615
+id: 484	num: 2	D: 7	C: 0.190476	L: 2024.000000	coop:  63	years: 1966	infl: 0.821769	Topsis: 0.766426 Topsis2: 0.129245
 name: VAUGHAN, ROBERT CHARLES
-id: 486	num: 2	D: 7	C: 0.095238	L: 2233.000000	coop:  18	years: 1974	infl: 0.649149	Topsis: 0.654204 Topsis2: 0.134615
+id: 486	num: 2	D: 7	C: 0.095238	L: 2233.000000	coop:  18	years: 1974	infl: 0.649149	Topsis: 0.654204 Topsis2: 0.102096
 name: BERGELSON, VITALY
-id: 33	num: 1	D: 6	C: 0.400000	L: 2119.000000	coop:  37	years: 1997	infl: 0.784066	Topsis: 0.712672 Topsis2: 0.115385
+id: 33	num: 1	D: 6	C: 0.400000	L: 2119.000000	coop:  37	years: 1997	infl: 0.784066	Topsis: 0.712672 Topsis2: 0.105699
 name: BLASS, ANDREAS RAPHAEL
-id: 37	num: 1	D: 6	C: 0.066667	L: 2143.000000	coop:  51	years: 1992	infl: 0.691425	Topsis: 0.699846 Topsis2: 0.115385
+id: 37	num: 1	D: 6	C: 0.066667	L: 2143.000000	coop:  51	years: 1992	infl: 0.691425	Topsis: 0.699846 Topsis2: 0.093210
 name: BOAS, RALPH PHILIP, JR.*
-id: 41	num: 1	D: 6	C: 0.133333	L: 2448.000000	coop:  31	years: 1948	infl: 0.548755	Topsis: 0.558755 Topsis2: 0.115385
+id: 41	num: 1	D: 6	C: 0.133333	L: 2448.000000	coop:  31	years: 1948	infl: 0.548755	Topsis: 0.558755 Topsis2: 0.073977
 name: BRENNER, JOEL LEE*
-id: 50	num: 1	D: 6	C: 0.200000	L: 2282.000000	coop:  44	years: 1987	infl: 0.600746	Topsis: 0.630868 Topsis2: 0.115385
+id: 50	num: 1	D: 6	C: 0.200000	L: 2282.000000	coop:  44	years: 1987	infl: 0.600746	Topsis: 0.630868 Topsis2: 0.080986
 name: BRILLHART, JOHN DAVID
-id: 51	num: 1	D: 6	C: 0.200000	L: 2207.000000	coop:  22	years: 1983	infl: 0.702752	Topsis: 0.667007 Topsis2: 0.115385
+id: 51	num: 1	D: 6	C: 0.200000	L: 2207.000000	coop:  22	years: 1983	infl: 0.702752	Topsis: 0.667007 Topsis2: 0.094737
 name: BROWN, WILLIAM G.
-id: 54	num: 6	D: 6	C: 0.200000	L: 1981.000000	coop:  8	years: 1973	infl: 0.825247	Topsis: 0.792452 Topsis2: 0.115385
+id: 54	num: 6	D: 6	C: 0.200000	L: 1981.000000	coop:  8	years: 1973	infl: 0.825247	Topsis: 0.792452 Topsis2: 0.111250
 name: CHUNG, KAI-LAI*
-id: 78	num: 4	D: 6	C: 0.200000	L: 2690.000000	coop:  32	years: 1947	infl: 0.445294	Topsis: 0.469571 Topsis2: 0.115385
+id: 78	num: 4	D: 6	C: 0.200000	L: 2690.000000	coop:  32	years: 1947	infl: 0.445294	Topsis: 0.469571 Topsis2: 0.060029
 name: DAVENPORT, HAROLD*
-id: 94	num: 7	D: 6	C: 0.066667	L: 2289.000000	coop:  24	years: 1936	infl: 0.617798	Topsis: 0.627616 Topsis2: 0.115385
+id: 94	num: 7	D: 6	C: 0.066667	L: 2289.000000	coop:  24	years: 1936	infl: 0.617798	Topsis: 0.627616 Topsis2: 0.083284
 name: DE KONINCK, JEAN-MARIE
-id: 99	num: 1	D: 6	C: 0.266667	L: 2376.000000	coop:  21	years: 1981	infl: 0.649747	Topsis: 0.588795 Topsis2: 0.115385
+id: 99	num: 1	D: 6	C: 0.266667	L: 2376.000000	coop:  21	years: 1981	infl: 0.649747	Topsis: 0.588795 Topsis2: 0.087591
 name: DEZA, MICHEL-MARIE
-id: 106	num: 4	D: 6	C: 0.466667	L: 2159.000000	coop:  72	years: 1975	infl: 0.787186	Topsis: 0.691454 Topsis2: 0.115385
+id: 106	num: 4	D: 6	C: 0.466667	L: 2159.000000	coop:  72	years: 1975	infl: 0.787186	Topsis: 0.691454 Topsis2: 0.106119
 name: FAJTLOWICZ, SIEMION
-id: 126	num: 5	D: 6	C: 0.133333	L: 2250.000000	coop:  24	years: 1977	infl: 0.700071	Topsis: 0.645993 Topsis2: 0.115385
+id: 126	num: 5	D: 6	C: 0.133333	L: 2250.000000	coop:  24	years: 1977	infl: 0.700071	Topsis: 0.645993 Topsis2: 0.094375
 name: FON-DER-FLAASS, DMITRI G.
-id: 135	num: 1	D: 6	C: 0.400000	L: 2075.000000	coop:  21	years: 1992	infl: 0.859871	Topsis: 0.736957 Topsis2: 0.115385
+id: 135	num: 1	D: 6	C: 0.400000	L: 2075.000000	coop:  21	years: 1992	infl: 0.859871	Topsis: 0.736957 Topsis2: 0.115918
 name: FREIMAN, GREGORY A.
-id: 141	num: 1	D: 6	C: 0.200000	L: 1993.000000	coop:  36	years: 1990	infl: 0.820668	Topsis: 0.785076 Topsis2: 0.115385
+id: 141	num: 1	D: 6	C: 0.200000	L: 1993.000000	coop:  36	years: 1990	infl: 0.820668	Topsis: 0.785076 Topsis2: 0.110633
 name: FREUD, GEZA*
-id: 142	num: 1	D: 6	C: 0.266667	L: 2352.000000	coop:  24	years: 1974	infl: 0.610938	Topsis: 0.599217 Topsis2: 0.115385
+id: 142	num: 1	D: 6	C: 0.266667	L: 2352.000000	coop:  24	years: 1974	infl: 0.610938	Topsis: 0.599217 Topsis2: 0.082360
 name: FUCHS, WOLFGANG HEINRICH JOHANNES*
-id: 146	num: 1	D: 6	C: 0.133333	L: 2300.000000	coop:  28	years: 1956	infl: 0.568999	Topsis: 0.622545 Topsis2: 0.115385
+id: 146	num: 1	D: 6	C: 0.133333	L: 2300.000000	coop:  28	years: 1956	infl: 0.568999	Topsis: 0.622545 Topsis2: 0.076706
 name: HOBBS, ARTHUR M.
-id: 210	num: 4	D: 6	C: 0.066667	L: 2112.000000	coop:  31	years: 1977	infl: 0.711808	Topsis: 0.716468 Topsis2: 0.115385
+id: 210	num: 4	D: 6	C: 0.066667	L: 2112.000000	coop:  31	years: 1977	infl: 0.711808	Topsis: 0.716468 Topsis2: 0.095958
 name: LARSON, JEAN ANN
-id: 271	num: 5	D: 6	C: 0.333333	L: 2089.000000	coop:  13	years: 1979	infl: 0.779405	Topsis: 0.729119 Topsis2: 0.115385
+id: 271	num: 5	D: 6	C: 0.333333	L: 2089.000000	coop:  13	years: 1979	infl: 0.779405	Topsis: 0.729119 Topsis2: 0.105070
 name: MONTGOMERY, PETER L.
-id: 316	num: 3	D: 6	C: 0.466667	L: 1985.000000	coop:  49	years: 1973	infl: 0.854297	Topsis: 0.789984 Topsis2: 0.115385
+id: 316	num: 3	D: 6	C: 0.466667	L: 1985.000000	coop:  49	years: 1973	infl: 0.854297	Topsis: 0.789984 Topsis2: 0.115167
 name: MORAN, SHLOMO
-id: 318	num: 2	D: 6	C: 0.266667	L: 2224.000000	coop:  65	years: 1987	infl: 0.672237	Topsis: 0.658602 Topsis2: 0.115385
+id: 318	num: 2	D: 6	C: 0.266667	L: 2224.000000	coop:  65	years: 1987	infl: 0.672237	Topsis: 0.658602 Topsis2: 0.090623
 name: PIPPERT, RAYMOND ELMER
-id: 350	num: 1	D: 6	C: 0.466667	L: 2142.000000	coop:  13	years: 1996	infl: 0.788695	Topsis: 0.700375 Topsis2: 0.115385
+id: 350	num: 1	D: 6	C: 0.466667	L: 2142.000000	coop:  13	years: 1996	infl: 0.788695	Topsis: 0.700375 Topsis2: 0.106323
 name: POLLACK, RICHARD M.
-id: 352	num: 1	D: 6	C: 0.200000	L: 2060.000000	coop:  43	years: 1989	infl: 0.806235	Topsis: 0.745473 Topsis2: 0.115385
+id: 352	num: 1	D: 6	C: 0.200000	L: 2060.000000	coop:  43	years: 1989	infl: 0.806235	Topsis: 0.745473 Topsis2: 0.108687
 name: PRINS, GEERT CALEB ERNST*
-id: 358	num: 1	D: 6	C: 0.200000	L: 2148.000000	coop:  14	years: 2003	infl: 0.714089	Topsis: 0.697210 Topsis2: 0.115385
+id: 358	num: 1	D: 6	C: 0.200000	L: 2148.000000	coop:  14	years: 2003	infl: 0.714089	Topsis: 0.697210 Topsis2: 0.096265
 name: PULLMAN, NORMAN JAY*
-id: 360	num: 2	D: 6	C: 0.133333	L: 2145.000000	coop:  27	years: 1985	infl: 0.724233	Topsis: 0.698790 Topsis2: 0.115385
+id: 360	num: 2	D: 6	C: 0.133333	L: 2145.000000	coop:  27	years: 1985	infl: 0.724233	Topsis: 0.698790 Topsis2: 0.097633
 name: RADO, RICHARD*
-id: 363	num: 18	D: 6	C: 0.266667	L: 2207.000000	coop:  16	years: 1950	infl: 0.675207	Topsis: 0.667007 Topsis2: 0.115385
+id: 363	num: 18	D: 6	C: 0.266667	L: 2207.000000	coop:  16	years: 1950	infl: 0.675207	Topsis: 0.667007 Topsis2: 0.091024
 name: RAMACHANDRA, KANAKANAHALLI
-id: 364	num: 2	D: 6	C: 0.066667	L: 2377.000000	coop:  19	years: 1975	infl: 0.640724	Topsis: 0.588366 Topsis2: 0.115385
+id: 364	num: 2	D: 6	C: 0.066667	L: 2377.000000	coop:  19	years: 1975	infl: 0.640724	Topsis: 0.588366 Topsis2: 0.086375
 name: REVESZ, PAL
-id: 370	num: 10	D: 6	C: 0.200000	L: 2242.000000	coop:  34	years: 1975	infl: 0.606250	Topsis: 0.649841 Topsis2: 0.115385
+id: 370	num: 10	D: 6	C: 0.200000	L: 2242.000000	coop:  34	years: 1975	infl: 0.606250	Topsis: 0.649841 Topsis2: 0.081728
 name: ROSENFELD, MOSHE^1
-id: 381	num: 1	D: 6	C: 0.266667	L: 2069.000000	coop:  30	years: 1997	infl: 0.824545	Topsis: 0.740348 Topsis2: 0.115385
+id: 381	num: 1	D: 6	C: 0.266667	L: 2069.000000	coop:  30	years: 1997	infl: 0.824545	Topsis: 0.740348 Topsis2: 0.111156
 name: SCHONHEIM, JOHANAN
-id: 407	num: 4	D: 6	C: 0.266667	L: 2233.000000	coop:  25	years: 1970	infl: 0.739554	Topsis: 0.654204 Topsis2: 0.115385
+id: 407	num: 4	D: 6	C: 0.266667	L: 2233.000000	coop:  25	years: 1970	infl: 0.739554	Topsis: 0.654204 Topsis2: 0.099698
 name: SCHULMAN, LEONARD J. Y.
-id: 408	num: 1	D: 6	C: 0.666667	L: 2115.000000	coop:  57	years: 1994	infl: 0.818585	Topsis: 0.714838 Topsis2: 0.115385
+id: 408	num: 1	D: 6	C: 0.666667	L: 2115.000000	coop:  57	years: 1994	infl: 0.818585	Topsis: 0.714838 Topsis2: 0.110352
 name: SELKOW, STANLEY M.
-id: 414	num: 1	D: 6	C: 0.533333	L: 2074.000000	coop:  19	years: 1980	infl: 0.876656	Topsis: 0.737521 Topsis2: 0.115385
+id: 414	num: 1	D: 6	C: 0.533333	L: 2074.000000	coop:  19	years: 1980	infl: 0.876656	Topsis: 0.737521 Topsis2: 0.118181
 name: SHARMA, AMBIKESHWAR*
-id: 419	num: 1	D: 6	C: 0.333333	L: 2131.000000	coop:  58	years: 1965	infl: 0.661497	Topsis: 0.706223 Topsis2: 0.115385
+id: 419	num: 1	D: 6	C: 0.333333	L: 2131.000000	coop:  58	years: 1965	infl: 0.661497	Topsis: 0.706223 Topsis2: 0.089175
 name: SHISHA, OVED*
-id: 423	num: 1	D: 6	C: 0.200000	L: 2542.000000	coop:  46	years: 1985	infl: 0.566196	Topsis: 0.522096 Topsis2: 0.115385
+id: 423	num: 1	D: 6	C: 0.200000	L: 2542.000000	coop:  46	years: 1985	infl: 0.566196	Topsis: 0.522096 Topsis2: 0.076328
 name: STEWART, CAMERON LEIGH
-id: 444	num: 4	D: 6	C: 0.466667	L: 2164.000000	coop:  17	years: 1976	infl: 0.751615	Topsis: 0.688856 Topsis2: 0.115385
+id: 444	num: 4	D: 6	C: 0.466667	L: 2164.000000	coop:  17	years: 1976	infl: 0.751615	Topsis: 0.688856 Topsis2: 0.101324
 name: SZABADOS, JOZSEF
-id: 454	num: 4	D: 6	C: 0.333333	L: 2455.000000	coop:  28	years: 1978	infl: 0.566490	Topsis: 0.555928 Topsis2: 0.115385
+id: 454	num: 4	D: 6	C: 0.333333	L: 2455.000000	coop:  28	years: 1978	infl: 0.566490	Topsis: 0.555928 Topsis2: 0.076368
 name: SZUSZ, PETER*
-id: 462	num: 2	D: 6	C: 0.200000	L: 2352.000000	coop:  14	years: 1958	infl: 0.617247	Topsis: 0.599217 Topsis2: 0.115385
+id: 462	num: 2	D: 6	C: 0.200000	L: 2352.000000	coop:  14	years: 1958	infl: 0.617247	Topsis: 0.599217 Topsis2: 0.083210
 name: TAYLOR, SAMUEL JAMES
-id: 466	num: 7	D: 6	C: 0.266667	L: 2384.000000	coop:  29	years: 1957	infl: 0.577112	Topsis: 0.585368 Topsis2: 0.115385
+id: 466	num: 7	D: 6	C: 0.266667	L: 2384.000000	coop:  29	years: 1957	infl: 0.577112	Topsis: 0.585368 Topsis2: 0.077800
 name: VINCZE, ISTVAN*
-id: 491	num: 3	D: 6	C: 0.066667	L: 2297.000000	coop:  24	years: 1958	infl: 0.655199	Topsis: 0.623923 Topsis2: 0.115385
+id: 491	num: 3	D: 6	C: 0.066667	L: 2297.000000	coop:  24	years: 1958	infl: 0.655199	Topsis: 0.623923 Topsis2: 0.088326
 name: WAGSTAFF, SAMUEL STANDFIELD, JR.
-id: 493	num: 1	D: 6	C: 0.400000	L: 2176.000000	coop:  29	years: 1980	infl: 0.767355	Topsis: 0.682672 Topsis2: 0.115385
+id: 493	num: 1	D: 6	C: 0.400000	L: 2176.000000	coop:  29	years: 1980	infl: 0.767355	Topsis: 0.682672 Topsis2: 0.103446
 name: AIGNER, MARTIN S.
-id: 4	num: 1	D: 5	C: 0.200000	L: 2080.000000	coop:  26	years: 1987	infl: 0.793065	Topsis: 0.734145 Topsis2: 0.096154
+id: 4	num: 1	D: 5	C: 0.200000	L: 2080.000000	coop:  26	years: 1987	infl: 0.793065	Topsis: 0.734145 Topsis2: 0.089093
 name: ARKIN, JOSEPH*
-id: 14	num: 1	D: 5	C: 0.200000	L: 2096.000000	coop:  15	years: 1996	infl: 0.797058	Topsis: 0.725239 Topsis2: 0.096154
+id: 14	num: 1	D: 5	C: 0.200000	L: 2096.000000	coop:  15	years: 1996	infl: 0.797058	Topsis: 0.725239 Topsis2: 0.089542
 name: BEHZAD, MEHDI^1
-id: 30	num: 1	D: 5	C: 0.700000	L: 2211.000000	coop:  21	years: 1991	infl: 0.757243	Topsis: 0.665018 Topsis2: 0.096154
+id: 30	num: 1	D: 5	C: 0.700000	L: 2211.000000	coop:  21	years: 1991	infl: 0.757243	Topsis: 0.665018 Topsis2: 0.085069
 name: BERTRAM, EDWARD ARTHUR
-id: 35	num: 1	D: 5	C: 0.300000	L: 2105.000000	coop:  10	years: 1994	infl: 0.764885	Topsis: 0.720289 Topsis2: 0.096154
+id: 35	num: 1	D: 5	C: 0.300000	L: 2105.000000	coop:  10	years: 1994	infl: 0.764885	Topsis: 0.720289 Topsis2: 0.085927
 name: BROWN, THOMAS CRAIG
-id: 53	num: 2	D: 5	C: 0.300000	L: 2070.000000	coop:  26	years: 1985	infl: 0.842729	Topsis: 0.739782 Topsis2: 0.096154
+id: 53	num: 2	D: 5	C: 0.300000	L: 2070.000000	coop:  26	years: 1985	infl: 0.842729	Topsis: 0.739782 Topsis2: 0.094672
 name: CALKIN, NEIL JAMES
-id: 60	num: 2	D: 5	C: 0.200000	L: 2193.000000	coop:  63	years: 1996	infl: 0.764436	Topsis: 0.674027 Topsis2: 0.096154
+id: 60	num: 2	D: 5	C: 0.200000	L: 2193.000000	coop:  63	years: 1996	infl: 0.764436	Topsis: 0.674027 Topsis2: 0.085877
 name: DIAMOND, HAROLD GEORGE
-id: 108	num: 3	D: 5	C: 0.300000	L: 2192.000000	coop:  18	years: 1978	infl: 0.743956	Topsis: 0.674531 Topsis2: 0.096154
+id: 108	num: 3	D: 5	C: 0.300000	L: 2192.000000	coop:  18	years: 1978	infl: 0.743956	Topsis: 0.674531 Topsis2: 0.083576
 name: ELEKES, GYORGY
-id: 120	num: 2	D: 5	C: 0.300000	L: 2092.000000	coop:  14	years: 1981	infl: 0.867609	Topsis: 0.727453 Topsis2: 0.096154
+id: 120	num: 2	D: 5	C: 0.300000	L: 2092.000000	coop:  14	years: 1981	infl: 0.867609	Topsis: 0.727453 Topsis2: 0.097468
 name: FRIED, ERVIN
-id: 144	num: 1	D: 5	C: 0.300000	L: 2071.000000	coop:  24	years: 1972	infl: 0.825087	Topsis: 0.739216 Topsis2: 0.096154
+id: 144	num: 1	D: 5	C: 0.300000	L: 2071.000000	coop:  24	years: 1972	infl: 0.825087	Topsis: 0.739216 Topsis2: 0.092691
 name: GALAMBOS, JANOS
-id: 149	num: 1	D: 5	C: 0.300000	L: 2467.000000	coop:  17	years: 1974	infl: 0.586278	Topsis: 0.551120 Topsis2: 0.096154
+id: 149	num: 1	D: 5	C: 0.300000	L: 2467.000000	coop:  17	years: 1974	infl: 0.586278	Topsis: 0.551120 Topsis2: 0.065863
 name: GORDON, BASIL
-id: 162	num: 1	D: 5	C: 0.200000	L: 2068.000000	coop:  32	years: 1964	infl: 0.787972	Topsis: 0.740916 Topsis2: 0.096154
+id: 162	num: 1	D: 5	C: 0.200000	L: 2068.000000	coop:  32	years: 1964	infl: 0.787972	Topsis: 0.740916 Topsis2: 0.088521
 name: HEGYVARI, NORBERT
-id: 198	num: 3	D: 5	C: 0.200000	L: 2072.000000	coop:  9	years: 1983	infl: 0.750019	Topsis: 0.738650 Topsis2: 0.096154
+id: 198	num: 3	D: 5	C: 0.200000	L: 2072.000000	coop:  9	years: 1983	infl: 0.750019	Topsis: 0.738650 Topsis2: 0.084257
 name: HOFFMAN, ALAN JEROME
-id: 211	num: 1	D: 5	C: 0.200000	L: 1999.000000	coop:  104	years: 1980	infl: 0.835096	Topsis: 0.781422 Topsis2: 0.096154
+id: 211	num: 1	D: 5	C: 0.200000	L: 1999.000000	coop:  104	years: 1980	infl: 0.835096	Topsis: 0.781422 Topsis2: 0.093815
 name: HOGGATT, VERNER EMIL, JR.*
-id: 212	num: 1	D: 5	C: 0.300000	L: 2037.000000	coop:  38	years: 1978	infl: 0.831709	Topsis: 0.758774 Topsis2: 0.096154
+id: 212	num: 1	D: 5	C: 0.300000	L: 2037.000000	coop:  38	years: 1978	infl: 0.831709	Topsis: 0.758774 Topsis2: 0.093435
 name: IVIC, ALEKSANDAR
-id: 223	num: 8	D: 5	C: 0.300000	L: 2234.000000	coop:  31	years: 1980	infl: 0.686070	Topsis: 0.653717 Topsis2: 0.096154
+id: 223	num: 8	D: 5	C: 0.300000	L: 2234.000000	coop:  31	years: 1980	infl: 0.686070	Topsis: 0.653717 Topsis2: 0.077073
 name: KATAI, IMRE
-id: 239	num: 7	D: 5	C: 0.400000	L: 2432.000000	coop:  41	years: 1969	infl: 0.593580	Topsis: 0.565277 Topsis2: 0.096154
+id: 239	num: 7	D: 5	C: 0.400000	L: 2432.000000	coop:  41	years: 1969	infl: 0.593580	Topsis: 0.565277 Topsis2: 0.066683
 name: KLUGERMAN, MICHAEL RICHARD
-id: 249	num: 1	D: 5	C: 1.000000	L: 2122.000000	coop:  13	years: 1994	infl: 0.825554	Topsis: 0.711053 Topsis2: 0.096154
+id: 249	num: 1	D: 5	C: 1.000000	L: 2122.000000	coop:  13	years: 1994	infl: 0.825554	Topsis: 0.711053 Topsis2: 0.092743
 name: LOEBL, MARTIN
-id: 284	num: 1	D: 5	C: 0.300000	L: 1988.000000	coop:  31	years: 1995	infl: 0.894698	Topsis: 0.788139 Topsis2: 0.096154
+id: 284	num: 1	D: 5	C: 0.300000	L: 1988.000000	coop:  31	years: 1995	infl: 0.894698	Topsis: 0.788139 Topsis2: 0.100511
 name: LUCA, FLORIAN
-id: 288	num: 1	D: 5	C: 0.200000	L: 2221.000000	coop:  106	years: 2007	infl: 0.685942	Topsis: 0.660076 Topsis2: 0.096154
+id: 288	num: 1	D: 5	C: 0.200000	L: 2221.000000	coop:  106	years: 2007	infl: 0.685942	Topsis: 0.660076 Topsis2: 0.077059
 name: MALDE, PARESH J.
-id: 296	num: 2	D: 5	C: 0.800000	L: 2300.000000	coop:  9	years: 1987	infl: 0.756973	Topsis: 0.622545 Topsis2: 0.096154
+id: 296	num: 2	D: 5	C: 0.800000	L: 2300.000000	coop:  9	years: 1987	infl: 0.756973	Topsis: 0.622545 Topsis2: 0.085039
 name: MAUDUIT, CHRISTIAN
-id: 300	num: 2	D: 5	C: 0.500000	L: 1968.000000	coop:  31	years: 1998	infl: 0.901536	Topsis: 0.800545 Topsis2: 0.096154
+id: 300	num: 2	D: 5	C: 0.500000	L: 1968.000000	coop:  31	years: 1998	infl: 0.901536	Topsis: 0.800545 Topsis2: 0.101279
 name: MAULDIN, RICHARD DANIEL
-id: 301	num: 5	D: 5	C: 0.000000	L: 2496.000000	coop:  67	years: 1976	infl: 0.537806	Topsis: 0.539690 Topsis2: 0.096154
+id: 301	num: 5	D: 5	C: 0.000000	L: 2496.000000	coop:  67	years: 1976	infl: 0.537806	Topsis: 0.539690 Topsis2: 0.060417
 name: PARSONS, TORRENCE DOUGLAS*
-id: 345	num: 1	D: 5	C: 0.200000	L: 2129.000000	coop:  24	years: 1988	infl: 0.749679	Topsis: 0.707293 Topsis2: 0.096154
+id: 345	num: 1	D: 5	C: 0.200000	L: 2129.000000	coop:  24	years: 1988	infl: 0.749679	Topsis: 0.707293 Topsis2: 0.084219
 name: PIRANIAN, GEORGE*
-id: 351	num: 14	D: 5	C: 0.100000	L: 2730.000000	coop:  27	years: 1947	infl: 0.393029	Topsis: 0.456353 Topsis2: 0.096154
+id: 351	num: 14	D: 5	C: 0.100000	L: 2730.000000	coop:  27	years: 1947	infl: 0.393029	Topsis: 0.456353 Topsis2: 0.044153
 name: SALAT, TIBOR*
-id: 395	num: 1	D: 5	C: 0.300000	L: 2403.000000	coop:  64	years: 1997	infl: 0.590207	Topsis: 0.577319 Topsis2: 0.096154
+id: 395	num: 1	D: 5	C: 0.300000	L: 2403.000000	coop:  64	years: 1997	infl: 0.590207	Topsis: 0.577319 Topsis2: 0.066304
 name: SCHNITZER, FRANZ JOSEF*
-id: 406	num: 1	D: 5	C: 0.100000	L: 2411.000000	coop:  18	years: 1996	infl: 0.555621	Topsis: 0.573968 Topsis2: 0.096154
+id: 406	num: 1	D: 5	C: 0.100000	L: 2411.000000	coop:  18	years: 1996	infl: 0.555621	Topsis: 0.573968 Topsis2: 0.062419
 name: SHALLIT, JEFFREY OUTLAW
-id: 416	num: 1	D: 5	C: 0.100000	L: 2129.000000	coop:  96	years: 1991	infl: 0.749212	Topsis: 0.707293 Topsis2: 0.096154
+id: 416	num: 1	D: 5	C: 0.100000	L: 2129.000000	coop:  96	years: 1991	infl: 0.749212	Topsis: 0.707293 Topsis2: 0.084167
 name: SHIELDS, ALLEN LOWELL*
-id: 422	num: 1	D: 5	C: 0.200000	L: 2279.000000	coop:  45	years: 1965	infl: 0.604791	Topsis: 0.632268 Topsis2: 0.096154
+id: 422	num: 1	D: 5	C: 0.200000	L: 2279.000000	coop:  45	years: 1965	infl: 0.604791	Topsis: 0.632268 Topsis2: 0.067942
 name: SHREVE, WARREN EUGENE
-id: 425	num: 1	D: 5	C: 1.000000	L: 2207.000000	coop:  17	years: 1998	infl: 0.829990	Topsis: 0.667007 Topsis2: 0.096154
+id: 425	num: 1	D: 5	C: 1.000000	L: 2207.000000	coop:  17	years: 1998	infl: 0.829990	Topsis: 0.667007 Topsis2: 0.093241
 name: STINSON, DOUGLAS ROBERT
-id: 445	num: 1	D: 5	C: 0.600000	L: 2118.000000	coop:  102	years: 1983	infl: 0.782246	Topsis: 0.713213 Topsis2: 0.096154
+id: 445	num: 1	D: 5	C: 0.600000	L: 2118.000000	coop:  102	years: 1983	infl: 0.782246	Topsis: 0.713213 Topsis2: 0.087878
 name: SURANYI, JANOS*
-id: 452	num: 4	D: 5	C: 0.300000	L: 2143.000000	coop:  9	years: 1959	infl: 0.775379	Topsis: 0.699846 Topsis2: 0.096154
+id: 452	num: 4	D: 5	C: 0.300000	L: 2143.000000	coop:  9	years: 1959	infl: 0.775379	Topsis: 0.699846 Topsis2: 0.087106
 name: TAYLOR, HERBERT
-id: 465	num: 3	D: 5	C: 0.300000	L: 2086.000000	coop:  27	years: 1971	infl: 0.783290	Topsis: 0.730790 Topsis2: 0.096154
+id: 465	num: 3	D: 5	C: 0.300000	L: 2086.000000	coop:  27	years: 1971	infl: 0.783290	Topsis: 0.730790 Topsis2: 0.087995
 name: TOTIK, VILMOS
-id: 472	num: 1	D: 5	C: 0.000000	L: 2170.000000	coop:  40	years: 1996	infl: 0.703959	Topsis: 0.685756 Topsis2: 0.096154
+id: 472	num: 1	D: 5	C: 0.000000	L: 2170.000000	coop:  40	years: 1996	infl: 0.703959	Topsis: 0.685756 Topsis2: 0.079083
 name: ULAM, STANISLAW MARCIN*
-id: 479	num: 3	D: 5	C: 0.300000	L: 2119.000000	coop:  29	years: 1968	infl: 0.734647	Topsis: 0.712672 Topsis2: 0.096154
+id: 479	num: 3	D: 5	C: 0.300000	L: 2119.000000	coop:  29	years: 1968	infl: 0.734647	Topsis: 0.712672 Topsis2: 0.082531
 name: WANG, JIAN FANG
-id: 494	num: 1	D: 5	C: 0.600000	L: 2264.000000	coop:  63	years: 1997	infl: 0.687028	Topsis: 0.639323 Topsis2: 0.096154
+id: 494	num: 1	D: 5	C: 0.600000	L: 2264.000000	coop:  63	years: 1997	infl: 0.687028	Topsis: 0.639323 Topsis2: 0.077181
 name: BEASLEY, LEROY B.
-id: 28	num: 1	D: 4	C: 0.500000	L: 2414.000000	coop:  39	years: 1987	infl: 0.639759	Topsis: 0.572717 Topsis2: 0.076923
+id: 28	num: 1	D: 4	C: 0.500000	L: 2414.000000	coop:  39	years: 1987	infl: 0.639759	Topsis: 0.572717 Topsis2: 0.057497
 name: BIALOSTOCKI, ARIE
-id: 36	num: 1	D: 4	C: 0.166667	L: 2196.000000	coop:  23	years: 1995	infl: 0.777860	Topsis: 0.672515 Topsis2: 0.076923
+id: 36	num: 1	D: 4	C: 0.166667	L: 2196.000000	coop:  23	years: 1995	infl: 0.777860	Topsis: 0.672515 Topsis2: 0.069908
 name: CHEN, CHUAN CHONG
-id: 69	num: 1	D: 4	C: 0.000000	L: 2253.000000	coop:  29	years: 1976	infl: 0.754997	Topsis: 0.644556 Topsis2: 0.076923
+id: 69	num: 1	D: 4	C: 0.000000	L: 2253.000000	coop:  29	years: 1976	infl: 0.754997	Topsis: 0.644556 Topsis2: 0.067853
 name: CHINN, PHYLLIS ZWEIG
-id: 73	num: 1	D: 4	C: 0.500000	L: 2058.000000	coop:  38	years: 1981	infl: 0.890391	Topsis: 0.746618 Topsis2: 0.076923
+id: 73	num: 1	D: 4	C: 0.500000	L: 2058.000000	coop:  38	years: 1981	infl: 0.890391	Topsis: 0.746618 Topsis2: 0.080022
 name: CLUNIE, JAMES G.
-id: 83	num: 1	D: 4	C: 0.166667	L: 2292.000000	coop:  33	years: 1967	infl: 0.670137	Topsis: 0.626228 Topsis2: 0.076923
+id: 83	num: 1	D: 4	C: 0.166667	L: 2292.000000	coop:  33	years: 1967	infl: 0.670137	Topsis: 0.626228 Topsis2: 0.060227
 name: CONWAY, JOHN HORTON
-id: 86	num: 1	D: 4	C: 0.500000	L: 2186.000000	coop:  61	years: 1979	infl: 0.722274	Topsis: 0.677570 Topsis2: 0.076923
+id: 86	num: 1	D: 4	C: 0.500000	L: 2186.000000	coop:  61	years: 1979	infl: 0.722274	Topsis: 0.677570 Topsis2: 0.064912
 name: CSAKI, ENDRE
-id: 89	num: 1	D: 4	C: 0.333333	L: 2286.000000	coop:  30	years: 1985	infl: 0.652138	Topsis: 0.629007 Topsis2: 0.076923
+id: 89	num: 1	D: 4	C: 0.333333	L: 2286.000000	coop:  30	years: 1985	infl: 0.652138	Topsis: 0.629007 Topsis2: 0.058609
 name: DAVIES, ROY O.
-id: 95	num: 1	D: 4	C: 0.333333	L: 2153.000000	coop:  30	years: 1975	infl: 0.763172	Topsis: 0.694586 Topsis2: 0.076923
+id: 95	num: 1	D: 4	C: 0.333333	L: 2153.000000	coop:  30	years: 1975	infl: 0.763172	Topsis: 0.694586 Topsis2: 0.068588
 name: DRAKE, DAVID ALLYN
-id: 112	num: 1	D: 4	C: 0.166667	L: 2101.000000	coop:  20	years: 1990	infl: 0.826353	Topsis: 0.722484 Topsis2: 0.076923
+id: 112	num: 1	D: 4	C: 0.166667	L: 2101.000000	coop:  20	years: 1990	infl: 0.826353	Topsis: 0.722484 Topsis2: 0.074266
 name: DVORETZKY, ARYEH*
-id: 115	num: 8	D: 4	C: 0.333333	L: 2425.000000	coop:  14	years: 1950	infl: 0.621353	Topsis: 0.568157 Topsis2: 0.076923
+id: 115	num: 8	D: 4	C: 0.333333	L: 2425.000000	coop:  14	years: 1950	infl: 0.621353	Topsis: 0.568157 Topsis2: 0.055842
 name: FELZENBAUM, ALEXANDER GERSH
-id: 131	num: 1	D: 4	C: 0.666667	L: 2146.000000	coop:  8	years: 1988	infl: 0.797767	Topsis: 0.698263 Topsis2: 0.076923
+id: 131	num: 1	D: 4	C: 0.666667	L: 2146.000000	coop:  8	years: 1988	infl: 0.797767	Topsis: 0.698263 Topsis2: 0.071697
 name: FOWLER, JOEL CHRISTOPHER
-id: 136	num: 2	D: 4	C: 0.333333	L: 2128.000000	coop:  5	years: 1985	infl: 0.827430	Topsis: 0.707828 Topsis2: 0.076923
+id: 136	num: 2	D: 4	C: 0.333333	L: 2128.000000	coop:  5	years: 1985	infl: 0.827430	Topsis: 0.707828 Topsis2: 0.074363
 name: GRAHAM, SIDNEY WEST
-id: 165	num: 1	D: 4	C: 0.166667	L: 2283.000000	coop:  17	years: 1996	infl: 0.687128	Topsis: 0.630402 Topsis2: 0.076923
+id: 165	num: 1	D: 4	C: 0.166667	L: 2283.000000	coop:  17	years: 1996	infl: 0.687128	Topsis: 0.630402 Topsis2: 0.061754
 name: HANSON, DENIS
-id: 185	num: 1	D: 4	C: 0.333333	L: 2189.000000	coop:  28	years: 1974	infl: 0.792681	Topsis: 0.676049 Topsis2: 0.076923
+id: 185	num: 1	D: 4	C: 0.333333	L: 2189.000000	coop:  28	years: 1974	infl: 0.792681	Topsis: 0.676049 Topsis2: 0.071240
 name: HSU, DERBIAU FRANK
-id: 218	num: 1	D: 4	C: 0.000000	L: 2061.000000	coop:  127	years: 1992	infl: 0.811635	Topsis: 0.744901 Topsis2: 0.076923
+id: 218	num: 1	D: 4	C: 0.000000	L: 2061.000000	coop:  127	years: 1992	infl: 0.811635	Topsis: 0.744901 Topsis2: 0.072943
 name: JAGOTA, ARUN KUMAR
-id: 227	num: 1	D: 4	C: 0.833333	L: 2153.000000	coop:  34	years: 1996	infl: 0.883577	Topsis: 0.694586 Topsis2: 0.076923
+id: 227	num: 1	D: 4	C: 0.833333	L: 2153.000000	coop:  34	years: 1996	infl: 0.883577	Topsis: 0.694586 Topsis2: 0.079409
 name: KISS, PETER*
-id: 245	num: 2	D: 4	C: 0.500000	L: 2151.000000	coop:  19	years: 1988	infl: 0.821480	Topsis: 0.695634 Topsis2: 0.076923
+id: 245	num: 2	D: 4	C: 0.500000	L: 2151.000000	coop:  19	years: 1988	infl: 0.821480	Topsis: 0.695634 Topsis2: 0.073828
 name: KLAWE, MARIA MARGARET
-id: 247	num: 1	D: 4	C: 0.166667	L: 2068.000000	coop:  89	years: 1980	infl: 0.834780	Topsis: 0.740916 Topsis2: 0.076923
+id: 247	num: 1	D: 4	C: 0.166667	L: 2068.000000	coop:  89	years: 1980	infl: 0.834780	Topsis: 0.740916 Topsis2: 0.075024
 name: KRATSCH, DIETER
-id: 263	num: 1	D: 4	C: 0.666667	L: 2162.000000	coop:  70	years: 1991	infl: 0.853187	Topsis: 0.689894 Topsis2: 0.076923
+id: 263	num: 1	D: 4	C: 0.666667	L: 2162.000000	coop:  70	years: 1991	infl: 0.853187	Topsis: 0.689894 Topsis2: 0.076678
 name: LACAMPAGNE, CAROLE B.
-id: 269	num: 3	D: 4	C: 0.666667	L: 2156.000000	coop:  8	years: 1985	infl: 0.783259	Topsis: 0.693018 Topsis2: 0.076923
+id: 269	num: 3	D: 4	C: 0.666667	L: 2156.000000	coop:  8	years: 1985	infl: 0.783259	Topsis: 0.693018 Topsis2: 0.070393
 name: LAM, PETER CHE BOR
-id: 270	num: 1	D: 4	C: 1.000000	L: 2453.000000	coop:  56	years: 1997	infl: 0.663833	Topsis: 0.556734 Topsis2: 0.076923
+id: 270	num: 1	D: 4	C: 1.000000	L: 2453.000000	coop:  56	years: 1997	infl: 0.663833	Topsis: 0.556734 Topsis2: 0.059660
 name: MAKAI, ENDRE, JR.
-id: 294	num: 3	D: 4	C: 0.166667	L: 2107.000000	coop:  32	years: 1991	infl: 0.771503	Topsis: 0.719194 Topsis2: 0.076923
+id: 294	num: 3	D: 4	C: 0.166667	L: 2107.000000	coop:  32	years: 1991	infl: 0.771503	Topsis: 0.719194 Topsis2: 0.069337
 name: MCELIECE, ROBERT JAMES
-id: 305	num: 1	D: 4	C: 0.333333	L: 2253.000000	coop:  98	years: 1971	infl: 0.730503	Topsis: 0.644556 Topsis2: 0.076923
+id: 305	num: 1	D: 4	C: 0.333333	L: 2253.000000	coop:  98	years: 1971	infl: 0.730503	Topsis: 0.644556 Topsis2: 0.065652
 name: MOLLOY, MICHAEL SEAN O'BRIEN
-id: 314	num: 1	D: 4	C: 0.500000	L: 2063.000000	coop:  39	years: 2002	infl: 0.865802	Topsis: 0.743760 Topsis2: 0.076923
+id: 314	num: 1	D: 4	C: 0.500000	L: 2063.000000	coop:  39	years: 2002	infl: 0.865802	Topsis: 0.743760 Topsis2: 0.077812
 name: MOSER, LEO*
-id: 320	num: 3	D: 4	C: 0.666667	L: 2100.000000	coop:  20	years: 1964	infl: 0.818321	Topsis: 0.723034 Topsis2: 0.076923
+id: 320	num: 3	D: 4	C: 0.666667	L: 2100.000000	coop:  20	years: 1964	infl: 0.818321	Topsis: 0.723034 Topsis2: 0.073544
 name: PINKUS, ALLAN M.
-id: 349	num: 1	D: 4	C: 0.166667	L: 2455.000000	coop:  32	years: 1985	infl: 0.570552	Topsis: 0.555928 Topsis2: 0.076923
+id: 349	num: 1	D: 4	C: 0.166667	L: 2455.000000	coop:  32	years: 1985	infl: 0.570552	Topsis: 0.555928 Topsis2: 0.051277
 name: RAUZY, GERARD
-id: 366	num: 1	D: 4	C: 0.666667	L: 2275.000000	coop:  13	years: 1999	infl: 0.739461	Topsis: 0.634140 Topsis2: 0.076923
+id: 366	num: 1	D: 4	C: 0.666667	L: 2275.000000	coop:  13	years: 1999	infl: 0.739461	Topsis: 0.634140 Topsis2: 0.066457
 name: REDDY, A. R.
-id: 367	num: 11	D: 4	C: 0.333333	L: 2561.000000	coop:  10	years: 1973	infl: 0.587518	Topsis: 0.515013 Topsis2: 0.076923
+id: 367	num: 11	D: 4	C: 0.333333	L: 2561.000000	coop:  10	years: 1973	infl: 0.587518	Topsis: 0.515013 Topsis2: 0.052802
 name: REID, TALMAGE JAMES
-id: 368	num: 2	D: 4	C: 0.666667	L: 2211.000000	coop:  22	years: 1995	infl: 0.789176	Topsis: 0.665018 Topsis2: 0.076923
+id: 368	num: 2	D: 4	C: 0.666667	L: 2211.000000	coop:  22	years: 1995	infl: 0.789176	Topsis: 0.665018 Topsis2: 0.070925
 name: SACHS, HORST
-id: 390	num: 1	D: 4	C: 0.333333	L: 2169.000000	coop:  28	years: 1963	infl: 0.790901	Topsis: 0.686271 Topsis2: 0.076923
+id: 390	num: 1	D: 4	C: 0.333333	L: 2169.000000	coop:  28	years: 1963	infl: 0.790901	Topsis: 0.686271 Topsis2: 0.071080
 name: SAFFARI, BAHMAN
-id: 391	num: 1	D: 4	C: 0.000000	L: 2530.000000	coop:  18	years: 1979	infl: 0.549623	Topsis: 0.526624 Topsis2: 0.076923
+id: 391	num: 1	D: 4	C: 0.000000	L: 2530.000000	coop:  18	years: 1979	infl: 0.549623	Topsis: 0.526624 Topsis2: 0.049396
 name: SCHAER, JONATHAN
-id: 401	num: 1	D: 4	C: 0.333333	L: 2067.000000	coop:  12	years: 1975	infl: 0.850978	Topsis: 0.741483 Topsis2: 0.076923
+id: 401	num: 1	D: 4	C: 0.333333	L: 2067.000000	coop:  12	years: 1975	infl: 0.850978	Topsis: 0.741483 Topsis2: 0.076479
 name: SHAPIRO, HAROLD SEYMOUR
-id: 418	num: 1	D: 4	C: 0.333333	L: 2589.000000	coop:  50	years: 1965	infl: 0.616582	Topsis: 0.504765 Topsis2: 0.076923
+id: 418	num: 1	D: 4	C: 0.333333	L: 2589.000000	coop:  50	years: 1965	infl: 0.616582	Topsis: 0.504765 Topsis2: 0.055414
 name: TUTTE, WILLIAM THOMAS*
-id: 477	num: 1	D: 4	C: 0.333333	L: 2162.000000	coop:  16	years: 1965	infl: 0.729966	Topsis: 0.689894 Topsis2: 0.076923
+id: 477	num: 1	D: 4	C: 0.333333	L: 2162.000000	coop:  16	years: 1965	infl: 0.729966	Topsis: 0.689894 Topsis2: 0.065604
 name: VAALER, JEFFREY DAVID
-id: 481	num: 2	D: 4	C: 0.166667	L: 2495.000000	coop:  32	years: 1987	infl: 0.644478	Topsis: 0.540080 Topsis2: 0.076923
+id: 481	num: 2	D: 4	C: 0.166667	L: 2495.000000	coop:  32	years: 1987	infl: 0.644478	Topsis: 0.540080 Topsis2: 0.057921
 name: VERTESI, PETER O. H.
-id: 488	num: 7	D: 4	C: 0.833333	L: 2529.000000	coop:  28	years: 1980	infl: 0.592442	Topsis: 0.527004 Topsis2: 0.076923
+id: 488	num: 7	D: 4	C: 0.833333	L: 2529.000000	coop:  28	years: 1980	infl: 0.592442	Topsis: 0.527004 Topsis2: 0.053244
 name: WEAKLEY, WILLIAM DOUGLAS
-id: 495	num: 1	D: 4	C: 0.333333	L: 2309.000000	coop:  19	years: 1996	infl: 0.745075	Topsis: 0.618433 Topsis2: 0.076923
+id: 495	num: 1	D: 4	C: 0.333333	L: 2309.000000	coop:  19	years: 1996	infl: 0.745075	Topsis: 0.618433 Topsis2: 0.066962
 name: WILLIAMSON, ALAN GLYNNE
-id: 498	num: 1	D: 4	C: 0.500000	L: 2510.000000	coop:  8	years: 1987	infl: 0.578216	Topsis: 0.534267 Topsis2: 0.076923
+id: 498	num: 1	D: 4	C: 0.500000	L: 2510.000000	coop:  8	years: 1987	infl: 0.578216	Topsis: 0.534267 Topsis2: 0.051966
 name: ZAKS, SHMUEL
-id: 506	num: 1	D: 4	C: 0.500000	L: 2321.000000	coop:  66	years: 1988	infl: 0.624801	Topsis: 0.612999 Topsis2: 0.076923
+id: 506	num: 1	D: 4	C: 0.500000	L: 2321.000000	coop:  66	years: 1988	infl: 0.624801	Topsis: 0.612999 Topsis2: 0.056152
 name: ALLADI, KRISHNASWAMI
-id: 8	num: 5	D: 3	C: 0.000000	L: 2413.000000	coop:  11	years: 1977	infl: 0.679923	Topsis: 0.573134 Topsis2: 0.057692
+id: 8	num: 5	D: 3	C: 0.000000	L: 2413.000000	coop:  11	years: 1977	infl: 0.679923	Topsis: 0.573134 Topsis2: 0.045830
 name: ARNEY, DAVID CHRISTOPHER
-id: 15	num: 1	D: 3	C: 0.666667	L: 2224.000000	coop:  20	years: 1996	infl: 0.797827	Topsis: 0.658602 Topsis2: 0.057692
+id: 15	num: 1	D: 3	C: 0.666667	L: 2224.000000	coop:  20	years: 1996	infl: 0.797827	Topsis: 0.658602 Topsis2: 0.053777
 name: ASH, J. MARSHALL
-id: 17	num: 1	D: 3	C: 0.000000	L: 2218.000000	coop:  33	years: 1974	infl: 0.727669	Topsis: 0.661554 Topsis2: 0.057692
+id: 17	num: 1	D: 3	C: 0.000000	L: 2218.000000	coop:  33	years: 1974	infl: 0.727669	Topsis: 0.661554 Topsis2: 0.049048
 name: AVIS, DAVID MICHAEL
-id: 19	num: 2	D: 3	C: 0.000000	L: 2166.000000	coop:  79	years: 1988	infl: 0.819946	Topsis: 0.687821 Topsis2: 0.057692
+id: 19	num: 2	D: 3	C: 0.000000	L: 2166.000000	coop:  79	years: 1988	infl: 0.819946	Topsis: 0.687821 Topsis2: 0.055268
 name: BAGEMIHL, FREDERICK*
-id: 22	num: 4	D: 3	C: 0.000000	L: 3098.000000	coop:  12	years: 1953	infl: 0.373405	Topsis: 0.350759 Topsis2: 0.057692
+id: 22	num: 4	D: 3	C: 0.000000	L: 3098.000000	coop:  12	years: 1953	infl: 0.373405	Topsis: 0.350759 Topsis2: 0.025169
 name: BERGER, MARC ARON
-id: 34	num: 1	D: 3	C: 1.000000	L: 2283.000000	coop:  13	years: 1988	infl: 0.777829	Topsis: 0.630402 Topsis2: 0.057692
+id: 34	num: 1	D: 3	C: 1.000000	L: 2283.000000	coop:  13	years: 1988	infl: 0.777829	Topsis: 0.630402 Topsis2: 0.052429
 name: BOALS, ALFRED JOHN
-id: 40	num: 2	D: 3	C: 1.000000	L: 2364.000000	coop:  16	years: 1987	infl: 0.787258	Topsis: 0.593980 Topsis2: 0.057692
+id: 40	num: 2	D: 3	C: 1.000000	L: 2364.000000	coop:  16	years: 1987	infl: 0.787258	Topsis: 0.593980 Topsis2: 0.053065
 name: BOROSH, ITSHAK
-id: 47	num: 1	D: 3	C: 0.000000	L: 2291.000000	coop:  19	years: 1978	infl: 0.683075	Topsis: 0.626690 Topsis2: 0.057692
+id: 47	num: 1	D: 3	C: 0.000000	L: 2291.000000	coop:  19	years: 1978	infl: 0.683075	Topsis: 0.626690 Topsis2: 0.046042
 name: BRINDZA, BELA*
-id: 52	num: 1	D: 3	C: 0.666667	L: 2250.000000	coop:  25	years: 1991	infl: 0.787097	Topsis: 0.645993 Topsis2: 0.057692
+id: 52	num: 1	D: 3	C: 0.666667	L: 2250.000000	coop:  25	years: 1991	infl: 0.787097	Topsis: 0.645993 Topsis2: 0.053054
 name: CACCETTA, LOUIS
-id: 59	num: 4	D: 3	C: 0.333333	L: 2465.000000	coop:  50	years: 1985	infl: 0.611321	Topsis: 0.551918 Topsis2: 0.057692
+id: 59	num: 4	D: 3	C: 0.333333	L: 2465.000000	coop:  50	years: 1985	infl: 0.611321	Topsis: 0.551918 Topsis2: 0.041206
 name: CATLIN, PAUL ALLEN*
-id: 66	num: 1	D: 3	C: 0.666667	L: 2147.000000	coop:  14	years: 1980	infl: 0.825305	Topsis: 0.697736 Topsis2: 0.057692
+id: 66	num: 1	D: 3	C: 0.666667	L: 2147.000000	coop:  14	years: 1980	infl: 0.825305	Topsis: 0.697736 Topsis2: 0.055629
 name: CHEN, HANG
-id: 71	num: 1	D: 3	C: 0.333333	L: 2338.000000	coop:  6	years: 1992	infl: 0.734318	Topsis: 0.605396 Topsis2: 0.057692
+id: 71	num: 1	D: 3	C: 0.333333	L: 2338.000000	coop:  6	years: 1992	infl: 0.734318	Topsis: 0.605396 Topsis2: 0.049496
 name: CHOI, SHIU LUN GODFREY
-id: 74	num: 3	D: 3	C: 0.333333	L: 2177.000000	coop:  4	years: 1974	infl: 0.855102	Topsis: 0.682160 Topsis2: 0.057692
+id: 74	num: 3	D: 3	C: 0.333333	L: 2177.000000	coop:  4	years: 1974	infl: 0.855102	Topsis: 0.682160 Topsis2: 0.057638
 name: CROFT, HALLARD T.
-id: 88	num: 1	D: 3	C: 1.000000	L: 2375.000000	coop:  8	years: 1979	infl: 0.692695	Topsis: 0.589225 Topsis2: 0.057692
+id: 88	num: 1	D: 3	C: 1.000000	L: 2375.000000	coop:  8	years: 1979	infl: 0.692695	Topsis: 0.589225 Topsis2: 0.046691
 name: CZIPSZER, JANOS*
-id: 91	num: 1	D: 3	C: 0.000000	L: 2159.000000	coop:  6	years: 1962	infl: 0.753252	Topsis: 0.691454 Topsis2: 0.057692
+id: 91	num: 1	D: 3	C: 0.000000	L: 2159.000000	coop:  6	years: 1962	infl: 0.753252	Topsis: 0.691454 Topsis2: 0.050772
 name: DIACONIS, PERSI W.
-id: 107	num: 1	D: 3	C: 0.333333	L: 2123.000000	coop:  98	years: 2004	infl: 0.904708	Topsis: 0.710514 Topsis2: 0.057692
+id: 107	num: 1	D: 3	C: 0.333333	L: 2123.000000	coop:  98	years: 2004	infl: 0.904708	Topsis: 0.710514 Topsis2: 0.060981
 name: EDREI, ALBERT*
-id: 117	num: 1	D: 3	C: 0.000000	L: 2659.000000	coop:  15	years: 1985	infl: 0.607720	Topsis: 0.480089 Topsis2: 0.057692
+id: 117	num: 1	D: 3	C: 0.000000	L: 2659.000000	coop:  15	years: 1985	infl: 0.607720	Topsis: 0.480089 Topsis2: 0.040963
 name: FEJES TOTH, LASZLO*
-id: 128	num: 1	D: 3	C: 0.000000	L: 2385.000000	coop:  12	years: 1956	infl: 0.651395	Topsis: 0.584941 Topsis2: 0.057692
+id: 128	num: 1	D: 3	C: 0.000000	L: 2385.000000	coop:  12	years: 1956	infl: 0.651395	Topsis: 0.584941 Topsis2: 0.043907
 name: GOLDBERG, MARK K.
-id: 159	num: 1	D: 3	C: 0.333333	L: 2131.000000	coop:  54	years: 1988	infl: 0.858119	Topsis: 0.706223 Topsis2: 0.057692
+id: 159	num: 1	D: 3	C: 0.333333	L: 2131.000000	coop:  54	years: 1988	infl: 0.858119	Topsis: 0.706223 Topsis2: 0.057841
 name: GRILL, KARL
-id: 168	num: 1	D: 3	C: 0.666667	L: 2694.000000	coop:  6	years: 1987	infl: 0.581139	Topsis: 0.468232 Topsis2: 0.057692
+id: 168	num: 1	D: 3	C: 0.666667	L: 2694.000000	coop:  6	years: 1987	infl: 0.581139	Topsis: 0.468232 Topsis2: 0.039171
 name: GRUNBAUM, BRANKO
-id: 170	num: 2	D: 3	C: 0.000000	L: 2205.000000	coop:  53	years: 1973	infl: 0.778827	Topsis: 0.668004 Topsis2: 0.057692
+id: 170	num: 2	D: 3	C: 0.000000	L: 2205.000000	coop:  53	years: 1973	infl: 0.778827	Topsis: 0.668004 Topsis2: 0.052496
 name: GUY, MICHAEL J. T.
-id: 174	num: 1	D: 3	C: 1.000000	L: 2375.000000	coop:  10	years: 1979	infl: 0.692695	Topsis: 0.589225 Topsis2: 0.057692
+id: 174	num: 1	D: 3	C: 1.000000	L: 2375.000000	coop:  10	years: 1979	infl: 0.692695	Topsis: 0.589225 Topsis2: 0.046691
 name: HEMMINGER, ROBERT LOUIS
-id: 201	num: 1	D: 3	C: 0.333333	L: 2300.000000	coop:  22	years: 1984	infl: 0.766536	Topsis: 0.622545 Topsis2: 0.057692
+id: 201	num: 1	D: 3	C: 0.333333	L: 2300.000000	coop:  22	years: 1984	infl: 0.766536	Topsis: 0.622545 Topsis2: 0.051668
 name: HERZOG, MARCEL
-id: 205	num: 1	D: 3	C: 0.333333	L: 2340.000000	coop:  39	years: 1970	infl: 0.719856	Topsis: 0.604509 Topsis2: 0.057692
+id: 205	num: 1	D: 3	C: 0.333333	L: 2340.000000	coop:  39	years: 1970	infl: 0.719856	Topsis: 0.604509 Topsis2: 0.048521
 name: HICKERSON, DEAN ROBERT
-id: 206	num: 2	D: 3	C: 0.333333	L: 2244.000000	coop:  12	years: 1989	infl: 0.618513	Topsis: 0.648876 Topsis2: 0.057692
+id: 206	num: 2	D: 3	C: 0.333333	L: 2244.000000	coop:  12	years: 1989	infl: 0.618513	Topsis: 0.648876 Topsis2: 0.041690
 name: JIN, GUO PING
-id: 230	num: 2	D: 3	C: 0.333333	L: 2145.000000	coop:  11	years: 1993	infl: 0.791879	Topsis: 0.698790 Topsis2: 0.057692
+id: 230	num: 2	D: 3	C: 0.333333	L: 2145.000000	coop:  11	years: 1993	infl: 0.791879	Topsis: 0.698790 Topsis2: 0.053376
 name: KAINEN, PAUL C.
-id: 235	num: 1	D: 3	C: 0.333333	L: 2234.000000	coop:  14	years: 1978	infl: 0.711927	Topsis: 0.653717 Topsis2: 0.057692
+id: 235	num: 1	D: 3	C: 0.333333	L: 2234.000000	coop:  14	years: 1978	infl: 0.711927	Topsis: 0.653717 Topsis2: 0.047987
 name: KAKUTANI, SHIZUO*
-id: 236	num: 7	D: 3	C: 0.333333	L: 2717.000000	coop:  23	years: 1943	infl: 0.557045	Topsis: 0.460606 Topsis2: 0.057692
+id: 236	num: 7	D: 3	C: 0.333333	L: 2717.000000	coop:  23	years: 1943	infl: 0.557045	Topsis: 0.460606 Topsis2: 0.037547
 name: KENNEDY, JOHN W.
-id: 241	num: 1	D: 3	C: 0.333333	L: 2418.000000	coop:  35	years: 1987	infl: 0.668767	Topsis: 0.571054 Topsis2: 0.057692
+id: 241	num: 1	D: 3	C: 0.333333	L: 2418.000000	coop:  35	years: 1987	infl: 0.668767	Topsis: 0.571054 Topsis2: 0.045078
 name: KOREN, ISRAEL
-id: 259	num: 1	D: 3	C: 1.000000	L: 2633.000000	coop:  95	years: 1988	infl: 0.586900	Topsis: 0.489101 Topsis2: 0.057692
+id: 259	num: 1	D: 3	C: 1.000000	L: 2633.000000	coop:  95	years: 1988	infl: 0.586900	Topsis: 0.489101 Topsis2: 0.039560
 name: KOVARI, TAMAS
-id: 261	num: 1	D: 3	C: 0.333333	L: 2121.000000	coop:  5	years: 1956	infl: 0.796081	Topsis: 0.711592 Topsis2: 0.057692
+id: 261	num: 1	D: 3	C: 0.333333	L: 2121.000000	coop:  5	years: 1956	infl: 0.796081	Topsis: 0.711592 Topsis2: 0.053659
 name: LI, WEN-CH'ING WINNIE
-id: 280	num: 1	D: 3	C: 1.000000	L: 2118.000000	coop:  39	years: 1996	infl: 0.926129	Topsis: 0.713213 Topsis2: 0.057692
+id: 280	num: 1	D: 3	C: 1.000000	L: 2118.000000	coop:  39	years: 1996	infl: 0.926129	Topsis: 0.713213 Topsis2: 0.062425
 name: MAGIDOR, MENACHEM
-id: 291	num: 1	D: 3	C: 0.666667	L: 2436.000000	coop:  39	years: 1976	infl: 0.730269	Topsis: 0.563638 Topsis2: 0.057692
+id: 291	num: 1	D: 3	C: 0.666667	L: 2436.000000	coop:  39	years: 1976	infl: 0.730269	Topsis: 0.563638 Topsis2: 0.049223
 name: MAHLER, KURT*
-id: 292	num: 2	D: 3	C: 0.000000	L: 2332.000000	coop:  16	years: 1938	infl: 0.634532	Topsis: 0.608067 Topsis2: 0.057692
+id: 292	num: 2	D: 3	C: 0.000000	L: 2332.000000	coop:  16	years: 1938	infl: 0.634532	Topsis: 0.608067 Topsis2: 0.042770
 name: MEYER, ANJA GABRIELE
-id: 309	num: 1	D: 3	C: 1.000000	L: 2252.000000	coop:  4	years: 1997	infl: 0.815229	Topsis: 0.645035 Topsis2: 0.057692
+id: 309	num: 1	D: 3	C: 1.000000	L: 2252.000000	coop:  4	years: 1997	infl: 0.815229	Topsis: 0.645035 Topsis2: 0.054950
 name: PUDAITE, PAUL
-id: 359	num: 1	D: 3	C: 1.000000	L: 2253.000000	coop:  4	years: 1987	infl: 0.781951	Topsis: 0.644556 Topsis2: 0.057692
+id: 359	num: 1	D: 3	C: 1.000000	L: 2253.000000	coop:  4	years: 1987	infl: 0.781951	Topsis: 0.644556 Topsis2: 0.052707
 name: RAO, SIDDANI BHASKARA
-id: 365	num: 1	D: 3	C: 0.333333	L: 2141.000000	coop:  49	years: 1992	infl: 0.868283	Topsis: 0.700904 Topsis2: 0.057692
+id: 365	num: 1	D: 3	C: 0.333333	L: 2141.000000	coop:  49	years: 1992	infl: 0.868283	Topsis: 0.700904 Topsis2: 0.058526
 name: SANDOR, CSABA
-id: 396	num: 1	D: 3	C: 1.000000	L: 2312.000000	coop:  4	years: 1999	infl: 0.745422	Topsis: 0.617069 Topsis2: 0.057692
+id: 396	num: 1	D: 3	C: 1.000000	L: 2312.000000	coop:  4	years: 1999	infl: 0.745422	Topsis: 0.617069 Topsis2: 0.050245
 name: SEIDEL, WLADIMIR P.*
-id: 412	num: 1	D: 3	C: 0.333333	L: 2864.000000	coop:  15	years: 1953	infl: 0.445808	Topsis: 0.414761 Topsis2: 0.057692
+id: 412	num: 1	D: 3	C: 0.333333	L: 2864.000000	coop:  15	years: 1953	infl: 0.445808	Topsis: 0.414761 Topsis2: 0.030049
 name: SILBERMAN, GABRIEL M.
-id: 426	num: 1	D: 3	C: 1.000000	L: 2633.000000	coop:  28	years: 1988	infl: 0.586900	Topsis: 0.489101 Topsis2: 0.057692
+id: 426	num: 1	D: 3	C: 1.000000	L: 2633.000000	coop:  28	years: 1988	infl: 0.586900	Topsis: 0.489101 Topsis2: 0.039560
 name: SUN, HUI CHENG
-id: 451	num: 1	D: 3	C: 1.000000	L: 2307.000000	coop:  7	years: 1993	infl: 0.820057	Topsis: 0.619344 Topsis2: 0.057692
+id: 451	num: 1	D: 3	C: 1.000000	L: 2307.000000	coop:  7	years: 1993	infl: 0.820057	Topsis: 0.619344 Topsis2: 0.055275
 name: SZEGO, GABOR*
-id: 457	num: 2	D: 3	C: 0.000000	L: 2410.000000	coop:  22	years: 1942	infl: 0.575452	Topsis: 0.574386 Topsis2: 0.057692
+id: 457	num: 2	D: 3	C: 0.000000	L: 2410.000000	coop:  22	years: 1942	infl: 0.575452	Topsis: 0.574386 Topsis2: 0.038788
 name: SZEKERES, ESTHER KLEIN*
-id: 459	num: 1	D: 3	C: 0.333333	L: 2310.000000	coop:  4	years: 1999	infl: 0.717081	Topsis: 0.617978 Topsis2: 0.057692
+id: 459	num: 1	D: 3	C: 0.333333	L: 2310.000000	coop:  4	years: 1999	infl: 0.717081	Topsis: 0.617978 Topsis2: 0.048334
 name: TOTH, JANOS T.
-id: 471	num: 1	D: 3	C: 0.666667	L: 2698.000000	coop:  17	years: 1997	infl: 0.525619	Topsis: 0.466896 Topsis2: 0.057692
+id: 471	num: 1	D: 3	C: 0.666667	L: 2698.000000	coop:  17	years: 1997	infl: 0.525619	Topsis: 0.466896 Topsis2: 0.035429
 name: TOVEY, CRAIG AARON
-id: 473	num: 1	D: 3	C: 0.000000	L: 2141.000000	coop:  70	years: 1997	infl: 0.829666	Topsis: 0.700904 Topsis2: 0.057692
+id: 473	num: 1	D: 3	C: 0.000000	L: 2141.000000	coop:  70	years: 1997	infl: 0.829666	Topsis: 0.700904 Topsis2: 0.055923
 name: VALTR, PAVEL
-id: 482	num: 1	D: 3	C: 0.666667	L: 2089.000000	coop:  41	years: 1996	infl: 0.931368	Topsis: 0.729119 Topsis2: 0.057692
+id: 482	num: 1	D: 3	C: 0.666667	L: 2089.000000	coop:  41	years: 1996	infl: 0.931368	Topsis: 0.729119 Topsis2: 0.062778
 name: VARMA, ARUN KUMAR*
-id: 485	num: 2	D: 3	C: 1.000000	L: 2579.000000	coop:  23	years: 1986	infl: 0.596385	Topsis: 0.508400 Topsis2: 0.057692
+id: 485	num: 2	D: 3	C: 1.000000	L: 2579.000000	coop:  23	years: 1986	infl: 0.596385	Topsis: 0.508400 Topsis2: 0.040199
 name: VESZTERGOMBI, KATALIN L.
-id: 489	num: 2	D: 3	C: 0.666667	L: 2064.000000	coop:  9	years: 1988	infl: 0.960660	Topsis: 0.743190 Topsis2: 0.057692
+id: 489	num: 2	D: 3	C: 0.666667	L: 2064.000000	coop:  9	years: 1988	infl: 0.960660	Topsis: 0.743190 Topsis2: 0.064753
 name: WILSON, ROBIN JAMES
-id: 500	num: 1	D: 3	C: 0.333333	L: 2331.000000	coop:  29	years: 1977	infl: 0.748771	Topsis: 0.608513 Topsis2: 0.057692
+id: 500	num: 1	D: 3	C: 0.333333	L: 2331.000000	coop:  29	years: 1977	infl: 0.748771	Topsis: 0.608513 Topsis2: 0.050470
 name: YAO, FOONG FRANCES
-id: 504	num: 1	D: 3	C: 1.000000	L: 2130.000000	coop:  44	years: 1979	infl: 0.873950	Topsis: 0.706757 Topsis2: 0.057692
+id: 504	num: 1	D: 3	C: 1.000000	L: 2130.000000	coop:  44	years: 1979	infl: 0.873950	Topsis: 0.706757 Topsis2: 0.058908
 name: ACZEL, JANOS D.
-id: 1	num: 1	D: 2	C: 0.000000	L: 2174.000000	coop:  81	years: 1965	infl: 0.847948	Topsis: 0.683698 Topsis2: 0.038462
+id: 1	num: 1	D: 2	C: 0.000000	L: 2174.000000	coop:  81	years: 1965	infl: 0.847948	Topsis: 0.683698 Topsis2: 0.038104
 name: ANKENY, NESMITH CORNETT*
-id: 12	num: 1	D: 2	C: 0.000000	L: 2405.000000	coop:  9	years: 1954	infl: 0.708797	Topsis: 0.576479 Topsis2: 0.038462
+id: 12	num: 1	D: 2	C: 0.000000	L: 2405.000000	coop:  9	years: 1954	infl: 0.708797	Topsis: 0.576479 Topsis2: 0.031851
 name: BECK, ISTVAN
-id: 29	num: 1	D: 2	C: 1.000000	L: 2413.000000	coop:  7	years: 1995	infl: 0.692531	Topsis: 0.573134 Topsis2: 0.038462
+id: 29	num: 1	D: 2	C: 1.000000	L: 2413.000000	coop:  7	years: 1995	infl: 0.692531	Topsis: 0.573134 Topsis2: 0.031120
 name: BEJLEGAARD, NIELS
-id: 31	num: 1	D: 2	C: 1.000000	L: 2413.000000	coop:  3	years: 1995	infl: 0.692531	Topsis: 0.573134 Topsis2: 0.038462
+id: 31	num: 1	D: 2	C: 1.000000	L: 2413.000000	coop:  3	years: 1995	infl: 0.692531	Topsis: 0.573134 Topsis2: 0.031120
 name: BLECKSMITH, RICHARD FRED
-id: 38	num: 1	D: 2	C: 1.000000	L: 2460.000000	coop:  11	years: 1999	infl: 0.713769	Topsis: 0.553919 Topsis2: 0.038462
+id: 38	num: 1	D: 2	C: 1.000000	L: 2460.000000	coop:  11	years: 1999	infl: 0.713769	Topsis: 0.553919 Topsis2: 0.032074
 name: BONAR, DANIEL DONALD
-id: 44	num: 1	D: 2	C: 1.000000	L: 3193.000000	coop:  6	years: 1977	infl: 0.391903	Topsis: 0.327453 Topsis2: 0.038462
+id: 44	num: 1	D: 2	C: 1.000000	L: 3193.000000	coop:  6	years: 1977	infl: 0.391903	Topsis: 0.327453 Topsis2: 0.017611
 name: BOSAK, JURAJ
-id: 48	num: 1	D: 2	C: 0.000000	L: 2264.000000	coop:  7	years: 1971	infl: 0.789730	Topsis: 0.639323 Topsis2: 0.038462
+id: 48	num: 1	D: 2	C: 0.000000	L: 2264.000000	coop:  7	years: 1971	infl: 0.789730	Topsis: 0.639323 Topsis2: 0.035487
 name: BOVEY, JOHN D.
-id: 49	num: 1	D: 2	C: 0.000000	L: 2866.000000	coop:  12	years: 1975	infl: 0.518974	Topsis: 0.414170 Topsis2: 0.038462
+id: 49	num: 1	D: 2	C: 0.000000	L: 2866.000000	coop:  12	years: 1975	infl: 0.518974	Topsis: 0.414170 Topsis2: 0.023321
 name: BUCK, ROBERT CREIGHTON*
-id: 55	num: 1	D: 2	C: 1.000000	L: 2821.000000	coop:  4	years: 1948	infl: 0.544402	Topsis: 0.427677 Topsis2: 0.038462
+id: 55	num: 1	D: 2	C: 1.000000	L: 2821.000000	coop:  4	years: 1948	infl: 0.544402	Topsis: 0.427677 Topsis2: 0.024463
 name: BUKOR, JOZEF
-id: 56	num: 1	D: 2	C: 1.000000	L: 2866.000000	coop:  8	years: 1997	infl: 0.522108	Topsis: 0.414170 Topsis2: 0.038462
+id: 56	num: 1	D: 2	C: 1.000000	L: 2866.000000	coop:  8	years: 1997	infl: 0.522108	Topsis: 0.414170 Topsis2: 0.023462
 name: CARROLL, FRANCIS WIILLIAM
-id: 63	num: 1	D: 2	C: 1.000000	L: 3193.000000	coop:  12	years: 1977	infl: 0.391903	Topsis: 0.327453 Topsis2: 0.038462
+id: 63	num: 1	D: 2	C: 1.000000	L: 3193.000000	coop:  12	years: 1977	infl: 0.391903	Topsis: 0.327453 Topsis2: 0.017611
 name: CATES, MARSHALL L.
-id: 65	num: 1	D: 2	C: 1.000000	L: 2297.000000	coop:  5	years: 1976	infl: 0.789085	Topsis: 0.623923 Topsis2: 0.038462
+id: 65	num: 1	D: 2	C: 1.000000	L: 2297.000000	coop:  5	years: 1976	infl: 0.789085	Topsis: 0.623923 Topsis2: 0.035458
 name: CHUI, CHARLES KAM-TAI
-id: 76	num: 1	D: 2	C: 0.000000	L: 2634.000000	coop:  92	years: 1978	infl: 0.574393	Topsis: 0.488751 Topsis2: 0.038462
+id: 76	num: 1	D: 2	C: 0.000000	L: 2634.000000	coop:  92	years: 1978	infl: 0.574393	Topsis: 0.488751 Topsis2: 0.025811
 name: CSISZAR, IMRE
-id: 90	num: 1	D: 2	C: 0.000000	L: 2173.000000	coop:  25	years: 1965	infl: 0.909566	Topsis: 0.684212 Topsis2: 0.038462
+id: 90	num: 1	D: 2	C: 0.000000	L: 2173.000000	coop:  25	years: 1965	infl: 0.909566	Topsis: 0.684212 Topsis2: 0.040872
 name: DARST, RICHARD BRIAN
-id: 93	num: 1	D: 2	C: 0.000000	L: 2983.000000	coop:  19	years: 1981	infl: 0.400748	Topsis: 0.380958 Topsis2: 0.038462
+id: 93	num: 1	D: 2	C: 0.000000	L: 2983.000000	coop:  19	years: 1981	infl: 0.400748	Topsis: 0.380958 Topsis2: 0.018008
 name: DE BRUIJN, NICOLAAS GOVERT
-id: 97	num: 6	D: 2	C: 0.000000	L: 2279.000000	coop:  19	years: 1948	infl: 0.803208	Topsis: 0.632268 Topsis2: 0.038462
+id: 97	num: 6	D: 2	C: 0.000000	L: 2279.000000	coop:  19	years: 1948	infl: 0.803208	Topsis: 0.632268 Topsis2: 0.036093
 name: DEHEUVELS, PAUL
-id: 101	num: 1	D: 2	C: 1.000000	L: 2705.000000	coop:  32	years: 1987	infl: 0.559036	Topsis: 0.464568 Topsis2: 0.038462
+id: 101	num: 1	D: 2	C: 1.000000	L: 2705.000000	coop:  32	years: 1987	infl: 0.559036	Topsis: 0.464568 Topsis2: 0.025121
 name: DENES, JOZSEF
-id: 103	num: 1	D: 2	C: 0.000000	L: 2124.000000	coop:  18	years: 1969	infl: 0.856790	Topsis: 0.709976 Topsis2: 0.038462
+id: 103	num: 1	D: 2	C: 0.000000	L: 2124.000000	coop:  18	years: 1969	infl: 0.856790	Topsis: 0.709976 Topsis2: 0.038501
 name: DIRAC, GABRIEL ANDREW*
-id: 109	num: 1	D: 2	C: 0.000000	L: 2345.000000	coop:  7	years: 1963	infl: 0.783998	Topsis: 0.602298 Topsis2: 0.038462
+id: 109	num: 1	D: 2	C: 0.000000	L: 2345.000000	coop:  7	years: 1963	infl: 0.783998	Topsis: 0.602298 Topsis2: 0.035230
 name: ECKLUND, EARL F., JR.
-id: 116	num: 2	D: 2	C: 1.000000	L: 2467.000000	coop:  20	years: 1974	infl: 0.716272	Topsis: 0.551120 Topsis2: 0.038462
+id: 116	num: 2	D: 2	C: 1.000000	L: 2467.000000	coop:  20	years: 1974	infl: 0.716272	Topsis: 0.551120 Topsis2: 0.032187
 name: ELLIOTT, PETER D. T. A.
-id: 121	num: 3	D: 2	C: 0.000000	L: 2332.000000	coop:  9	years: 1969	infl: 0.650269	Topsis: 0.608067 Topsis2: 0.038462
+id: 121	num: 3	D: 2	C: 0.000000	L: 2332.000000	coop:  9	years: 1969	infl: 0.650269	Topsis: 0.608067 Topsis2: 0.029221
 name: FELLER, WILLI K. (WILLIAM)*
-id: 130	num: 1	D: 2	C: 1.000000	L: 2982.000000	coop:  8	years: 1949	infl: 0.499810	Topsis: 0.381231 Topsis2: 0.038462
+id: 130	num: 1	D: 2	C: 1.000000	L: 2982.000000	coop:  8	years: 1949	infl: 0.499810	Topsis: 0.381231 Topsis2: 0.022460
 name: FODOR, GEZA*
-id: 134	num: 3	D: 2	C: 1.000000	L: 2248.000000	coop:  4	years: 1956	infl: 0.803285	Topsis: 0.646952 Topsis2: 0.038462
+id: 134	num: 3	D: 2	C: 1.000000	L: 2248.000000	coop:  4	years: 1956	infl: 0.803285	Topsis: 0.646952 Topsis2: 0.036097
 name: FREUD, ROBERT
-id: 143	num: 4	D: 2	C: 0.000000	L: 2446.000000	coop:  3	years: 1983	infl: 0.726744	Topsis: 0.559565 Topsis2: 0.038462
+id: 143	num: 4	D: 2	C: 0.000000	L: 2446.000000	coop:  3	years: 1983	infl: 0.726744	Topsis: 0.559565 Topsis2: 0.032657
 name: GALLAI, TIBOR* (GRUNWALD, TIBOR)
-id: 150	num: 9	D: 2	C: 0.000000	L: 2206.000000	coop:  5	years: 1936	infl: 0.717628	Topsis: 0.667505 Topsis2: 0.038462
+id: 150	num: 9	D: 2	C: 0.000000	L: 2206.000000	coop:  5	years: 1936	infl: 0.717628	Topsis: 0.667505 Topsis2: 0.032247
 name: GERENCSER, LASZLO
-id: 152	num: 1	D: 2	C: 0.000000	L: 2262.000000	coop:  18	years: 1970	infl: 0.788272	Topsis: 0.640271 Topsis2: 0.038462
+id: 152	num: 1	D: 2	C: 0.000000	L: 2262.000000	coop:  18	years: 1970	infl: 0.788272	Topsis: 0.640271 Topsis2: 0.035422
 name: GILLIS, JOSEPH E.*
-id: 153	num: 1	D: 2	C: 0.000000	L: 2299.000000	coop:  36	years: 1937	infl: 0.798480	Topsis: 0.623004 Topsis2: 0.038462
+id: 153	num: 1	D: 2	C: 0.000000	L: 2299.000000	coop:  36	years: 1937	infl: 0.798480	Topsis: 0.623004 Topsis2: 0.035881
 name: GILLMAN, LEONARD*
-id: 154	num: 1	D: 2	C: 0.000000	L: 3560.000000	coop:  8	years: 1955	infl: 0.260628	Topsis: 0.249100 Topsis2: 0.038462
+id: 154	num: 1	D: 2	C: 0.000000	L: 3560.000000	coop:  8	years: 1955	infl: 0.260628	Topsis: 0.249100 Topsis2: 0.011712
 name: GUPTA, HANSRAJ*
-id: 173	num: 1	D: 2	C: 0.000000	L: 2563.000000	coop:  21	years: 1976	infl: 0.545808	Topsis: 0.514274 Topsis2: 0.038462
+id: 173	num: 1	D: 2	C: 0.000000	L: 2563.000000	coop:  21	years: 1976	infl: 0.545808	Topsis: 0.514274 Topsis2: 0.024527
 name: HALASZ, GABOR
-id: 180	num: 1	D: 2	C: 0.000000	L: 2355.000000	coop:  6	years: 1991	infl: 0.740938	Topsis: 0.597903 Topsis2: 0.038462
+id: 180	num: 1	D: 2	C: 0.000000	L: 2355.000000	coop:  6	years: 1991	infl: 0.740938	Topsis: 0.597903 Topsis2: 0.033295
 name: HALL, RICHARD ROXBY
-id: 181	num: 14	D: 2	C: 0.000000	L: 2462.000000	coop:  22	years: 1973	infl: 0.678754	Topsis: 0.553117 Topsis2: 0.038462
+id: 181	num: 14	D: 2	C: 0.000000	L: 2462.000000	coop:  22	years: 1973	infl: 0.678754	Topsis: 0.553117 Topsis2: 0.030501
 name: HARCOS, GERGELY
-id: 187	num: 1	D: 2	C: 1.000000	L: 2152.000000	coop:  8	years: 1999	infl: 0.919071	Topsis: 0.695110 Topsis2: 0.038462
+id: 187	num: 1	D: 2	C: 1.000000	L: 2152.000000	coop:  8	years: 1999	infl: 0.919071	Topsis: 0.695110 Topsis2: 0.041300
 name: HARE, WILLIAM RAY, JR.
-id: 189	num: 1	D: 2	C: 1.000000	L: 2566.000000	coop:  18	years: 1987	infl: 0.677488	Topsis: 0.513167 Topsis2: 0.038462
+id: 189	num: 1	D: 2	C: 1.000000	L: 2566.000000	coop:  18	years: 1987	infl: 0.677488	Topsis: 0.513167 Topsis2: 0.030444
 name: HARTMAN, STANISLAW*
-id: 191	num: 1	D: 2	C: 0.000000	L: 2415.000000	coop:  17	years: 1967	infl: 0.690927	Topsis: 0.572301 Topsis2: 0.038462
+id: 191	num: 1	D: 2	C: 0.000000	L: 2415.000000	coop:  17	years: 1967	infl: 0.690927	Topsis: 0.572301 Topsis2: 0.031048
 name: HECHLER, STEPHEN HERMAN
-id: 195	num: 2	D: 2	C: 0.000000	L: 2651.000000	coop:  7	years: 1975	infl: 0.612386	Topsis: 0.482843 Topsis2: 0.038462
+id: 195	num: 2	D: 2	C: 0.000000	L: 2651.000000	coop:  7	years: 1975	infl: 0.612386	Topsis: 0.482843 Topsis2: 0.027518
 name: HEDRLIN, ZDENEK
-id: 197	num: 1	D: 2	C: 1.000000	L: 2317.000000	coop:  17	years: 1972	infl: 0.833719	Topsis: 0.614804 Topsis2: 0.038462
+id: 197	num: 1	D: 2	C: 1.000000	L: 2317.000000	coop:  17	years: 1972	infl: 0.833719	Topsis: 0.614804 Topsis2: 0.037464
 name: HEILBRONN, HANS ARNOLD*
-id: 199	num: 1	D: 2	C: 0.000000	L: 2751.000000	coop:  7	years: 1964	infl: 0.474934	Topsis: 0.449567 Topsis2: 0.038462
+id: 199	num: 1	D: 2	C: 0.000000	L: 2751.000000	coop:  7	years: 1964	infl: 0.474934	Topsis: 0.449567 Topsis2: 0.021342
 name: HORVATH, MIKLOS
-id: 216	num: 1	D: 2	C: 1.000000	L: 2766.000000	coop:  12	years: 1991	infl: 0.532977	Topsis: 0.444783 Topsis2: 0.038462
+id: 216	num: 1	D: 2	C: 1.000000	L: 2766.000000	coop:  12	years: 1991	infl: 0.532977	Topsis: 0.444783 Topsis2: 0.023950
 name: HWANG, JUN SHUNG*
-id: 220	num: 2	D: 2	C: 1.000000	L: 2871.000000	coop:  15	years: 1978	infl: 0.494365	Topsis: 0.412695 Topsis2: 0.038462
+id: 220	num: 2	D: 2	C: 1.000000	L: 2871.000000	coop:  15	years: 1978	infl: 0.494365	Topsis: 0.412695 Topsis2: 0.022215
 name: INDLEKOFER, KARL-HEINZ
-id: 221	num: 1	D: 2	C: 1.000000	L: 2803.000000	coop:  27	years: 1987	infl: 0.558198	Topsis: 0.433202 Topsis2: 0.038462
+id: 221	num: 1	D: 2	C: 1.000000	L: 2803.000000	coop:  27	years: 1987	infl: 0.558198	Topsis: 0.433202 Topsis2: 0.025083
 name: KAPLANSKY, IRVING*
-id: 237	num: 2	D: 2	C: 0.000000	L: 2320.000000	coop:  19	years: 1946	infl: 0.679397	Topsis: 0.613449 Topsis2: 0.038462
+id: 237	num: 2	D: 2	C: 0.000000	L: 2320.000000	coop:  19	years: 1946	infl: 0.679397	Topsis: 0.613449 Topsis2: 0.030529
 name: KOKSMA, JURJEN FERDINAND^1*
-id: 254	num: 2	D: 2	C: 0.000000	L: 2794.000000	coop:  13	years: 1949	infl: 0.460178	Topsis: 0.435990 Topsis2: 0.038462
+id: 254	num: 2	D: 2	C: 0.000000	L: 2794.000000	coop:  13	years: 1949	infl: 0.460178	Topsis: 0.435990 Topsis2: 0.020679
 name: KOLESNIK, GRIGORI ABRAMOVICH
-id: 255	num: 1	D: 2	C: 0.000000	L: 2210.000000	coop:  10	years: 1999	infl: 0.790698	Topsis: 0.665514 Topsis2: 0.038462
+id: 255	num: 1	D: 2	C: 0.000000	L: 2210.000000	coop:  10	years: 1999	infl: 0.790698	Topsis: 0.665514 Topsis2: 0.035531
 name: KOMORNIK, VILMOS
-id: 258	num: 4	D: 2	C: 1.000000	L: 2766.000000	coop:  27	years: 1990	infl: 0.532977	Topsis: 0.444783 Topsis2: 0.038462
+id: 258	num: 4	D: 2	C: 1.000000	L: 2766.000000	coop:  27	years: 1990	infl: 0.532977	Topsis: 0.444783 Topsis2: 0.023950
 name: KRANTZ, STEVEN GEORGE
-id: 262	num: 1	D: 2	C: 1.000000	L: 2459.000000	coop:  54	years: 1988	infl: 0.721843	Topsis: 0.554320 Topsis2: 0.038462
+id: 262	num: 1	D: 2	C: 1.000000	L: 2459.000000	coop:  54	years: 1988	infl: 0.721843	Topsis: 0.554320 Topsis2: 0.032437
 name: KROO, ANDRAS V.
-id: 265	num: 1	D: 2	C: 0.000000	L: 2791.000000	coop:  23	years: 1989	infl: 0.555928	Topsis: 0.436924 Topsis2: 0.038462
+id: 265	num: 1	D: 2	C: 0.000000	L: 2791.000000	coop:  23	years: 1989	infl: 0.555928	Topsis: 0.436924 Topsis2: 0.024981
 name: KUNEN, KENNETH
-id: 268	num: 1	D: 2	C: 0.000000	L: 2840.000000	coop:  48	years: 1981	infl: 0.545206	Topsis: 0.421922 Topsis2: 0.038462
+id: 268	num: 1	D: 2	C: 0.000000	L: 2840.000000	coop:  48	years: 1981	infl: 0.545206	Topsis: 0.421922 Topsis2: 0.024499
 name: MALOUF, JANICE L.
-id: 297	num: 1	D: 2	C: 1.000000	L: 2468.000000	coop:  3	years: 1999	infl: 0.689255	Topsis: 0.550721 Topsis2: 0.038462
+id: 297	num: 1	D: 2	C: 1.000000	L: 2468.000000	coop:  3	years: 1999	infl: 0.689255	Topsis: 0.550721 Topsis2: 0.030972
 name: MORTON, PATRICK
-id: 319	num: 1	D: 2	C: 0.000000	L: 2521.000000	coop:  17	years: 1983	infl: 0.687150	Topsis: 0.530049 Topsis2: 0.038462
+id: 319	num: 1	D: 2	C: 0.000000	L: 2521.000000	coop:  17	years: 1983	infl: 0.687150	Topsis: 0.530049 Topsis2: 0.030878
 name: MURTY, MARUTI RAM PEDAPROLU
-id: 322	num: 2	D: 2	C: 1.000000	L: 2791.000000	coop:  61	years: 1987	infl: 0.523389	Topsis: 0.436924 Topsis2: 0.038462
+id: 322	num: 2	D: 2	C: 1.000000	L: 2791.000000	coop:  61	years: 1987	infl: 0.523389	Topsis: 0.436924 Topsis2: 0.023519
 name: MURTY, VIJAYA KUMAR
-id: 323	num: 1	D: 2	C: 1.000000	L: 2791.000000	coop:  23	years: 1987	infl: 0.523389	Topsis: 0.436924 Topsis2: 0.038462
+id: 323	num: 1	D: 2	C: 1.000000	L: 2791.000000	coop:  23	years: 1987	infl: 0.523389	Topsis: 0.436924 Topsis2: 0.023519
 name: NIVEN, IVAN MORTON*
-id: 331	num: 6	D: 2	C: 0.000000	L: 2592.000000	coop:  15	years: 1945	infl: 0.557008	Topsis: 0.503680 Topsis2: 0.038462
+id: 331	num: 6	D: 2	C: 0.000000	L: 2592.000000	coop:  15	years: 1945	infl: 0.557008	Topsis: 0.503680 Topsis2: 0.025030
 name: NORTON, DONALD ALAN
-id: 332	num: 1	D: 2	C: 1.000000	L: 2707.000000	coop:  4	years: 1988	infl: 0.556391	Topsis: 0.463905 Topsis2: 0.038462
+id: 332	num: 1	D: 2	C: 1.000000	L: 2707.000000	coop:  4	years: 1988	infl: 0.556391	Topsis: 0.463905 Topsis2: 0.025002
 name: OXTOBY, JOHN C.*
-id: 339	num: 1	D: 2	C: 0.000000	L: 2554.000000	coop:  6	years: 1955	infl: 0.586639	Topsis: 0.517611 Topsis2: 0.038462
+id: 339	num: 1	D: 2	C: 0.000000	L: 2554.000000	coop:  6	years: 1955	infl: 0.586639	Topsis: 0.517611 Topsis2: 0.026361
 name: PALKA, ZBIGNIEW J.
-id: 342	num: 2	D: 2	C: 1.000000	L: 2188.000000	coop:  11	years: 1983	infl: 0.905218	Topsis: 0.676555 Topsis2: 0.038462
+id: 342	num: 2	D: 2	C: 1.000000	L: 2188.000000	coop:  11	years: 1983	infl: 0.905218	Topsis: 0.676555 Topsis2: 0.040677
 name: PAYAN, CHARLES
-id: 346	num: 1	D: 2	C: 0.000000	L: 2337.000000	coop:  34	years: 1982	infl: 0.769995	Topsis: 0.605840 Topsis2: 0.038462
+id: 346	num: 1	D: 2	C: 0.000000	L: 2337.000000	coop:  34	years: 1982	infl: 0.769995	Topsis: 0.605840 Topsis2: 0.034601
 name: POSA, LAJOS
-id: 355	num: 4	D: 2	C: 0.000000	L: 2262.000000	coop:  3	years: 1962	infl: 0.686647	Topsis: 0.640271 Topsis2: 0.038462
+id: 355	num: 4	D: 2	C: 0.000000	L: 2262.000000	coop:  3	years: 1962	infl: 0.686647	Topsis: 0.640271 Topsis2: 0.030855
 name: PREISS, DAVID
-id: 357	num: 1	D: 2	C: 0.000000	L: 2204.000000	coop:  64	years: 1976	infl: 0.746132	Topsis: 0.668504 Topsis2: 0.038462
+id: 357	num: 1	D: 2	C: 0.000000	L: 2204.000000	coop:  64	years: 1976	infl: 0.746132	Topsis: 0.668504 Topsis2: 0.033528
 name: RUBIN, ARTHUR L.
-id: 385	num: 1	D: 2	C: 1.000000	L: 2498.000000	coop:  16	years: 1980	infl: 0.687673	Topsis: 0.538912 Topsis2: 0.038462
+id: 385	num: 1	D: 2	C: 1.000000	L: 2498.000000	coop:  16	years: 1980	infl: 0.687673	Topsis: 0.538912 Topsis2: 0.030901
 name: RUDIN, MARY ELLEN ESTILL
-id: 386	num: 1	D: 2	C: 0.000000	L: 2468.000000	coop:  24	years: 1975	infl: 0.596553	Topsis: 0.550721 Topsis2: 0.038462
+id: 386	num: 1	D: 2	C: 0.000000	L: 2468.000000	coop:  24	years: 1975	infl: 0.596553	Topsis: 0.550721 Topsis2: 0.026807
 name: SPIRO-SILVERMAN, CLAUDIA A.
-id: 440	num: 1	D: 2	C: 1.000000	L: 2269.000000	coop:  3	years: 1990	infl: 0.821948	Topsis: 0.636961 Topsis2: 0.038462
+id: 440	num: 1	D: 2	C: 1.000000	L: 2269.000000	coop:  3	years: 1990	infl: 0.821948	Topsis: 0.636961 Topsis2: 0.036935
 name: STEIN, SHERMAN K.
-id: 443	num: 2	D: 2	C: 1.000000	L: 2707.000000	coop:  11	years: 1963	infl: 0.556391	Topsis: 0.463905 Topsis2: 0.038462
+id: 443	num: 2	D: 2	C: 1.000000	L: 2707.000000	coop:  11	years: 1963	infl: 0.556391	Topsis: 0.463905 Topsis2: 0.025002
 name: STONE, ARTHUR HAROLD*
-id: 446	num: 3	D: 2	C: 0.000000	L: 2606.000000	coop:  14	years: 1945	infl: 0.614792	Topsis: 0.498650 Topsis2: 0.038462
+id: 446	num: 3	D: 2	C: 0.000000	L: 2606.000000	coop:  14	years: 1945	infl: 0.614792	Topsis: 0.498650 Topsis2: 0.027626
 name: TAYLOR, ALAN DANA
-id: 464	num: 1	D: 2	C: 0.000000	L: 2504.000000	coop:  13	years: 1992	infl: 0.681688	Topsis: 0.536584 Topsis2: 0.038462
+id: 464	num: 1	D: 2	C: 0.000000	L: 2504.000000	coop:  13	years: 1992	infl: 0.681688	Topsis: 0.536584 Topsis2: 0.030632
 name: URBANIK, KAZIMIERZ*
-id: 480	num: 1	D: 2	C: 0.000000	L: 2446.000000	coop:  29	years: 1958	infl: 0.695447	Topsis: 0.559565 Topsis2: 0.038462
+id: 480	num: 1	D: 2	C: 0.000000	L: 2446.000000	coop:  29	years: 1958	infl: 0.695447	Topsis: 0.559565 Topsis2: 0.031251
 name: VAN KAMPEN, EGBERTUS RUDOLF*
-id: 483	num: 1	D: 2	C: 1.000000	L: 3169.000000	coop:  5	years: 1940	infl: 0.398723	Topsis: 0.333209 Topsis2: 0.038462
+id: 483	num: 1	D: 2	C: 1.000000	L: 3169.000000	coop:  5	years: 1940	infl: 0.398723	Topsis: 0.333209 Topsis2: 0.017917
 name: WINTNER, AUREL FRIEDRICH*
-id: 502	num: 3	D: 2	C: 1.000000	L: 3169.000000	coop:  16	years: 1939	infl: 0.398723	Topsis: 0.333209 Topsis2: 0.038462
+id: 502	num: 3	D: 2	C: 1.000000	L: 3169.000000	coop:  16	years: 1939	infl: 0.398723	Topsis: 0.333209 Topsis2: 0.017917
 name: ZALCSTEIN, YECHEZKEL
-id: 507	num: 3	D: 2	C: 1.000000	L: 2295.000000	coop:  17	years: 1987	infl: 0.812413	Topsis: 0.624844 Topsis2: 0.038462
+id: 507	num: 3	D: 2	C: 1.000000	L: 2295.000000	coop:  17	years: 1987	infl: 0.812413	Topsis: 0.624844 Topsis2: 0.036507
 name: AGOH, TAKASHI
-id: 2	num: 1	D: 1	C: 0.000000	L: 2508.000000	coop:  7	years: 1997	infl: 0.754694	Topsis: 0.535038 Topsis2: 0.019231
+id: 2	num: 1	D: 1	C: 0.000000	L: 2508.000000	coop:  7	years: 1997	infl: 0.754694	Topsis: 0.535038 Topsis2: 0.016957
 name: ANDRASFAI, BELA
-id: 11	num: 1	D: 1	C: 0.000000	L: 2182.000000	coop:  2	years: 1974	infl: 0.979987	Topsis: 0.679605 Topsis2: 0.019231
+id: 11	num: 1	D: 1	C: 0.000000	L: 2182.000000	coop:  2	years: 1974	infl: 0.979987	Topsis: 0.679605 Topsis2: 0.022018
 name: BABU, GUTTI JOGESH
-id: 21	num: 3	D: 1	C: 0.000000	L: 2841.000000	coop:  41	years: 1975	infl: 0.588366	Topsis: 0.421621 Topsis2: 0.019231
+id: 21	num: 3	D: 1	C: 0.000000	L: 2841.000000	coop:  41	years: 1975	infl: 0.588366	Topsis: 0.421621 Topsis2: 0.013219
 name: BANKOFF, LEON*
-id: 24	num: 1	D: 1	C: 0.000000	L: 2561.000000	coop:  2	years: 1973	infl: 0.724687	Topsis: 0.515013 Topsis2: 0.019231
+id: 24	num: 1	D: 1	C: 0.000000	L: 2561.000000	coop:  2	years: 1973	infl: 0.724687	Topsis: 0.515013 Topsis2: 0.016282
 name: BARAK, AMNON B.
-id: 25	num: 1	D: 1	C: 0.000000	L: 2160.000000	coop:  57	years: 1984	infl: 0.998311	Topsis: 0.690933 Topsis2: 0.019231
+id: 25	num: 1	D: 1	C: 0.000000	L: 2160.000000	coop:  57	years: 1984	infl: 0.998311	Topsis: 0.690933 Topsis2: 0.022430
 name: BLEICHER, MICHAEL NATHANIEL
-id: 39	num: 3	D: 1	C: 0.000000	L: 2849.000000	coop:  11	years: 1975	infl: 0.584941	Topsis: 0.419223 Topsis2: 0.019231
+id: 39	num: 3	D: 1	C: 0.000000	L: 2849.000000	coop:  11	years: 1975	infl: 0.584941	Topsis: 0.419223 Topsis2: 0.013143
 name: BOES, DUANE CHARLES
-id: 42	num: 1	D: 1	C: 0.000000	L: 3447.000000	coop:  25	years: 1981	infl: 0.380958	Topsis: 0.271448 Topsis2: 0.019231
+id: 42	num: 1	D: 1	C: 0.000000	L: 3447.000000	coop:  25	years: 1981	infl: 0.380958	Topsis: 0.271448 Topsis2: 0.008559
 name: BONNET, ROBERT
-id: 46	num: 1	D: 1	C: 0.000000	L: 2480.000000	coop:  12	years: 1974	infl: 0.771184	Topsis: 0.545963 Topsis2: 0.019231
+id: 46	num: 1	D: 1	C: 0.000000	L: 2480.000000	coop:  12	years: 1974	infl: 0.771184	Topsis: 0.545963 Topsis2: 0.017327
 name: CATER, FRANK SYDNEY
-id: 64	num: 1	D: 1	C: 0.000000	L: 2650.000000	coop:  6	years: 1978	infl: 0.677570	Topsis: 0.483188 Topsis2: 0.019231
+id: 64	num: 1	D: 1	C: 0.000000	L: 2650.000000	coop:  6	years: 1978	infl: 0.677570	Topsis: 0.483188 Topsis2: 0.015224
 name: CHALK, JOHN H. H.*
-id: 67	num: 1	D: 1	C: 0.000000	L: 2616.000000	coop:  6	years: 1959	infl: 0.695110	Topsis: 0.495091 Topsis2: 0.019231
+id: 67	num: 1	D: 1	C: 0.000000	L: 2616.000000	coop:  6	years: 1959	infl: 0.695110	Topsis: 0.495091 Topsis2: 0.015618
 name: CHEN, ROBERT W.
-id: 72	num: 1	D: 1	C: 0.000000	L: 2286.000000	coop:  26	years: 1988	infl: 0.899357	Topsis: 0.629007 Topsis2: 0.019231
+id: 72	num: 1	D: 1	C: 0.000000	L: 2286.000000	coop:  26	years: 1988	infl: 0.899357	Topsis: 0.629007 Topsis2: 0.020207
 name: CLARK, BRENT N.
-id: 80	num: 1	D: 1	C: 0.000000	L: 2457.000000	coop:  3	years: 1985	infl: 0.785076	Topsis: 0.555123 Topsis2: 0.019231
+id: 80	num: 1	D: 1	C: 0.000000	L: 2457.000000	coop:  3	years: 1985	infl: 0.785076	Topsis: 0.555123 Topsis2: 0.017639
 name: COHEN, STEPHEN D.
-id: 84	num: 1	D: 1	C: 0.000000	L: 2479.000000	coop:  34	years: 1976	infl: 0.771782	Topsis: 0.546358 Topsis2: 0.019231
+id: 84	num: 1	D: 1	C: 0.000000	L: 2479.000000	coop:  34	years: 1976	infl: 0.771782	Topsis: 0.546358 Topsis2: 0.017340
 name: COPELAND, ARTHUR HERBERT, SR.*
-id: 87	num: 1	D: 1	C: 0.000000	L: 2243.000000	coop:  6	years: 1946	infl: 0.931552	Topsis: 0.649359 Topsis2: 0.019231
+id: 87	num: 1	D: 1	C: 0.000000	L: 2243.000000	coop:  6	years: 1946	infl: 0.931552	Topsis: 0.649359 Topsis2: 0.020930
 name: DARLING, DONALD A.
-id: 92	num: 2	D: 1	C: 0.000000	L: 3170.000000	coop:  9	years: 1956	infl: 0.464237	Topsis: 0.332967 Topsis2: 0.019231
+id: 92	num: 2	D: 1	C: 0.000000	L: 3170.000000	coop:  9	years: 1956	infl: 0.464237	Topsis: 0.332967 Topsis2: 0.010431
 name: DEBOSE, YOLANDA
-id: 100	num: 1	D: 1	C: 0.000000	L: 2576.000000	coop:  2	years: 1996	infl: 0.716468	Topsis: 0.509496 Topsis2: 0.019231
+id: 100	num: 1	D: 1	C: 0.000000	L: 2576.000000	coop:  2	years: 1996	infl: 0.716468	Topsis: 0.509496 Topsis2: 0.016098
 name: DELEGLISE, MARC
-id: 102	num: 1	D: 1	C: 0.000000	L: 2515.000000	coop:  8	years: 1999	infl: 0.750642	Topsis: 0.532345 Topsis2: 0.019231
+id: 102	num: 1	D: 1	C: 0.000000	L: 2515.000000	coop:  8	years: 1999	infl: 0.750642	Topsis: 0.532345 Topsis2: 0.016865
 name: DIXMIER, JACQUES
-id: 110	num: 1	D: 1	C: 0.000000	L: 2515.000000	coop:  20	years: 1987	infl: 0.750642	Topsis: 0.532345 Topsis2: 0.019231
+id: 110	num: 1	D: 1	C: 0.000000	L: 2515.000000	coop:  20	years: 1987	infl: 0.750642	Topsis: 0.532345 Topsis2: 0.016865
 name: EL-ZAHAR, MOHAMED H.
-id: 119	num: 1	D: 1	C: 0.000000	L: 2408.000000	coop:  21	years: 1985	infl: 0.815768	Topsis: 0.575222 Topsis2: 0.019231
+id: 119	num: 1	D: 1	C: 0.000000	L: 2408.000000	coop:  21	years: 1985	infl: 0.815768	Topsis: 0.575222 Topsis2: 0.018329
 name: FEW, LEONARD
-id: 132	num: 1	D: 1	C: 0.000000	L: 2616.000000	coop:  5	years: 1964	infl: 0.695110	Topsis: 0.495091 Topsis2: 0.019231
+id: 132	num: 1	D: 1	C: 0.000000	L: 2616.000000	coop:  5	years: 1964	infl: 0.695110	Topsis: 0.495091 Topsis2: 0.015618
 name: FREEDMAN, ALLEN R.
-id: 140	num: 1	D: 1	C: 0.000000	L: 2534.000000	coop:  11	years: 1990	infl: 0.739782	Topsis: 0.525110 Topsis2: 0.019231
+id: 140	num: 1	D: 1	C: 0.000000	L: 2534.000000	coop:  11	years: 1990	infl: 0.739782	Topsis: 0.525110 Topsis2: 0.016621
 name: GAAL, STEVEN A. (GAL, ISTVAN SANDOR)
-id: 148	num: 3	D: 1	C: 0.000000	L: 3258.000000	coop:  3	years: 1948	infl: 0.435990	Topsis: 0.312289 Topsis2: 0.019231
+id: 148	num: 3	D: 1	C: 0.000000	L: 3258.000000	coop:  3	years: 1948	infl: 0.435990	Topsis: 0.312289 Topsis2: 0.009796
 name: GINZBURG, ABRAHAM
-id: 156	num: 2	D: 1	C: 0.000000	L: 5602.000000	coop:  4	years: 1961	infl: 0.000618	Topsis: 0.000618 Topsis2: 0.019231
+id: 156	num: 2	D: 1	C: 0.000000	L: 5602.000000	coop:  4	years: 1961	infl: 0.000618	Topsis: 0.000618 Topsis2: 0.000014
 name: GOODMAN, ADOLPH W.*
-id: 161	num: 1	D: 1	C: 0.000000	L: 2726.000000	coop:  12	years: 1966	infl: 0.640271	Topsis: 0.457657 Topsis2: 0.019231
+id: 161	num: 1	D: 1	C: 0.000000	L: 2726.000000	coop:  12	years: 1966	infl: 0.640271	Topsis: 0.457657 Topsis2: 0.014386
 name: GRIESER, DANIEL
-id: 167	num: 1	D: 1	C: 0.000000	L: 2544.000000	coop:  11	years: 1987	infl: 0.734145	Topsis: 0.521346 Topsis2: 0.019231
+id: 167	num: 1	D: 1	C: 0.000000	L: 2544.000000	coop:  11	years: 1987	infl: 0.734145	Topsis: 0.521346 Topsis2: 0.016495
 name: GRUBER, PETER MANFRED
-id: 169	num: 1	D: 1	C: 0.000000	L: 5602.000000	coop:  19	years: 1989	infl: 0.000618	Topsis: 0.000618 Topsis2: 0.019231
+id: 169	num: 1	D: 1	C: 0.000000	L: 5602.000000	coop:  19	years: 1989	infl: 0.000618	Topsis: 0.000618 Topsis2: 0.000014
 name: GRUNWALD, GEZA*
-id: 171	num: 3	D: 1	C: 0.000000	L: 2462.000000	coop:  2	years: 1938	infl: 0.782029	Topsis: 0.553117 Topsis2: 0.019231
+id: 171	num: 3	D: 1	C: 0.000000	L: 2462.000000	coop:  2	years: 1938	infl: 0.782029	Topsis: 0.553117 Topsis2: 0.017571
 name: HAMMER, JOSEPH
-id: 183	num: 1	D: 1	C: 0.000000	L: 5602.000000	coop:  8	years: 1989	infl: 0.000618	Topsis: 0.000618 Topsis2: 0.019231
+id: 183	num: 1	D: 1	C: 0.000000	L: 5602.000000	coop:  8	years: 1989	infl: 0.000618	Topsis: 0.000618 Topsis2: 0.000014
 name: HARDY, GEORGE EUGENE
-id: 188	num: 1	D: 1	C: 0.000000	L: 2543.000000	coop:  4	years: 1978	infl: 0.734707	Topsis: 0.521721 Topsis2: 0.019231
+id: 188	num: 1	D: 1	C: 0.000000	L: 2543.000000	coop:  4	years: 1978	infl: 0.734707	Topsis: 0.521721 Topsis2: 0.016507
 name: HARNER, CHARLES C.
-id: 190	num: 1	D: 1	C: 0.000000	L: 2392.000000	coop:  2	years: 1973	infl: 0.826128	Topsis: 0.581963 Topsis2: 0.019231
+id: 190	num: 1	D: 1	C: 0.000000	L: 2392.000000	coop:  2	years: 1973	infl: 0.826128	Topsis: 0.581963 Topsis2: 0.018562
 name: HARZHEIM, EGBERT
-id: 193	num: 1	D: 1	C: 0.000000	L: 2243.000000	coop:  3	years: 1986	infl: 0.931552	Topsis: 0.649359 Topsis2: 0.019231
+id: 193	num: 1	D: 1	C: 0.000000	L: 2243.000000	coop:  3	years: 1986	infl: 0.931552	Topsis: 0.649359 Topsis2: 0.020930
 name: HENRIKSEN, MELVIN*
-id: 203	num: 1	D: 1	C: 0.000000	L: 4024.000000	coop:  41	years: 1955	infl: 0.249100	Topsis: 0.170497 Topsis2: 0.019231
+id: 203	num: 1	D: 1	C: 0.000000	L: 4024.000000	coop:  41	years: 1955	infl: 0.249100	Topsis: 0.170497 Topsis2: 0.005597
 name: HERZOG, FRITZ*
-id: 204	num: 6	D: 1	C: 0.000000	L: 3194.000000	coop:  8	years: 1950	infl: 0.456353	Topsis: 0.327215 Topsis2: 0.019231
+id: 204	num: 6	D: 1	C: 0.000000	L: 3194.000000	coop:  8	years: 1950	infl: 0.456353	Topsis: 0.327215 Topsis2: 0.010253
 name: HIGGS, DENIS ARTHUR
-id: 207	num: 1	D: 1	C: 0.000000	L: 2678.000000	coop:  11	years: 1984	infl: 0.663530	Topsis: 0.473614 Topsis2: 0.019231
+id: 207	num: 1	D: 1	C: 0.000000	L: 2678.000000	coop:  11	years: 1984	infl: 0.663530	Topsis: 0.473614 Topsis2: 0.014908
 name: HUNT, GILBERT AGNEW*
-id: 219	num: 1	D: 1	C: 0.000000	L: 3154.000000	coop:  2	years: 1953	infl: 0.469571	Topsis: 0.336851 Topsis2: 0.019231
+id: 219	num: 1	D: 1	C: 0.000000	L: 3154.000000	coop:  2	years: 1953	infl: 0.469571	Topsis: 0.336851 Topsis2: 0.010550
 name: JACKSON, STEPHEN CRAIG
-id: 225	num: 2	D: 1	C: 0.000000	L: 2960.000000	coop:  18	years: 1994	infl: 0.539690	Topsis: 0.387280 Topsis2: 0.019231
+id: 225	num: 2	D: 1	C: 0.000000	L: 2960.000000	coop:  18	years: 1994	infl: 0.539690	Topsis: 0.387280 Topsis2: 0.012126
 name: JONES, FRED B.
-id: 231	num: 2	D: 1	C: 0.000000	L: 2612.000000	coop:  2	years: 1982	infl: 0.697210	Topsis: 0.496511 Topsis2: 0.019231
+id: 231	num: 2	D: 1	C: 0.000000	L: 2612.000000	coop:  2	years: 1982	infl: 0.697210	Topsis: 0.496511 Topsis2: 0.015665
 name: JOO, MIKLOS
-id: 233	num: 1	D: 1	C: 0.000000	L: 2767.000000	coop:  2	years: 1992	infl: 0.621171	Topsis: 0.444466 Topsis2: 0.019231
+id: 233	num: 1	D: 1	C: 0.000000	L: 2767.000000	coop:  2	years: 1992	infl: 0.621171	Topsis: 0.444466 Topsis2: 0.013957
 name: KELLY, PAUL JOSEPH*
-id: 240	num: 2	D: 1	C: 0.000000	L: 2218.000000	coop:  10	years: 1963	infl: 0.950995	Topsis: 0.661554 Topsis2: 0.019231
+id: 240	num: 2	D: 1	C: 0.000000	L: 2218.000000	coop:  10	years: 1963	infl: 0.950995	Topsis: 0.661554 Topsis2: 0.021367
 name: KESTELMAN, HYMAN*
-id: 242	num: 1	D: 1	C: 0.000000	L: 2616.000000	coop:  4	years: 1963	infl: 0.695110	Topsis: 0.495091 Topsis2: 0.019231
+id: 242	num: 1	D: 1	C: 0.000000	L: 2616.000000	coop:  4	years: 1963	infl: 0.695110	Topsis: 0.495091 Topsis2: 0.015618
 name: KHARE, SATGUR PRASAD
-id: 243	num: 1	D: 1	C: 0.000000	L: 3027.000000	coop:  2	years: 1976	infl: 0.514274	Topsis: 0.369133 Topsis2: 0.019231
+id: 243	num: 1	D: 1	C: 0.000000	L: 3027.000000	coop:  2	years: 1976	infl: 0.514274	Topsis: 0.369133 Topsis2: 0.011555
 name: KNAPPENBERGER, JONATHAN CHARLES
-id: 250	num: 1	D: 1	C: 0.000000	L: 2665.000000	coop:  2	years: 1993	infl: 0.670004	Topsis: 0.478034 Topsis2: 0.019231
+id: 250	num: 1	D: 1	C: 0.000000	L: 2665.000000	coop:  2	years: 1993	infl: 0.670004	Topsis: 0.478034 Topsis2: 0.015054
 name: KO, CHAO (KE, ZHAO)*
-id: 251	num: 4	D: 1	C: 0.000000	L: 2671.000000	coop:  7	years: 1938	infl: 0.667007	Topsis: 0.475988 Topsis2: 0.019231
+id: 251	num: 4	D: 1	C: 0.000000	L: 2671.000000	coop:  7	years: 1938	infl: 0.667007	Topsis: 0.475988 Topsis2: 0.014986
 name: KOCZY, LASZLO A.
-id: 252	num: 1	D: 1	C: 0.000000	L: 2767.000000	coop:  5	years: 1998	infl: 0.621171	Topsis: 0.444466 Topsis2: 0.019231
+id: 252	num: 1	D: 1	C: 0.000000	L: 2767.000000	coop:  5	years: 1998	infl: 0.621171	Topsis: 0.444466 Topsis2: 0.013957
 name: LENGYEL, BELA A.*
-id: 276	num: 1	D: 1	C: 0.000000	L: 2706.000000	coop:  15	years: 1938	infl: 0.649841	Topsis: 0.464237 Topsis2: 0.019231
+id: 276	num: 1	D: 1	C: 0.000000	L: 2706.000000	coop:  15	years: 1938	infl: 0.649841	Topsis: 0.464237 Topsis2: 0.014601
 name: LEVEQUE, WILLIAM JUDSON*
-id: 278	num: 1	D: 1	C: 0.000000	L: 2753.000000	coop:  2	years: 1963	infl: 0.627616	Topsis: 0.448926 Topsis2: 0.019231
+id: 278	num: 1	D: 1	C: 0.000000	L: 2753.000000	coop:  2	years: 1963	infl: 0.627616	Topsis: 0.448926 Topsis2: 0.014101
 name: LEWIN, MORDECHAI
-id: 279	num: 1	D: 1	C: 0.000000	L: 2251.000000	coop:  5	years: 1995	infl: 0.925445	Topsis: 0.645513 Topsis2: 0.019231
+id: 279	num: 1	D: 1	C: 0.000000	L: 2251.000000	coop:  5	years: 1995	infl: 0.925445	Topsis: 0.645513 Topsis2: 0.020793
 name: LORENTZ, GEORGE GUNTHER*
-id: 285	num: 1	D: 1	C: 0.000000	L: 2450.000000	coop:  26	years: 1959	infl: 0.789368	Topsis: 0.557945 Topsis2: 0.019231
+id: 285	num: 1	D: 1	C: 0.000000	L: 2450.000000	coop:  26	years: 1959	infl: 0.789368	Topsis: 0.557945 Topsis2: 0.017736
 name: LOXTON, JOHN HAROLD
-id: 287	num: 1	D: 1	C: 0.000000	L: 2697.000000	coop:  21	years: 1979	infl: 0.654204	Topsis: 0.467230 Topsis2: 0.019231
+id: 287	num: 1	D: 1	C: 0.000000	L: 2697.000000	coop:  21	years: 1979	infl: 0.654204	Topsis: 0.467230 Topsis2: 0.014699
 name: MACINTYRE, ARCHIBALD JAMES*
-id: 290	num: 1	D: 1	C: 0.000000	L: 2764.000000	coop:  13	years: 1954	infl: 0.622545	Topsis: 0.445418 Topsis2: 0.019231
+id: 290	num: 1	D: 1	C: 0.000000	L: 2764.000000	coop:  13	years: 1954	infl: 0.622545	Topsis: 0.445418 Topsis2: 0.013987
 name: MAKKAI, MICHAEL
-id: 295	num: 1	D: 1	C: 0.000000	L: 2480.000000	coop:  22	years: 1966	infl: 0.771184	Topsis: 0.545963 Topsis2: 0.019231
+id: 295	num: 1	D: 1	C: 0.000000	L: 2480.000000	coop:  22	years: 1966	infl: 0.771184	Topsis: 0.545963 Topsis2: 0.017327
 name: MAXSEIN, THOMAS*
-id: 302	num: 1	D: 1	C: 0.000000	L: 5602.000000	coop:  6	years: 1990	infl: 0.000618	Topsis: 0.000618 Topsis2: 0.019231
+id: 302	num: 1	D: 1	C: 0.000000	L: 5602.000000	coop:  6	years: 1990	infl: 0.000618	Topsis: 0.000618 Topsis2: 0.000014
 name: MAYS, MICHAEL ELLSWORTH
-id: 303	num: 1	D: 1	C: 0.000000	L: 2746.000000	coop:  21	years: 1988	infl: 0.630868	Topsis: 0.451173 Topsis2: 0.019231
+id: 303	num: 1	D: 1	C: 0.000000	L: 2746.000000	coop:  21	years: 1988	infl: 0.630868	Topsis: 0.451173 Topsis2: 0.014174
 name: MELFI, GIUSEPPE
-id: 308	num: 1	D: 1	C: 0.000000	L: 2471.000000	coop:  3	years: 1999	infl: 0.776583	Topsis: 0.549527 Topsis2: 0.019231
+id: 308	num: 1	D: 1	C: 0.000000	L: 2471.000000	coop:  3	years: 1999	infl: 0.776583	Topsis: 0.549527 Topsis2: 0.017448
 name: MINC, HENRYK
-id: 312	num: 1	D: 1	C: 0.000000	L: 2243.000000	coop:  8	years: 1973	infl: 0.931552	Topsis: 0.649359 Topsis2: 0.019231
+id: 312	num: 1	D: 1	C: 0.000000	L: 2243.000000	coop:  8	years: 1973	infl: 0.931552	Topsis: 0.649359 Topsis2: 0.020930
 name: MIRSKY, LEONID*
-id: 313	num: 1	D: 1	C: 0.000000	L: 2671.000000	coop:  7	years: 1952	infl: 0.667007	Topsis: 0.475988 Topsis2: 0.019231
+id: 313	num: 1	D: 1	C: 0.000000	L: 2671.000000	coop:  7	years: 1952	infl: 0.667007	Topsis: 0.475988 Topsis2: 0.014986
 name: NETANYAHU, ELISHA*
-id: 326	num: 1	D: 1	C: 0.000000	L: 2526.000000	coop:  8	years: 1973	infl: 0.744330	Topsis: 0.528143 Topsis2: 0.019231
+id: 326	num: 1	D: 1	C: 0.000000	L: 2526.000000	coop:  8	years: 1973	infl: 0.744330	Topsis: 0.528143 Topsis2: 0.016724
 name: NEVEU, JACQUES
-id: 327	num: 1	D: 1	C: 0.000000	L: 2525.000000	coop:  11	years: 1963	infl: 0.744901	Topsis: 0.528524 Topsis2: 0.019231
+id: 327	num: 1	D: 1	C: 0.000000	L: 2525.000000	coop:  11	years: 1963	infl: 0.744901	Topsis: 0.528524 Topsis2: 0.016737
 name: O'NEIL, PATRICK EUGENE
-id: 333	num: 1	D: 1	C: 0.000000	L: 2525.000000	coop:  53	years: 1973	infl: 0.744901	Topsis: 0.528524 Topsis2: 0.019231
+id: 333	num: 1	D: 1	C: 0.000000	L: 2525.000000	coop:  53	years: 1973	infl: 0.744901	Topsis: 0.528524 Topsis2: 0.016737
 name: PAPP, ZOLTAN Z.
-id: 344	num: 1	D: 1	C: 0.000000	L: 2518.000000	coop:  5	years: 1980	infl: 0.748914	Topsis: 0.531196 Topsis2: 0.019231
+id: 344	num: 1	D: 1	C: 0.000000	L: 2518.000000	coop:  5	years: 1980	infl: 0.748914	Topsis: 0.531196 Topsis2: 0.016827
 name: PENNEY, DAVID EMROY, II
-id: 347	num: 1	D: 1	C: 0.000000	L: 2300.000000	coop:  3	years: 1978	infl: 0.889201	Topsis: 0.622545 Topsis2: 0.019231
+id: 347	num: 1	D: 1	C: 0.000000	L: 2300.000000	coop:  3	years: 1978	infl: 0.889201	Topsis: 0.622545 Topsis2: 0.019979
 name: RICHARDS, JONATHAN IAN*
-id: 372	num: 1	D: 1	C: 0.000000	L: 2665.000000	coop:  13	years: 1977	infl: 0.670004	Topsis: 0.478034 Topsis2: 0.019231
+id: 372	num: 1	D: 1	C: 0.000000	L: 2665.000000	coop:  13	years: 1977	infl: 0.670004	Topsis: 0.478034 Topsis2: 0.015054
 name: RIESEL, HANS
-id: 375	num: 1	D: 1	C: 0.000000	L: 2697.000000	coop:  7	years: 1988	infl: 0.654204	Topsis: 0.467230 Topsis2: 0.019231
+id: 375	num: 1	D: 1	C: 0.000000	L: 2697.000000	coop:  7	years: 1988	infl: 0.654204	Topsis: 0.467230 Topsis2: 0.014699
 name: RYAVEC, CHARLES ALBERT
-id: 389	num: 1	D: 1	C: 0.000000	L: 2796.000000	coop:  7	years: 1972	infl: 0.608067	Topsis: 0.435369 Topsis2: 0.019231
+id: 389	num: 1	D: 1	C: 0.000000	L: 2796.000000	coop:  7	years: 1972	infl: 0.608067	Topsis: 0.435369 Topsis2: 0.013662
 name: SARKAR, AMITES
-id: 397	num: 1	D: 1	C: 0.000000	L: 2167.000000	coop:  6	years: 1999	infl: 0.992429	Topsis: 0.687304 Topsis2: 0.019231
+id: 397	num: 1	D: 1	C: 0.000000	L: 2167.000000	coop:  6	years: 1999	infl: 0.992429	Topsis: 0.687304 Topsis2: 0.022298
 name: SCHERK, PETER*
-id: 403	num: 1	D: 1	C: 0.000000	L: 3215.000000	coop:  10	years: 1959	infl: 0.449567	Topsis: 0.322252 Topsis2: 0.019231
+id: 403	num: 1	D: 1	C: 0.000000	L: 3215.000000	coop:  10	years: 1959	infl: 0.449567	Topsis: 0.322252 Topsis2: 0.010101
 name: SCHMUTZ, ERIC J.
-id: 405	num: 1	D: 1	C: 0.000000	L: 2300.000000	coop:  10	years: 1991	infl: 0.889201	Topsis: 0.622545 Topsis2: 0.019231
+id: 405	num: 1	D: 1	C: 0.000000	L: 2300.000000	coop:  10	years: 1991	infl: 0.889201	Topsis: 0.622545 Topsis2: 0.019979
 name: SHAPIRO, HAROLD NATHANIEL
-id: 417	num: 3	D: 1	C: 0.000000	L: 2524.000000	coop:  14	years: 1951	infl: 0.745473	Topsis: 0.528905 Topsis2: 0.019231
+id: 417	num: 3	D: 1	C: 0.000000	L: 2524.000000	coop:  14	years: 1951	infl: 0.745473	Topsis: 0.528905 Topsis2: 0.016749
 name: SHENG, TSENG KUO
-id: 421	num: 1	D: 1	C: 0.000000	L: 2459.000000	coop:  3	years: 1975	infl: 0.783856	Topsis: 0.554320 Topsis2: 0.019231
+id: 421	num: 1	D: 1	C: 0.000000	L: 2459.000000	coop:  3	years: 1975	infl: 0.783856	Topsis: 0.554320 Topsis2: 0.017612
 name: SILVERMAN, RUTH
-id: 427	num: 1	D: 1	C: 0.000000	L: 5602.000000	coop:  16	years: 1983	infl: 0.000618	Topsis: 0.000618 Topsis2: 0.019231
+id: 427	num: 1	D: 1	C: 0.000000	L: 5602.000000	coop:  16	years: 1983	infl: 0.000618	Topsis: 0.000618 Topsis2: 0.000014
 name: SIRAO, TUNEKITI
-id: 432	num: 1	D: 1	C: 0.000000	L: 3154.000000	coop:  7	years: 1959	infl: 0.469571	Topsis: 0.336851 Topsis2: 0.019231
+id: 432	num: 1	D: 1	C: 0.000000	L: 3154.000000	coop:  7	years: 1959	infl: 0.469571	Topsis: 0.336851 Topsis2: 0.010550
 name: SKILTON, DONALD K.
-id: 433	num: 3	D: 1	C: 0.000000	L: 2661.000000	coop:  2	years: 1985	infl: 0.672012	Topsis: 0.479403 Topsis2: 0.019231
+id: 433	num: 3	D: 1	C: 0.000000	L: 2661.000000	coop:  2	years: 1985	infl: 0.672012	Topsis: 0.479403 Topsis2: 0.015099
 name: SMITH, BRENT PENDLETON
-id: 434	num: 1	D: 1	C: 0.000000	L: 2994.000000	coop:  8	years: 1981	infl: 0.526624	Topsis: 0.377969 Topsis2: 0.019231
+id: 434	num: 1	D: 1	C: 0.000000	L: 2994.000000	coop:  8	years: 1981	infl: 0.526624	Topsis: 0.377969 Topsis2: 0.011832
 name: SMITH, PAUL R.
-id: 435	num: 1	D: 1	C: 0.000000	L: 5602.000000	coop:  4	years: 1990	infl: 0.000618	Topsis: 0.000618 Topsis2: 0.019231
+id: 435	num: 1	D: 1	C: 0.000000	L: 5602.000000	coop:  4	years: 1990	infl: 0.000618	Topsis: 0.000618 Topsis2: 0.000014
 name: SOIFER, ALEXANDER
-id: 436	num: 2	D: 1	C: 0.000000	L: 2480.000000	coop:  5	years: 1993	infl: 0.771184	Topsis: 0.545963 Topsis2: 0.019231
+id: 436	num: 2	D: 1	C: 0.000000	L: 2480.000000	coop:  5	years: 1993	infl: 0.771184	Topsis: 0.545963 Topsis2: 0.017327
 name: STEIN, ALAN H.
-id: 442	num: 1	D: 1	C: 0.000000	L: 5602.000000	coop:  7	years: 1983	infl: 0.000618	Topsis: 0.000618 Topsis2: 0.019231
+id: 442	num: 1	D: 1	C: 0.000000	L: 5602.000000	coop:  7	years: 1983	infl: 0.000618	Topsis: 0.000618 Topsis2: 0.000014
 name: STRAIGHT, H. JOSEPH
-id: 447	num: 1	D: 1	C: 0.000000	L: 2568.000000	coop:  16	years: 1990	infl: 0.720837	Topsis: 0.512430 Topsis2: 0.019231
+id: 447	num: 1	D: 1	C: 0.000000	L: 2568.000000	coop:  16	years: 1990	infl: 0.720837	Topsis: 0.512430 Topsis2: 0.016196
 name: SUEN, W.-C. STEPHEN
-id: 450	num: 1	D: 1	C: 0.000000	L: 2396.000000	coop:  20	years: 1995	infl: 0.823522	Topsis: 0.580270 Topsis2: 0.019231
+id: 450	num: 1	D: 1	C: 0.000000	L: 2396.000000	coop:  20	years: 1995	infl: 0.823522	Topsis: 0.580270 Topsis2: 0.018503
 name: VAZSONYI, ANDREW* (WEISZFELD, ENDRE)
-id: 487	num: 2	D: 1	C: 0.000000	L: 2670.000000	coop:  6	years: 1936	infl: 0.667505	Topsis: 0.476329 Topsis2: 0.019231
+id: 487	num: 2	D: 1	C: 0.000000	L: 2670.000000	coop:  6	years: 1936	infl: 0.667505	Topsis: 0.476329 Topsis2: 0.014998
 name: VIJAYAN, KAIPILLIL
-id: 490	num: 3	D: 1	C: 0.000000	L: 2929.000000	coop:  25	years: 1985	infl: 0.551918	Topsis: 0.395957 Topsis2: 0.019231
+id: 490	num: 3	D: 1	C: 0.000000	L: 2929.000000	coop:  25	years: 1985	infl: 0.551918	Topsis: 0.395957 Topsis2: 0.012401
 name: VOLKMANN, BODO
-id: 492	num: 1	D: 1	C: 0.000000	L: 2816.000000	coop:  9	years: 1966	infl: 0.599217	Topsis: 0.429205 Topsis2: 0.019231
+id: 492	num: 1	D: 1	C: 0.000000	L: 2816.000000	coop:  9	years: 1966	infl: 0.599217	Topsis: 0.429205 Topsis2: 0.013463
 name: WEISS, GARY LYNN
-id: 496	num: 1	D: 1	C: 0.000000	L: 2607.000000	coop:  12	years: 1983	infl: 0.699846	Topsis: 0.498293 Topsis2: 0.019231
+id: 496	num: 1	D: 1	C: 0.000000	L: 2607.000000	coop:  12	years: 1983	infl: 0.699846	Topsis: 0.498293 Topsis2: 0.015724
 name: ZAREMBA, STANISLAW KRYSTYN*
-id: 508	num: 1	D: 1	C: 0.000000	L: 2182.000000	coop:  11	years: 1973	infl: 0.979987	Topsis: 0.679605 Topsis2: 0.019231
+id: 508	num: 1	D: 1	C: 0.000000	L: 2182.000000	coop:  11	years: 1973	infl: 0.979987	Topsis: 0.679605 Topsis2: 0.022018
 name: ZIV, ABRAHAM
-id: 510	num: 1	D: 1	C: 0.000000	L: 5602.000000	coop:  10	years: 1961	infl: 0.000618	Topsis: 0.000618 Topsis2: 0.019231
+id: 510	num: 1	D: 1	C: 0.000000	L: 5602.000000	coop:  10	years: 1961	infl: 0.000618	Topsis: 0.000618 Topsis2: 0.000014
 name: ALAOGLU, LEONIDAS*
 id: 6	num: 2	D: 0	C: 0.000000	L: 5610.000000	coop:  3	years: 1944	infl: 0.000000	Topsis: 0.000000 Topsis2: 0.000000
 name: ANNING, NORMAN H.*

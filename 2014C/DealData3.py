@@ -2,11 +2,8 @@ import math
 import numpy as np
 import Queue
 import re
-
-import numpy as np 
-import re
-import math
-import Queue
+import matplotlib.pyplot as plt
+import networkx as nx
 
 def cmpd(a,b):
 	return cmp(b.D,a.D)
@@ -78,6 +75,8 @@ class DealData():
 		self.L = list()
 		self.C = list()
 		self.maxD = 0
+		self.CC = 0
+		self.LL = 0
 
 	def is_match(self,name):
 		if name[0] == '-':
@@ -102,6 +101,8 @@ class DealData():
 		return self.ID[name]
 
 	def get_id(self,name):
+		if name == 'WILLIAM':
+			return -2
 		if self.ID.get(name) == None:
 			return -1
 		return self.ID[name]
@@ -121,8 +122,7 @@ class DealData():
 				u = self.get_id(name)
 				if u == -1:
 					u = self.add_id(name)
-					self.node.append(Node(name,u,1,self.get_time(line)))
-				self.node[u].num += 1
+					self.node.append(Node(name,u,0,self.get_time(line)))
 
 		num_of_coop = [0 for i in range(self.num_of_point)]
 		u = -1
@@ -133,10 +133,12 @@ class DealData():
 			if self.is_match(line):
 				name = self.deal_name(line)
 				v = self.get_id(name)
-				if u != -1:
+				if u == -2 and v >= 0:
+					self.node[v].num += 1
+				if u >= 0 and v >= 0:
 					self.edge.append([u,v])
+					num_of_coop[v] += 1
 				u = v
-				num_of_coop[u] += 1
 		for i in range(self.num_of_point):
 			self.node[i].set_num_of_coop(num_of_coop[i])
 		print self.num_of_point
@@ -161,6 +163,16 @@ class DealData():
 		for i in self.degree:
 			self.degree_dsitributed[i] += 1
 
+	def draw_degree(self):
+		plt.figure(figsize=(8,4))
+		plt.plot(range(20),self.degree_dsitributed[0:20])
+
+		plt.xlabel('Degree')
+		plt.ylabel('Number')
+
+		plt.show()
+
+
 	def get_a_point_Ci(self,p):
 		tmp = list()
 		#tmp.append(p)
@@ -182,7 +194,8 @@ class DealData():
 		self.C = [0 for i in range(self.num_of_point)]
 		for i in range(self.num_of_point):
 			self.C[i] = self.get_a_point_Ci(i)
-		return sum(self.C) / self.num_of_point
+		self.CC = sum(self.C) / self.num_of_point
+		return self.CC
 
 	def get_a_point_Li(self,p):
 		vis = [0 for i in range(self.num_of_point)]
@@ -207,7 +220,8 @@ class DealData():
 		self.L = [0 for i in range(self.num_of_point)]
 		for i in range(self.num_of_point):
 			self.L[i] = self.get_a_point_Li(i)
-		return sum(self.L) / (2.0 * self.num_of_point * (self.num_of_point-1))
+		self.LL = sum(self.L) / (self.num_of_point * (self.num_of_point-1))
+		return self.LL
 
 	def update_node_list(self):
 		for i in range(self.num_of_point):
@@ -262,7 +276,7 @@ class DealData():
 		#sort by t2
 		self.node.sort(cmpt2)
 		f = open('t2'+filename,'w')
-		f.write('num_of_point: %d D:%d\n' % (self.num_of_point,self.maxD))
+		f.write('num_of_point: %d D:%d CC: %f LL: %f\n' % (self.num_of_point,self.maxD,self.CC,self.LL))
 		for i in self.node:
 		#	print i.name,' ',i.id,' ',i.num,' ',i.D,' ',i.C,' ',i.L
 			f.write(i.pri())
@@ -285,7 +299,7 @@ class DealData():
 		topmat = np.array([[0 for i in range(3)] for j in range(self.num_of_point)], dtype = np.float)
 		for i in range(self.num_of_point):
 			topmat[i][0] = self.node[i].D
-			topmat[i][1] = self.node[i].C
+			topmat[i][1] = self.node[i].num
 			topmat[i][2] = self.node[i]._L
 			#topmat[i][3] = self.node[i].num
 		s = sum(topmat)
@@ -333,8 +347,8 @@ class DealData():
 		topmat = np.array([[0 for i in range(3)] for j in range(self.num_of_point)], dtype = np.float)
 		for i in range(self.num_of_point):
 			topmat[i][0] = 100/self.node[i].time
-			topmat[i][1] = self.node[i].num_of_coop
-			topmat[i][2] = self.node[i].infl
+			topmat[i][1] = self.node[i].C
+			topmat[i][2] = self.node[i].infl*self.node[i].D
 		s = sum(topmat)
 		print s
 		for i in range(self.num_of_point):
@@ -361,6 +375,12 @@ class DealData():
 		for i in range(self.num_of_point):
 			self.node[i].T2 = Lbad[i] / (Lbad[i] + Lgood[i])
 
+	def out_pajek(self):
+		g = nx.Graph()
+		g.add_nodes_from(range(self.num_of_point))
+		g.add_edges_from(self.edge)
+		nx.write_pajek(g,'g2.net')
+
 
 
 
@@ -377,6 +397,8 @@ A.update_node_list()
 A.cal_topsis()
 A.cal_infl()
 A.cal_topsis2()
-A.output_node_list('_bh_Data3.out')
+A.output_node_list('_bh_Data4.out')
+A.out_pajek()
+A.draw_degree()
 
 

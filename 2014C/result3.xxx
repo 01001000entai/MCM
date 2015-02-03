@@ -1,0 +1,81 @@
+第一问
+TOPSIS前十名
+num_of_point: 511 D:10
+name: FUREDI, ZOLTAN
+id: 147	num: 10	D: 40	C: 0.187179	L: 1694.000000	coop:  106	years: 1982	infl: 0.860367	Topsis: 1.000000 Topsis2: 0.773231
+name: ALON, NOGA M.
+id: 9	num: 5	D: 52	C: 0.178733	L: 1696.000000	coop:  361	years: 1985	infl: 0.855915	Topsis: 0.998311 Topsis2: 1.000000
+name: GRAHAM, RONALD LEWIS
+id: 164	num: 28	D: 44	C: 0.173362	L: 1699.000000	coop:  177	years: 1972	infl: 0.851025	Topsis: 0.995784 Topsis2: 0.841320
+name: BOLLOBAS, BELA
+id: 43	num: 18	D: 43	C: 0.168328	L: 1703.000000	coop:  142	years: 1962	infl: 0.850167	Topsis: 0.992429 Topsis2: 0.821369
+name: SOS, VERA TURAN
+id: 437	num: 35	D: 38	C: 0.113798	L: 1718.000000	coop:  55	years: 1966	infl: 0.829038	Topsis: 0.979987 Topsis2: 0.707822
+name: TUZA, ZSOLT
+id: 478	num: 11	D: 40	C: 0.170513	L: 1744.000000	coop:  177	years: 1989	infl: 0.829474	Topsis: 0.958928 Topsis2: 0.745467
+name: LOVASZ, LASZLO
+id: 286	num: 7	D: 30	C: 0.220690	L: 1752.000000	coop:  132	years: 1973	infl: 0.869722	Topsis: 0.952574 Topsis2: 0.586230
+name: RODL, VOJTECH
+id: 377	num: 11	D: 43	C: 0.218162	L: 1752.000000	coop:  130	years: 1983	infl: 0.852519	Topsis: 0.952574 Topsis2: 0.823642
+name: STRAUS, ERNST GABOR*
+id: 448	num: 20	D: 26	C: 0.098462	L: 1754.000000	coop:  71	years: 1953	infl: 0.812131	Topsis: 0.950995 Topsis2: 0.474422
+name: SPENCER, JOEL HAROLD
+id: 439	num: 23	D: 35	C: 0.198319	L: 1756.000000	coop:  108	years: 1971	infl: 0.855385	Topsis: 0.949419 Topsis2: 0.672660
+
+TOPSIS2前十名
+num_of_point: 511 D:10 CC: 0.261653 LL: 5.000000
+name: ALON, NOGA M.
+id: 9	num: 5	D: 52	C: 0.178733	L: 1696.000000	coop:  361	years: 1985	infl: 0.855915	Topsis: 0.998311 Topsis2: 1.000000
+name: GRAHAM, RONALD LEWIS
+id: 164	num: 28	D: 44	C: 0.173362	L: 1699.000000	coop:  177	years: 1972	infl: 0.851025	Topsis: 0.995784 Topsis2: 0.841320
+name: RODL, VOJTECH
+id: 377	num: 11	D: 43	C: 0.218162	L: 1752.000000	coop:  130	years: 1983	infl: 0.852519	Topsis: 0.952574 Topsis2: 0.823642
+name: BOLLOBAS, BELA
+id: 43	num: 18	D: 43	C: 0.168328	L: 1703.000000	coop:  142	years: 1962	infl: 0.850167	Topsis: 0.992429 Topsis2: 0.821369
+name: FUREDI, ZOLTAN
+id: 147	num: 10	D: 40	C: 0.187179	L: 1694.000000	coop:  106	years: 1982	infl: 0.860367	Topsis: 1.000000 Topsis2: 0.773231
+name: HARARY, FRANK*
+id: 186	num: 2	D: 44	C: 0.090909	L: 1779.000000	coop:  316	years: 1965	infl: 0.779680	Topsis: 0.931552 Topsis2: 0.770788
+name: TUZA, ZSOLT
+id: 478	num: 11	D: 40	C: 0.170513	L: 1744.000000	coop:  177	years: 1989	infl: 0.829474	Topsis: 0.958928 Topsis2: 0.745467
+name: SOS, VERA TURAN
+id: 437	num: 35	D: 38	C: 0.113798	L: 1718.000000	coop:  55	years: 1966	infl: 0.829038	Topsis: 0.979987 Topsis2: 0.707822
+name: SPENCER, JOEL HAROLD
+id: 439	num: 23	D: 35	C: 0.198319	L: 1756.000000	coop:  108	years: 1971	infl: 0.855385	Topsis: 0.949419 Topsis2: 0.672660
+name: PACH, JANOS
+id: 340	num: 21	D: 32	C: 0.187500	L: 1784.000000	coop:  119	years: 1980	infl: 0.833966	Topsis: 0.927728 Topsis2: 0.599604
+
+
+第三问PR值
+[[  2.82300164e-40   2.52357368e-01   5.72975630e-03   1.37083642e-01
+    9.98845385e-86   2.18087964e-02   1.39290329e-02   1.65441904e-01
+    4.90997601e-22   6.84820959e-02   2.34030323e-21   1.18292641e-02
+    1.33466986e-21   1.58076674e-01   6.27302551e-85   9.08766322e-03
+    3.35792982e-02   1.95102262e-03   6.95624676e-02   5.10810155e-02]]
+
+第四问
+TOPSIS前五
+num_of_point: 82 D:8
+name: CAMPBELL 
+id: 5	num: 5	D: 15	C: 0.057143	L: 192.000000	coop:  16	years: 6	infl: 0.634074	Topsis: 1.000000 Topsis2: 1.000000
+name: STEPHEN
+id: 48	num: 8	D: 11	C: 0.181818	L: 195.000000	coop:  12	years: 49	infl: 0.705793	Topsis: 0.974568 Topsis2: 0.816280
+name: ISABELLA
+id: 17	num: 15	D: 9	C: 0.138889	L: 215.000000	coop:  19	years: 18	infl: 0.612398	Topsis: 0.823161 Topsis2: 0.579489
+name: LONGSHANKS
+id: 16	num: 3	D: 14	C: 0.109890	L: 219.000000	coop:  31	years: 17	infl: 0.539958	Topsis: 0.796198 Topsis2: 0.794799
+name: LEPER
+id: 44	num: 0	D: 4	C: 0.166667	L: 227.000000	coop:  13	years: 45	infl: 0.597451	Topsis: 0.745123 Topsis2: 0.251265
+
+TOPSIS前五：
+num_of_point: 82 D:8 CC: 0.234883 LL: 3.000000
+name: CAMPBELL
+id: 5	num: 5	D: 15	C: 0.057143	L: 192.000000	coop:  16	years: 6	infl: 0.634074	Topsis: 1.000000 Topsis2: 1.000000
+name: HAMISH
+id: 7	num: 26	D: 13	C: 0.256410	L: 240.000000	coop:  20	years: 8	infl: 0.693140	Topsis: 0.669388 Topsis2: 0.947400
+name: CRAIG
+id: 21	num: 6	D: 15	C: 0.228571	L: 234.000000	coop:  18	years: 22	infl: 0.574550	Topsis: 0.703297 Topsis2: 0.906125
+name: STEPHEN
+id: 48	num: 8	D: 11	C: 0.181818	L: 195.000000	coop:  12	years: 49	infl: 0.705793	Topsis: 0.974568 Topsis2: 0.816280
+name: LONGSHANKS
+id: 16	num: 3	D: 14	C: 0.109890	L: 219.000000	coop:  31	years: 17	infl: 0.539958	Topsis: 0.796198 Topsis2: 0.794799
