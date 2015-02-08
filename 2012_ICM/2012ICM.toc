@@ -14,6 +14,6 @@
 \contentsline {section}{\numberline {7}Further Analysis}{10}
 \contentsline {subsection}{\numberline {7.1}Strengths and Weaknesses}{10}
 \contentsline {subsubsection}{\numberline {7.1.1}Strengths}{10}
-\contentsline {subsubsection}{\numberline {7.1.2}Weaknesses}{10}
+\contentsline {subsubsection}{\numberline {7.1.2}Weaknesses}{11}
 \contentsline {subsection}{\numberline {7.2}Future work}{11}
 \contentsline {section}{\numberline {8}Model Extension}{11}

@@ -28,17 +28,21 @@
 \section{Introduction}
 \subsection{Background}
         
-        In a information-based society, the development of data network is getting increasingly faster. As a result, the relations between people who  are involved into the social network become more complicated. In order to methodize the massive data in the network, the network analysis model comes into being. These models of connection between people describes mutual relations in the aspect of point set, entropy and macro-statistics, which largely simplify  the sophisticated social phenomenon and provides a  way to forecast the future development. Now the network analysis model has been widely applied to analyse social individuals’ connections, comprehend the social structure\cite{A1}\cite{A2} and investigate the communication system in large group of organization\cite{A3}\cite{A4}.    	
+        In a information-based society, the development of data network is getting increasingly faster. As a result, the relations between people who  are involved into the social network become more complicated. In order to methodize the massive data in the network, the network analysis model comes into being. These models of connection between people describes mutual relations in the aspect of point set, entropy and macro-statistics, which largely simplify  the sophisticated social phenomenon and provides a  way to forecast the future development. Now the network analysis model has been widely applied to analyse social individuals’ connections, comprehend the social structure\cite{A1}\cite{A2} and investigate the communication system in large group of organization\cite{A3}\cite{A4}.    
+	
 	Among them, crime network receives particular attention in  determining the criminal organizations\cite{A5}. This paper mainly focuses on identifying criminal conspirators on the background of a conspiracy in a software company.We are going to find out the potential criminals with provided pieces of evidence.
 	
 \subsection{Out Work}
-
 	Noticing that there are some problems in the data given, we deal with them as follows: 
 \begin{itemize}
-\item There five groups of people with the same name in the message traffic and Elsie is one of them. Since Elsie is a known conspirator, we make a decision that Elsie whose number is 7 is the conspirator knownand the other remains to be seen. \item There is a strange message that node 3 talked to himself in the message traffic. We delete this record in our model.
-\edn{itemize}	First,the possibility of a node being a conspirator performs not only in the his coonection of the whole company netwrok,but also in his connection with the known conspirators and suspicious message topics.In order to get a clear picture of the problem, we think that three factors should be taken into consideration to measure the possibility of a node being a conspirator:
+\item There five groups of people with the same name in the message traffic and Elsie is one of them. Since Elsie is a known conspirator, we make a decision that Elsie whose number is 7 is the conspirator knownand the other remains to be seen. 
+\item There is a strange message that node 3 talked to himself in the message traffic. We delete this record in our model.
+\edn{itemize}
+	First,the possibility of a node being a conspirator performs not only in the his coonection of the whole company netwrok,but also in his connection with the known conspirators and suspicious message topics.In order to get a clear picture of the problem, we think that three factors should be taken into consideration to measure the possibility of a node being a conspirator:
 \begin{itemize}
-\item The person’s extensive degree in the network of company.\item The times of communication with known conspirators.\item The number of known suspicious message topics sent by himself and received by others.
+\item The person’s extensive degree in the network of company.
+\item The times of communication with known conspirators.
+\item The number of known suspicious message topics sent by himself and received by others.
 \end{itemize}
 	The measure of the possibility of a conspirator being a leader should contain the following factors:
 \begin{itemize}
@@ -47,26 +51,43 @@
 \end{itemize{
 
 	On the basis of above discussion, to discover all the conspirators of a criminal gang ,to find its leader, and to promote it to be applied in other fields, we may boil down the tasks to the following five questions :
-\begin{enumerate}\item Adapting criminal analysis, we will give a priority list , determine the conspirators and find the leader of the criminal gang.\item Adding the known information to the before model and analyze what changes happen in the before results,\item Add semantic network analysis into the model to refine it.\item Extending previous models and algorithms，State a general approach by which can identify, prioritize, and categorize similar nodes in a network in other actual fields to examine their adaptability ., \item Discuss the science and utility of the model built before
+\begin{enumerate}
+\item Adapting criminal analysis, we will give a priority list , determine the conspirators and find the leader of the criminal gang.
+\item Adding the known information to the before model and analyze what changes happen in the before results,
+\item Add semantic network analysis into the model to refine it.
+\item Extending previous models and algorithms，State a general approach by which can identify, prioritize, and categorize similar nodes in a network in other actual fields to examine their adaptability ., 
+\item Discuss the science and utility of the model built before
 \end{enumerate}
 
-\section{Assumptions} 	We make these following assumptions about the criminal data in this paper.
+\section{Assumptions} 
+	We make these following assumptions about the criminal data in this paper.
 \begin{itemize}
-\item We assume that the resource of message traffic is reliable and all the information is true.\item In order to simplify the model, we neglect the time factor in conversations.\item According to the basic information we receive, we assume that only one single  criminal organization exists in the process of our model construction.
+\item We assume that the resource of message traffic is reliable and all the information is true.
+\item In order to simplify the model, we neglect the time factor in conversations.
+\item According to the basic information we receive, we assume that only one single  criminal organization exists in the process of our model construction.
 \end{itemize}
 
 \section{Symbol Descriptions}
 
 \section{Crime Detection}
 	After researching several papers in relevance of crime network field, we draw some regular common conclusions on this special kind of network.
-\begin{enumerate}\item The diameter of crime network usually isn’t great. Thus, most networks enjoy a high density.\item The level of information sharing is equal.\item Most networks have radial center.
+\begin{enumerate}
+\item The diameter of crime network usually isn’t great. Thus, most networks enjoy a high density.
+\item The level of information sharing is equal.
+\item Most networks have radial center.
 \end{enumerate}
-	With Feature (1) and Feature (2) we can analyse the criminal potentiality in the crime network. Besides, Feature (2) can help us to identify the conspiracy leaders in the whole relations.	Through these common features, we apply these into practical problems and establish the following models to tackle with the problem.	Before modeling, to avoid ambiguity, we define the two concept here:
-\begin{enumerate}\item Suspicion parameter: we employ to measure the suspicious degree of one node.\item Crime centrality: This parameter is used to quantity one node’s closeness to the criminal center.
+	With Feature (1) and Feature (2) we can analyse the criminal potentiality in the crime network. Besides, Feature (2) can help us to identify the conspiracy leaders in the whole relations.
+	Through these common features, we apply these into practical problems and establish the following models to tackle with the problem.
+	Before modeling, to avoid ambiguity, we define the two concept here:
+\begin{enumerate}
+\item Suspicion parameter: we employ to measure the suspicious degree of one node.
+\item Crime centrality: This parameter is used to quantity one node’s closeness to the criminal center.
 \end{enumerate}
 
 \subsection{Model One: Criminal Digging Algorithm Based on Connection Law}
-	Connection law is a method to determine the high frequency of communication between two people under the circumstances of concentrative distribution of data. In this case, the investigators has formed the people and message network. Thus, we are able to carry on a series of deeper data mining.	In order to find suspicious degree of each person in this company, according to graph theory, we define the nodes as people and the sides as the communication among these people. Thus, we establish network model which can reflect the relation among people in this company.         To evaluate the suspicious degree  of each peson in the network model, we discuss its measuring method in the following section.
+	Connection law is a method to determine the high frequency of communication between two people under the circumstances of concentrative distribution of data. In this case, the investigators has formed the people and message network. Thus, we are able to carry on a series of deeper data mining.
+	In order to find suspicious degree of each person in this company, according to graph theory, we define the nodes as people and the sides as the communication among these people. Thus, we establish network model which can reflect the relation among people in this company.
+         To evaluate the suspicious degree  of each peson in the network model, we discuss its measuring method in the following section.
 \subsubsection{Suspicion Detection via the importance of node in the network}
 	In this model, we introduce the conception of potential relation degree with the conspirators as $A_{ij}$.Through the number of $A_{ij}$ nodes, we can build the connection path from node $i$ to node $j$.
 	The proportion of indirect connection of nodes is the proportion of sides with same nodes and the joint nodes, which can be expressed as:
@@ -102,7 +123,8 @@ $V_{ij}$ represents the node $i$ receives or sends topic $j$. So $V_i$ can expre
 	The smaller the value of result is, the better evaluation result one index has. In order to minimize the errors in analysis, we use the two index of suspicion parameter, $AA_i$ and $BB_i$, and employ the Topsis Algorithm to determine the final suspicion parameter $S$.The results are shown in Table(???)
 	
 \subsection{Model Two: Conspiracy Leader Model}
-	As is expressed in the beginning of this part, the concept of criminal centrality is used here.	Here, two parameters which respectively describes the closeness of connection of the nodes and the edges are introduced here as $CE_i$ and $CN_i$. In the network built on the conversations of suspicious topics, we choose the child network whose center is node i and calculate its value of $CE_i$ and $CN_i$.
+	As is expressed in the beginning of this part, the concept of criminal centrality is used here.
+	Here, two parameters which respectively describes the closeness of connection of the nodes and the edges are introduced here as $CE_i$ and $CN_i$. In the network built on the conversations of suspicious topics, we choose the child network whose center is node i and calculate its value of $CE_i$ and $CN_i$.
 \begin{equation}
 \centering
 CN_i = \frac{\sum CC_j}{\sum_{k=all} CC_k} , dis(i,j) \le 1
@@ -117,23 +139,34 @@ Because the leader provides us with the text evidence about the case，we introd
 \begin{enumerate}
 \item Strengths: 
 \begin{enumerate}
-\item We take both the node position in the whole network and suspicious message it sends and receives into consideration for identifying and prioritizing conspirators. So, the solution of our model pursues high credibility, while reducing the misjudgment rate. \item The result of simulation shows that our model can be applied to other field, so it is extendable.
-\item The result of our model match perfectly with the experience, which proves the reasonability of our model .\end{enumerate}
-\item Weaknesses:  
+\item We take both the node position in the whole network and suspicious message it sends and receives into consideration for identifying and prioritizing conspirators. So, the solution of our model pursues high credibility, while reducing the misjudgment rate. 
+\item The result of simulation shows that our model can be applied to other field, so it is extendable.
+\item The result of our model match perfectly with the experience, which proves the reasonability of our model .
+\end{enumerate}
+
+\item Weaknesses:  
 \begin{enumerate}
-\item Since there is no clear criteria for the classification, those conspirators who are slightly behind may be missed . \item We don‘t take the Criminal Psychology into consideration while to mix the detective’s judgement,what some people say may not true.\item In actual situations,criminal gang may be more handsome and the hidden boss may be hidden deeply so that our model has possibility to loss them.
+\item Since there is no clear criteria for the classification, those conspirators who are slightly behind may be missed . 
+\item We don‘t take the Criminal Psychology into consideration while to mix the detective’s judgement,what some people say may not true.
+\item In actual situations,criminal gang may be more handsome and the hidden boss may be hidden deeply so that our model has possibility to loss them.
 \end{enumerate}
 
 \item Future work: 
 \begin{enumerate}
-\item Apply semantic network analysis to discover the potential linkage between the messages and scientifically classify them into different groups. \item Find a more reasonable criteria for the classification and consider the Criminal Psychology for dealing with more complex and specfic cases.\end{enumerate}
+\item Apply semantic network analysis to discover the potential linkage between the messages and scientifically classify them into different groups. 
+\item Find a more reasonable criteria for the classification and consider the Criminal Psychology for dealing with more complex and specfic cases.
+\end{enumerate}
 \end{enumerate}
 
 \section{Model Extension}
-In our model , we use many network techniques to empower our model. And in common network analysis, we often use indexes about nodes and edges . What’s more ,in a specific network, there are always related information about nodes and edges . We both use the common and feature of network to build our model, with the goal that making the estimating result more accurate.While dealing with the problem of crime busting, we take some specific features such as suspicious topics and persons .It is the same with similar problems like assuming the infection ability of different cells.Based on these conclusions above, we state a general approach, by which can identify, prioritize, and categorize similar nodes in a network as follows: 
+In our model , we use many network techniques to empower our model. And in common network analysis, we often use indexes about nodes and edges . What’s more ,in a specific network, there are always related information about nodes and edges . We both use the common and feature of network to build our model, with the goal that making the estimating result more accurate.While dealing with the problem of crime busting, we take some specific features such as suspicious topics and persons .It is the same with similar problems like assuming the infection ability of different cells.
+Based on these conclusions above, we state a general approach, by which can identify, prioritize, and categorize similar nodes in a network as follows: 
 \begin{itemize}
 \item First, collect datas of various properties of nodes in the network and analyze them to estimate general characteristics of that network. 
-\item Then, according to features of specified network, transform them into indexes about nodes and edges just like what we do in our model. \item Finally, combine both of them together into a weighted average. And that is a score mesures nodes with the given standard. With this score of result, we can identify, prioritize, and categorize similar nodes in that network.
+
+\item Then, according to features of specified network, transform them into indexes about nodes and edges just like what we do in our model. 
+
+\item Finally, combine both of them together into a weighted average. And that is a score mesures nodes with the given standard. With this score of result, we can identify, prioritize, and categorize similar nodes in that network.
 \end{itemize} 
 
 

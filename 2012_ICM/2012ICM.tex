@@ -16,7 +16,7 @@
 \usepackage{lastpage}
 \lhead{Team \# 0000}
 \rhead{Page \thepage{} of  \pageref{LastPage}}
-\cfoot{}
+\cfoot{}		
 
 \begin{document}
 
@@ -29,7 +29,16 @@
 \end{center}
 
 	In this paper, we build the network model to analyse and detect the conspirators hidden in a network organization and find out their leader.
-		For the first requirement, analyzing the EZ case, conspirators tend to have frequent communication and similar message communication with other conspirators. Based on graph theory, we introduce two concepts, Suspicion parameter and Crime centrality to quantity the suspicious degree of a person in the network. Then we use Topsis algorithm to prioritize the conspiracy scheme possibility of a person What’s more, we can find \textbf{Seeni} is the most potentially criminal leader in this case by analyzing the topics of conversations he has with the known conspirators and the suspicious message he has. 	For the second requirement, when topic 1 are considered as suspicious question and Chris converts to be conspirator, we get a new ranking list and compare it to the ranking list before.	For the third requirement, semantic network analysis is employed to enhance the sensitivity of our model. Thus, we can abstract key words from message flows to gather the information we need. After this, we get another ranking lists of the conspirator possibility. Comparing to the ranking list before, we come to several interesting conclusions. What’s more, the suspicious leader of this conspiracy crime remains unchanged. 	After that, we apply our model in other fields which differ from criminal network. Under different circumstances, we add other parameters to improve the accuracy. Using the graph theory, we state a general approach to identify, prioritize, and categorize similar nodes in a network. 	Finally, the strengths and weaknesses of the model are discussed, and the future work is pointed out.
+	
+	For the first requirement, analyzing the EZ case, conspirators tend to have frequent communication and similar message communication with other conspirators. Based on graph theory, we introduce two concepts, Suspicion parameter and Crime centrality to quantity the suspicious degree of a person in the network. Then we use Topsis algorithm to prioritize the conspiracy scheme possibility of a person What’s more, we can find \textbf{Seeni} is the most potentially criminal leader in this case by analyzing the topics of conversations he has with the known conspirators and the suspicious message he has. 
+
+	For the second requirement, when topic 1 are considered as suspicious question and Chris converts to be conspirator, we get a new ranking list and compare it to the ranking list before.
+
+	For the third requirement, semantic network analysis is employed to enhance the sensitivity of our model. Thus, we can abstract key words from message flows to gather the information we need. After this, we get another ranking lists of the conspirator possibility. Comparing to the ranking list before, we come to several interesting conclusions. What’s more, the suspicious leader of this conspiracy crime remains unchanged.
+ 
+	After that, we apply our model in other fields which differ from criminal network. Under different circumstances, we add other parameters to improve the accuracy. Using the graph theory, we state a general approach to identify, prioritize, and categorize similar nodes in a network. 
+
+	Finally, the strengths and weaknesses of the model are discussed, and the future work is pointed out.
 
 \vspace{5cm}
 
@@ -187,16 +196,28 @@ CN_i = \frac{\sum CC_j}{\sum_{k=all} CC_k} , dis(i,j) \le 1
 \section{Semantic Network Analysis}
 	Because the leader provides us with the text evidence about the case，we introduce semantic network analysis to obtain and understand this message traffic. Based on the conversation we accumulate, we abstract the key words in each part. Then we sort out the simple semantic network with these key topics. The text connection of the people who have been identified are shown in Figure \ref{F1}.
 
-\begin{figure}[!htb]
-\centering
-\includegraphics[width=5cm]{netwrok1.png}
-\includegraphics[width=2cm]{white.png}
-\includegraphics[width=5cm]{network2.png}
-\caption{\textbf{the Semantic Network}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%图形排版样式4：两个图片并列，分别取名
+%图形排版时名称一般都在下方
+\begin{figure}
+\begin{center}
+\begin{minipage}[c]{0.5\textwidth}
+\centering\includegraphics[width=6cm,height=6cm]{netwrok1.png}%就在前面括号中写图片名
+\renewcommand{\figurename}{\textbf{Fig}}
+\caption{L}
 \label{F1}
+\end{minipage}%
+\begin{minipage}[c]{0.5\textwidth}
+\centering\includegraphics[width=6cm,height=6cm]{network2.png}%就在前面括号中写图片名
+\renewcommand{\figurename}{\textbf{Fig}}
+\caption{R}
+\label{F3}
+\end{minipage}
+\end{center}
 \end{figure}
+%
 
-	In Figure \ref{F1} the edges about suspicious plotting information are highlighted with red color. Then we can move these edges to simplify the figures. Then we can use the model in 4.1 and 4.2 to rank the probability of the conspiracy of people
+	In Figure \ref{F1} and Figure the edges about suspicious plotting information are highlighted with red color. Then we can move these edges to simplify the figures. Then we can use the model in 4.1 and 4.2 to rank the probability of the conspiracy of people
 
 \section{Conclusions}
 
@@ -251,7 +272,8 @@ CN_i = \frac{\sum CC_j}{\sum_{k=all} CC_k} , dis(i,j) \le 1
 
 From the Table \ref{2_7_8} and Table \ref{2_8_7}, we can conclude that:
 \begin{enumerate}
-\item People who have more connections with suspicious people rank higher in the table where we take the crime information into account.\item The fact that the core people in the crime network remains the same can show us that the leader position can be roughly analysed by the conversation frequency.
+\item People who have more connections with suspicious people rank higher in the table where we take the crime information into account.
+\item The fact that the core people in the crime network remains the same can show us that the leader position can be roughly analysed by the conversation frequency.
 \end{enumerate}
 
 \section{Further Analysis}
