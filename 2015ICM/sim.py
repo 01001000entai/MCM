@@ -1,4 +1,4 @@
-im
+
 import random
 import math
 //productive_capacity
@@ -115,7 +115,7 @@ class Human_Capital_Network():
                         self.add_edge(i,j)
 
 
-    def KM(self):
+    def KM(self).:
 
     def run(self, rate_of_leave):
         l = len(self.position)
